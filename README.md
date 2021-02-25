@@ -10,8 +10,8 @@ Online Education, Consulting, Data Analysis, Web Design, App Development, Bloggi
 
 ## Online Education Pages 👯
 
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/tirendazakademi)
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
+[![](https://img.shields.io/badge/YouTube-T%C3%BCrk%C3%A7e-Green)](https://www.youtube.com/tirendazakademi)
+[![](https://img.shields.io/badge/YouTube-English-Blue")](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
 [![](https://img.shields.io/badge/udemy-instructor-red)](https://www.udemy.com/user/tirendaz-akademi-2)
 
 ## Blog Pages ⚡
@@ -51,4 +51,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/tirendazakademi)
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
+
 -->
