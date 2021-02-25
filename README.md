@@ -17,7 +17,7 @@ Online Education, Consulting, Data Analysis, Web Design, App Development, Bloggi
 
 ## Blog Pages ⚡
 
-[![](https://img.shields.io/badge/Medium-T%C3%BCrk%C3%A7e-lime&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+[![](https://img.shields.io/badge/Medium-English-lime&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 [![](https://img.shields.io/badge/Medium-Türkçe-darkred.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
 ![Tirendaz Academy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&show_icons=true)
@@ -30,7 +30,7 @@ Online Education, Consulting, Data Analysis, Web Design, App Development, Bloggi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> </p>
 
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/cobanov)
+[![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)
 
 
 
