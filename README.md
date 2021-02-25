@@ -10,9 +10,9 @@ Online Education, Consulting, Data Analysis, Web Design, App Development, Bloggi
 
 ## Online Education Pages 👯
 
-[![](https://img.shields.io/badge/YouTube-T%C3%BCrk%C3%A7e-Green)](https://www.youtube.com/tirendazakademi)
-[![](https://img.shields.io/badge/YouTube-English-Blue")](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
-[![](https://img.shields.io/badge/udemy-instructor-red)](https://www.udemy.com/user/tirendaz-akademi-2)
+[![](https://img.shields.io/badge/YouTube-T%C3%BCrk%C3%A7e-blue)](https://www.youtube.com/tirendazakademi)
+[![](https://img.shields.io/badge/YouTube-English-red")](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
+[![](https://img.shields.io/badge/Udemy-Education-green)](https://www.udemy.com/user/tirendaz-akademi-2)
 
 ## Blog Pages ⚡
 
