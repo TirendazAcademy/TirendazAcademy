@@ -20,8 +20,6 @@ Online Education, Consulting, Data Analysis, Web Design, App Development, Bloggi
 [![](https://img.shields.io/badge/Medium-English-purple.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 [![](https://img.shields.io/badge/Medium-Türkçe-darkred.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
-![Tirendaz Academy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&show_icons=true)
-
 ## Social Media ⭐
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
@@ -31,6 +29,7 @@ Online Education, Consulting, Data Analysis, Web Design, App Development, Bloggi
 
 tirendaziletisim@gmail.com
 
+![Tirendaz Academy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> </p>
 
