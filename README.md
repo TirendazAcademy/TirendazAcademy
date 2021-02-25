@@ -19,9 +19,6 @@ Online education, Consulting, Data Analysis, Web Design, App Development, Bloggi
 ## Contact Me 📫
 
 [![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/TirendazAcademy)
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
-
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/tirendazakademi)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
