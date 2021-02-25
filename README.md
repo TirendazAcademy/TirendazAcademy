@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to Tirendaz Academy GitHub Page.
+### Hi There 👋 Welcome to Tirendaz Academy GitHub Page ✨
 
 ## Work Areas 🔭
 
