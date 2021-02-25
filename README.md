@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to Tirendaz Academy GitHub page. Tirendaz Academy offers consultancy services on data science, artificial intelligence, machine learning, deep learning, programming, web development, web design, provides online training, projects and writes blog posts.
+Welcome to Tirendaz Academy GitHub page. Tirendaz Academy offers consultancy services on data science, artificial intelligence, machine learning, deep learning, programming, web development, web design and bioinformatics provides online training, projects and writes blog posts.
 
 
 <!--
