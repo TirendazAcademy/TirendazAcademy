@@ -13,11 +13,11 @@ Online Education, Consulting, Data Analysis, Web Design, App Development, Bloggi
 
 [![](https://img.shields.io/badge/YouTube-Türkçe-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
 [![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
-[![](https://img.shields.io/badge/Udemy-Education-green?style=for-the-badge)](https://www.udemy.com/user/tirendaz-akademi-2)
+[![](https://img.shields.io/badge/Udemy-Education-darkgreen?style=for-the-badge)](https://www.udemy.com/user/tirendaz-akademi-2)
 
 ## Blog Pages ⚡
 
-[![](https://img.shields.io/badge/Medium-English-lime.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+[![](https://img.shields.io/badge/Medium-English-purple.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 [![](https://img.shields.io/badge/Medium-Türkçe-darkred.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
 ![Tirendaz Academy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&show_icons=true)
