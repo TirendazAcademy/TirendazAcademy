@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to Tirendaz Academy GitHub page. Tirendaz Academy offers consultancy services on data science, artificial intelligence, machine learning, deep learning, programming, web development, web design, provides online training, projects and writes blog posts.
+
+
 <!--
 **TirendazAcademy/TirendazAcademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
