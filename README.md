@@ -1,19 +1,20 @@
 ### Hi there 👋 Welcome to Tirendaz Academy GitHub Page.
 
-## Tirendaz Academy work areas 🔭
+## Work Areas 🔭
 
 Data Science, AI, Machine Learning, Deep Learning, Programming, Web & App Development, Web Design and Bioinformatics
 
-## Services offered by Tirendaz Academy 🌱
+## Services Offered🌱
 
 Online Education, Consulting, Data Analysis, Web Design, App Development, Blogging
 
-## Online Education Pages
+## Online Education Pages 👯
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/tirendazakademi)
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/tirendazacademy)
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
+[![](https://img.shields.io/badge/udemy-instructor-red)](https://www.udemy.com/user/tirendaz-akademi-2)
 
-## Blog Pages
+## Blog Pages ⚡
 
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
