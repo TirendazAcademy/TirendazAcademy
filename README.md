@@ -1,6 +1,7 @@
 ### Hi there 👋 Welcome to Tirendaz Academy GitHub Page.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> </p>
+[![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)
 
 Tirendaz Academy does projects related to . The services we offer are online training, consultancy, application development and blog posts.
 
@@ -18,7 +19,6 @@ Online education, Consulting, Data Analysis, Web Design, App Development, Bloggi
 
 ## Contact Me 📫
 
-[![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/tirendazakademi)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
