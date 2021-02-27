@@ -35,6 +35,26 @@ tirendaziletisim@gmail.com
 
 [![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)
 
+# Hi there 👋
+<h3> 🔭 I’m currently working on </h3>
+- <a href= 'https://rahul1999.medium.com/'> Medium Blog Posts </a>
+- <a href = 'https://www.realpythonproject.com/'> WordPress Blog </a>
+<h3> 🌱 I’m currently learning  </h3>
+- Data Science
+- Data Engineering
+- Azure and AWS
+<h3> 👯 I’m looking to collaborate on </h3>
+  
+- Technical Blog Posts
+- Projects related to ML/Data Science
+- Building Cool APIs
+<h3> 💬 Talk to me about </h3>
+- Pokemon
+- Shows to binge watch on Netflix 
+- Soccer :soccer:
+
+
+
 
 
 
