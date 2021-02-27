@@ -32,7 +32,7 @@
 [![](https://img.shields.io/badge/Medium-English-purple.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 [![](https://img.shields.io/badge/Medium-Turkish-darkred.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
-## Social Media ⭐
+## Social Media :smile:
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
@@ -47,11 +47,6 @@ tirendaziletisim@gmail.com
 
 [![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)
 
-
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 
