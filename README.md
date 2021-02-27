@@ -48,8 +48,10 @@ tirendaziletisim@gmail.com
 [![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tirendazacademy.tirendazacademy)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
