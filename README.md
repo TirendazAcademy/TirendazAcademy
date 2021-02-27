@@ -2,11 +2,23 @@
 
 ## Work Areas 🔭
 
-Data Science, AI, Machine Learning, Deep Learning, Programming, Web & App Development, Web Design and Bioinformatics
+- Data Science
+- AI
+- Machine Learning
+- Deep Learning
+- Programming
+- Web & App Development
+- Web Design 
+- Bioinformatics
 
 ## Services Offered 👍
 
-Online Education, Consulting, Data Analysis, Web Design, App Development, Blogging
+- Online Education
+- Consulting
+- Data Analysis
+- Web Design
+- App Development
+- Blogging
 
 ## Online Education Pages 🏬
 
