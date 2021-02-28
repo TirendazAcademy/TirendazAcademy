@@ -51,6 +51,12 @@ tirendaziletisim@gmail.com
 - [Important for Time Series in Pandas](https://medium.com/@tirendazacademy/important-for-time-series-in-pandas-c2c632175442?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
+### 📕 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+
 <br />
 <br />
 
