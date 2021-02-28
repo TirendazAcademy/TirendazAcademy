@@ -41,6 +41,15 @@
 
 tirendaziletisim@gmail.com
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+<br />
+
 ![Tirendaz Academy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> </p>
