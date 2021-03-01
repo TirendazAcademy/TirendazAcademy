@@ -48,7 +48,7 @@ tirendaziletisim@gmail.com
 - [Seaborn Tutorial](https://medium.com/swlh/seaborn-tutorial-2e749e084ad6?source=rss-b5cbb779640e------2)
 - [Matplotlib Tutorial for Beginners](https://medium.com/swlh/matplotlib-tutorial-for-beginners-2f07184668be?source=rss-b5cbb779640e------2)
 - [Introduction to Matplotlib](https://medium.com/star-gazers/introduction-to-matplotlib-ca6b1bba0049?source=rss-b5cbb779640e------2)
-- [Important for Time Series in Pandas](https://medium.com/@tirendazacademy/important-for-time-series-in-pandas-c2c632175442?source=rss-b5cbb779640e------2)
+- [Important for Time Series in Pandas](https://levelup.gitconnected.com/important-for-time-series-in-pandas-c2c632175442?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📕 Latest YouTube Videos
