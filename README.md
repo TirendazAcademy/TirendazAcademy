@@ -44,11 +44,11 @@ tirendaziletisim@gmail.com
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Line Plots in Python using Matplotlib](https://medium.datadriveninvestor.com/line-plots-in-python-using-matplotlib-e42b03edd39f?source=rss-b5cbb779640e------2)
 - [Data Visualization with Pandas and Seaborn](https://levelup.gitconnected.com/data-visualization-with-pandas-and-seaborn-5de444b567a0?source=rss-b5cbb779640e------2)
 - [Seaborn Tutorial](https://medium.com/swlh/seaborn-tutorial-2e749e084ad6?source=rss-b5cbb779640e------2)
 - [Matplotlib Tutorial for Beginners](https://medium.com/swlh/matplotlib-tutorial-for-beginners-2f07184668be?source=rss-b5cbb779640e------2)
 - [Introduction to Matplotlib](https://medium.com/star-gazers/introduction-to-matplotlib-ca6b1bba0049?source=rss-b5cbb779640e------2)
-- [Important for Time Series in Pandas](https://levelup.gitconnected.com/important-for-time-series-in-pandas-c2c632175442?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📕 Latest YouTube Videos
