@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "YOUTUBE-TR"
+          comment_tag_name: "YOUTUBETR"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCzH73XJRgK2EQ7COnG8DkyA"
           
         
