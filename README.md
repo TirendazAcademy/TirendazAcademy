@@ -59,9 +59,9 @@ tirendaziletisim@gmail.com
 
 ### 📕 Latest YouTube Videos (Turkish)
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE-TR:START -->
 
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE-TR:END -->
 
 
 <br />
