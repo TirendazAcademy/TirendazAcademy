@@ -71,7 +71,7 @@ tirendaziletisim@gmail.com
 <br />
 <br />
 
-![Tirendaz Academy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&show_icons=true)
+![Tirendaz Academy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&count_private=true&show_icons=true&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> </p>
 
@@ -84,8 +84,12 @@ tirendaziletisim@gmail.com
 
 
 
+
+
 <!--
 **TirendazAcademy/TirendazAcademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Tirendaz Academy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&show_icons=true)
 
 Here are some ideas to get you started:
 
