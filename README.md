@@ -60,6 +60,11 @@ tirendaziletisim@gmail.com
 ### 📕 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBE-TR:START -->
+- [PIPELINES | SCIKIT-LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=8UMDSfoi2KA)
+- [R PROGRAMLAMA DİLİ ÖĞRENELİM | RStudio KULLANIMI | R DERSLERİ](https://www.youtube.com/watch?v=WkUCPMTINnA)
+- [DEĞERLENDİRME METRİKLERİ (ÖLÇÜTLERİ) | SCIKIT LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=5U8hc4irdbQ)
+- [VERİ BİLİMİ NEDİR? | VERİ BİLİMİ PROJESİ ROLLERİ VE AŞAMALARI](https://www.youtube.com/watch?v=YhIkv04dbHI)
+- [MODEL İYİLEŞTİRME | SCIKIT LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=S1nxwkTJpo0)
 <!-- YOUTUBE-TR:END -->
 
 
