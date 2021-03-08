@@ -57,6 +57,12 @@ tirendaziletisim@gmail.com
 - [ONE-HOT-ENCODING | DUMMY VARIABLES IN FEATURE ENGINEERING | PYTHON MACHINE LEARNING](https://www.youtube.com/watch?v=Gh4DijnuX0o)
 <!-- YOUTUBE:END -->
 
+### 📕 Latest YouTube Videos (Turkish)
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
 
 <br />
 <br />
