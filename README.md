@@ -8,25 +8,21 @@
 
 [![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)
 
-
-## Online Education Pages 🏬
-
+## 🏬 Online Education Pages 
 
 [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
 [![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
 [![](https://img.shields.io/badge/Udemy-Education-darkgreen?style=for-the-badge)](https://www.udemy.com/user/tirendaz-akademi-2)
 
-## Blog Pages 📕
+## 📕 Blog Pages 
 
 [![](https://img.shields.io/badge/Medium-English-purple.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 [![](https://img.shields.io/badge/Medium-Turkish-darkred.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
-## Social Media :smile:
+## :smile: Social Media 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
-
-
 
 ### 📕 Latest Blog Posts
 
@@ -38,13 +34,13 @@
 - [Data Visualization with Pandas and Seaborn](https://levelup.gitconnected.com/data-visualization-with-pandas-and-seaborn-5de444b567a0?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
-### 📕 Latest YouTube Videos
+### 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [ONE-HOT-ENCODING | DUMMY VARIABLES IN FEATURE ENGINEERING | PYTHON MACHINE LEARNING](https://www.youtube.com/watch?v=Gh4DijnuX0o)
 <!-- YOUTUBE:END -->
 
-### 📕 Latest YouTube Videos (Turkish)
+### 📺 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
 - [PIPELINES | SCIKIT-LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=8UMDSfoi2KA)
@@ -54,7 +50,7 @@
 - [MODEL İYİLEŞTİRME | SCIKIT LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=S1nxwkTJpo0)
 <!-- YOUTUBETR:END -->
 
-## Work Areas 🔭
+## ✨ Work Areas 
 
 - Data Science
 - AI
@@ -65,7 +61,7 @@
 - Web Design 
 - Bioinformatics
 
-## Services Offered 👍
+## 👍 Services Offered 
 
 - Online Education
 - Consulting
@@ -80,7 +76,7 @@
 - Pytorch
 - Docker
 
-## Contact Me 📫
+## 📫 Contact Me 
 
 tirendaziletisim@gmail.com
 
