@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest blog post workflow (Turkish)
 on:
   schedule:
     # Runs every hour
@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: BLOG-POST-LIST
-          feed_list: "https://medium.com/feed/@tirendazacademy"
+          comment_tag_name: BLOG-POST-LIST-TR
+          feed_list: "https://medium.com/feed/@tirendazakademi"
