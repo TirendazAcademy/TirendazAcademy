@@ -16,8 +16,8 @@ jobs:
       - uses: actions/checkout@v2
       - uses: khaosdoctor/blog-post-workflow@master
         with:
-          comment_tag_name: BLOG-POST-LIST
+          comment_tag_name: MEDIUM
           feed_list: "https://medium.com/feed/@tirendazacademy"
         with:
-          comment_tag_name: BLOG-POST-LIST-TR
+          comment_tag_name: MEDIUM-TR
           feed_list: "https://medium.com/feed/@tirendazakademi"
