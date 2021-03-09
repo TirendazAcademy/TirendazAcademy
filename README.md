@@ -1,4 +1,4 @@
-# Hi There 👋 Welcome to Tirendaz Academy GitHub Page 😄
+# <p align="center"> Hi There 👋 Welcome to Tirendaz Academy GitHub Page 😄 </p>
 
 <br />
 
@@ -78,7 +78,7 @@
 
 ## 📫 Contact Me 
 
-tirendaziletisim@gmail.com
+tirendazcontactm@gmail.com
 
 <br />
 
