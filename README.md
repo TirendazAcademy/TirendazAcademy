@@ -1,7 +1,7 @@
+<div align="center">
 # Hi There 👋 Welcome to Tirendaz Academy GitHub Page 😄
 
 <br />
-
 
 <div align="center">
 
@@ -11,9 +11,6 @@
 
 [![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)
 
-</div>
-
-*****
 
 ## 🏬 **Online Education Pages**
 
@@ -31,7 +28,6 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
 
-******
 
 ### 📕 **Latest Blog Posts**
 
@@ -59,8 +55,6 @@
 - [MODEL İYİLEŞTİRME | SCIKIT LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=S1nxwkTJpo0)
 <!-- YOUTUBETR:END -->
 
-*****
-
 ## ✨ **Work Areas**
 
 - Data Science
@@ -87,11 +81,14 @@
 - Pytorch
 - Docker
 
-<br />
-
 ## 📫 **Contact Me** 
 
 tirendaziletisim@gmail.com
+
+</div>
+
+
+
 
 <!--
 **TirendazAcademy/TirendazAcademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
