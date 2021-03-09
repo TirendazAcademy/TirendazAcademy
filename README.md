@@ -1,24 +1,11 @@
 # Hi There 👋 Welcome to Tirendaz Academy GitHub Page 😄
 
-## Work Areas 🔭
+![Tirendaz Academy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&count_private=true&show_icons=true&theme=radical)
 
-- Data Science
-- AI
-- Machine Learning
-- Deep Learning
-- Programming
-- Web & App Development
-- Web Design 
-- Bioinformatics
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> </p>
 
-## Services Offered 👍
+[![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)
 
-- Online Education
-- Consulting
-- Data Analysis
-- Web Design
-- App Development
-- Blogging
 
 ## Online Education Pages 🏬
 
@@ -37,9 +24,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
 
-## Contact Me 📫
 
-tirendaziletisim@gmail.com
 
 ### 📕 Latest Blog Posts
 
@@ -67,24 +52,38 @@ tirendaziletisim@gmail.com
 - [MODEL İYİLEŞTİRME | SCIKIT LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=S1nxwkTJpo0)
 <!-- YOUTUBETR:END -->
 
-
 <br />
 <br />
 
-![Tirendaz Academy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&count_private=true&show_icons=true&theme=radical)
+## Work Areas 🔭
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> </p>
+- Data Science
+- AI
+- Machine Learning
+- Deep Learning
+- Programming
+- Web & App Development
+- Web Design 
+- Bioinformatics
 
-[![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)
+## Services Offered 👍
 
+- Online Education
+- Consulting
+- Data Analysis
+- Web Design
+- App Development
+- Blogging
 
+## 🔭 I’m currently working on
 
+- Bioinformatics
+- Pytorch
+- Docker
 
+## Contact Me 📫
 
-
-
-
-
+tirendaziletisim@gmail.com
 
 <!--
 **TirendazAcademy/TirendazAcademy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
