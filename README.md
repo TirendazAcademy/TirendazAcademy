@@ -1,5 +1,7 @@
 # Hi There 👋 Welcome to Tirendaz Academy GitHub Page 😄
 
+<br />
+
 ![Tirendaz Academy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&count_private=true&show_icons=true&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> </p>
@@ -51,9 +53,6 @@
 - [VERİ BİLİMİ NEDİR? | VERİ BİLİMİ PROJESİ ROLLERİ VE AŞAMALARI](https://www.youtube.com/watch?v=YhIkv04dbHI)
 - [MODEL İYİLEŞTİRME | SCIKIT LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=S1nxwkTJpo0)
 <!-- YOUTUBETR:END -->
-
-<br />
-<br />
 
 ## Work Areas 🔭
 
