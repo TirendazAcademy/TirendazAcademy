@@ -49,7 +49,7 @@
 - [ONE-HOT-ENCODING | DUMMY VARIABLES IN FEATURE ENGINEERING | PYTHON MACHINE LEARNING](https://www.youtube.com/watch?v=Gh4DijnuX0o)
 <!-- YOUTUBE:END -->
 
-## 📺 Latest YouTube Videos (Turkish)
+## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
 - [PIPELINES | SCIKIT-LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=8UMDSfoi2KA)
