@@ -34,11 +34,6 @@
 - [GPT — 3 NEDİR?](https://medium.com/@tirendazakademi/gpt-3-nedi%CC%87r-db5ed321edbb?source=rss-e9566c9f34a3------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 📕 Latest Blog Posts (Turkish)
-
-<!-- BLOG-POST-LIST-TR:START -->
-<!-- BLOG-POST-LIST-TR:END -->
-
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
