@@ -1,4 +1,3 @@
-<div align="center">
 # Hi There 👋 Welcome to Tirendaz Academy GitHub Page 😄
 
 <br />
@@ -7,9 +6,7 @@
 
 ![Tirendaz Academy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&count_private=true&show_icons=true&theme=radical)
 
- <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> 
 
-[![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)
 
 
 ## 🏬 **Online Education Pages**
@@ -17,6 +14,8 @@
 [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
 [![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
 [![](https://img.shields.io/badge/Udemy-Education-darkgreen?style=for-the-badge)](https://www.udemy.com/user/tirendaz-akademi-2)
+
+</div>
 
 ## 📕 **Blog Pages**
 
@@ -85,7 +84,11 @@
 
 tirendaziletisim@gmail.com
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> 
+
+<p align="left"> [![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)  </p>
+
+
 
 
 
@@ -97,7 +100,7 @@ tirendaziletisim@gmail.com
 
 Here are some ideas to get you started:
 
-<p align="center"> </p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
