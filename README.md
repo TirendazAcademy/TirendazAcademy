@@ -2,7 +2,8 @@
 
 <br />
 
-<p align="center">
+
+<div class="myWrapper" markdown="1">
 
 ![Tirendaz Academy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&count_private=true&show_icons=true&theme=radical)
 
@@ -10,7 +11,9 @@
 
 [![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)
 
-</p>
+</div>
+
+<br />
 
 ## 🏬 Online Education Pages 
 
@@ -27,6 +30,8 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
+
+<br />
 
 ### 📕 Latest Blog Posts
 
@@ -54,6 +59,8 @@
 - [MODEL İYİLEŞTİRME | SCIKIT LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=S1nxwkTJpo0)
 <!-- YOUTUBETR:END -->
 
+<br />
+
 ## ✨ Work Areas 
 
 - Data Science
@@ -80,6 +87,8 @@
 - Pytorch
 - Docker
 
+<br />
+
 ## 📫 Contact Me 
 
 tirendaziletisim@gmail.com
@@ -90,6 +99,8 @@ tirendaziletisim@gmail.com
 ![Tirendaz Academy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&show_icons=true)
 
 Here are some ideas to get you started:
+
+<p align="center"> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
