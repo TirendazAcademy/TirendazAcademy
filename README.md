@@ -6,25 +6,25 @@
 
 ![Tirendaz Academy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&count_private=true&show_icons=true&theme=radical)
 
-## 🏬 **Online Education Pages**
+## 🏬 Online Education Pages
 
 [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/tirendazakademi)
 [![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFU9Go20p01kC64w-tmFORw)
 [![](https://img.shields.io/badge/Udemy-Education-darkgreen?style=for-the-badge)](https://www.udemy.com/user/tirendaz-akademi-2)
 
-## 📕 **Blog Pages**
+## 📕 Blog Pages
 
 [![](https://img.shields.io/badge/Medium-English-purple.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 [![](https://img.shields.io/badge/Medium-Turkish-darkred.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
-## :smile: **Social Media** 
+## :smile: Social Media
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
 
 </div>
 
-### 📕 **Latest Blog Posts**
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Scatter Plot with Matplotlib in Python](https://levelup.gitconnected.com/scatter-plot-with-matplotlib-in-python-abb1a6ad042?source=rss-b5cbb779640e------2)
@@ -34,13 +34,13 @@
 - [Data Visualization with Pandas and Seaborn](https://levelup.gitconnected.com/data-visualization-with-pandas-and-seaborn-5de444b567a0?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
-### 💻 **Latest YouTube Videos**
+## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [ONE-HOT-ENCODING | DUMMY VARIABLES IN FEATURE ENGINEERING | PYTHON MACHINE LEARNING](https://www.youtube.com/watch?v=Gh4DijnuX0o)
 <!-- YOUTUBE:END -->
 
-### 📺 **Latest YouTube Videos (Turkish)**
+## 📺 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
 - [PIPELINES | SCIKIT-LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=8UMDSfoi2KA)
@@ -70,7 +70,7 @@
 - App Development
 - Blogging
 
-## 🔭 **I’m currently working on**
+## 🔭 I’m currently working on
 
 - Bioinformatics
 - Pytorch
@@ -80,7 +80,7 @@
 
 tirendaziletisim@gmail.com
 
-*****
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> 
 
