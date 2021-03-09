@@ -35,8 +35,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
-<!-- MEDIUM-TR:START -->
-<!-- MEDIUM-TR:END -->
+<!-- BLOG-POST-LIST-TR:START -->
+<!-- BLOG-POST-LIST-TR:END -->
 
 ## 💻 Latest YouTube Videos
 
