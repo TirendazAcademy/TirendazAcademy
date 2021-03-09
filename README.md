@@ -27,15 +27,14 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VERİ BİLİMİ NASIL ÖĞRENİLİR?](https://medium.com/@tirendazakademi/veri%CC%87-bi%CC%87li%CC%87mi%CC%87-nasil-%C3%B6%C4%9Freni%CC%87li%CC%87r-f959ef0c323f?source=rss-e9566c9f34a3------2)
-- [VERİ BİLİMİ NEDİR? (DİLLER-KÜTÜPHANELER-ARAÇLAR)](https://medium.com/@tirendazakademi/veri%CC%87-bi%CC%87li%CC%87mi%CC%87-nedi%CC%87r-di%CC%87ller-k%C3%BCt%C3%BCphaneler-ara%C3%A7lar-8e3f908e96c8?source=rss-e9566c9f34a3------2)
-- [KERAS İLE YAPAY SİNİR AĞLARI](https://medium.com/@tirendazakademi/keras-i%CC%87le-yapay-si%CC%87ni%CC%87r-a%C4%9Flari-fb6b3e72070f?source=rss-e9566c9f34a3------2)
-- [PYTHON DJANGO NEDİR? & NASIL YÜKLENİR?](https://medium.com/@tirendazakademi/python-django-nedi%CC%87r-nasil-y%C3%BCkleni%CC%87r-863ef7a492da?source=rss-e9566c9f34a3------2)
-- [GPT — 3 NEDİR?](https://medium.com/@tirendazakademi/gpt-3-nedi%CC%87r-db5ed321edbb?source=rss-e9566c9f34a3------2)
+- [Scatter Plot with Matplotlib in Python](https://levelup.gitconnected.com/scatter-plot-with-matplotlib-in-python-abb1a6ad042?source=rss-b5cbb779640e------2)
+- [Bar Plot with Matplotlib in Python](https://levelup.gitconnected.com/bar-plot-with-matplotlib-in-python-aa98f2493847?source=rss-b5cbb779640e------2)
+- [Histograms with Matplotlib in Python](https://medium.com/swlh/histograms-with-matplotlib-in-python-fc6702a9cb9b?source=rss-b5cbb779640e------2)
+- [Line Plots in Python using Matplotlib](https://medium.datadriveninvestor.com/line-plots-in-python-using-matplotlib-e42b03edd39f?source=rss-b5cbb779640e------2)
+- [Data Visualization with Pandas and Seaborn](https://levelup.gitconnected.com/data-visualization-with-pandas-and-seaborn-5de444b567a0?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 📕 Latest Blog Posts (Turkish)
-
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST-TR:START -->
 <!-- BLOG-POST-LIST-TR:END -->
 
