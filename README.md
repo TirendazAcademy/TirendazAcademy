@@ -82,7 +82,7 @@ tirendaziletisim@gmail.com
 
 <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> 
 
-<p align="left"> [![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)  </p>
+[![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)  
 
 
 
@@ -96,7 +96,7 @@ tirendaziletisim@gmail.com
 
 Here are some ideas to get you started:
 
-
+<p align="left"> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
