@@ -1,9 +1,12 @@
-name: Latest blog post workflow
+name: Update blog posts
 on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
-  workflow_dispatch:
+    
 
 jobs:
   update-readme-with-blog:
@@ -11,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: khaosdoctor/blog-post-workflow@master
         with:
           comment_tag_name: BLOG-POST-LIST
           feed_list: "https://medium.com/feed/@tirendazacademy"
