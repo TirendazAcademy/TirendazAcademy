@@ -76,7 +76,7 @@
 - Pytorch
 - Docker
 
-## 📫 Contact Me 
+## 📫 Contact Us 
 
 tirendazcontact@gmail.com
 
