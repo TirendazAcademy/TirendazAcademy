@@ -76,9 +76,11 @@
 - Pytorch
 - Docker
 
-## 📫 **Contact Me** 
+## 📫 Contact Me 
 
 tirendaziletisim@gmail.com
+
+*****
 
 <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> 
 
