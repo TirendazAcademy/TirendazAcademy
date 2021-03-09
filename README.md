@@ -78,7 +78,7 @@
 
 ## 📫 Contact Me 
 
-tirendazcontactm@gmail.com
+tirendazcontact@gmail.com
 
 <br />
 
