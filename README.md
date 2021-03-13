@@ -82,7 +82,7 @@
 ## 🔭 I’m currently working on
 
 - Bioinformatics
-- Pytorch
+- MLOps
 - Docker
 
 ## 📫 Contact Us 
