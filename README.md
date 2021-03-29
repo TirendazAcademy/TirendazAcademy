@@ -27,11 +27,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Visualization with Pandas in Action -Part 2](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-part-2-2cc8674da1d0?source=rss-b5cbb779640e------2)
 - [Data Visualization with Pandas in Action](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-1-98582b69ee8b?source=rss-b5cbb779640e------2)
 - [Scatter Plot with Matplotlib in Python](https://levelup.gitconnected.com/scatter-plot-with-matplotlib-in-python-abb1a6ad042?source=rss-b5cbb779640e------2)
 - [Bar Plot with Matplotlib in Python](https://levelup.gitconnected.com/bar-plot-with-matplotlib-in-python-aa98f2493847?source=rss-b5cbb779640e------2)
 - [Histograms with Matplotlib in Python](https://medium.com/swlh/histograms-with-matplotlib-in-python-fc6702a9cb9b?source=rss-b5cbb779640e------2)
-- [Line Plots in Python using Matplotlib](https://medium.datadriveninvestor.com/line-plots-in-python-using-matplotlib-e42b03edd39f?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
