@@ -52,11 +52,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [1 VİDEODA PANDAS KÜTÜPHANESİ | PYTHON PANDAS DERSLERİ](https://www.youtube.com/watch?v=Y4BolLLa-Hc)
 - [METİN MADENCİLİĞİ | SCIKIT LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=JnAOuZ94y68)
 - [PIPELINES | SCIKIT-LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=8UMDSfoi2KA)
 - [R PROGRAMLAMA DİLİ ÖĞRENELİM | RStudio KULLANIMI | R DERSLERİ](https://www.youtube.com/watch?v=WkUCPMTINnA)
 - [DEĞERLENDİRME METRİKLERİ (ÖLÇÜTLERİ) | SCIKIT LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=5U8hc4irdbQ)
-- [VERİ BİLİMİ NEDİR? | VERİ BİLİMİ PROJESİ ROLLERİ VE AŞAMALARI](https://www.youtube.com/watch?v=YhIkv04dbHI)
 <!-- YOUTUBETR:END -->
 
 ## ✨ **Work Areas**
