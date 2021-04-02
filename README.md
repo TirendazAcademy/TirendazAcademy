@@ -36,11 +36,11 @@
 
 ## 📕 Latest Blog Posts (Turkish)
 <!-- BLOG-POST-LIST-TR:START -->
+- [TensorFlow ve Keras ile Regresyon Analizi | Model İşlemleri](https://tirendazakademi.medium.com/tensorflow-ve-keras-ile-regresyon-analizi-model-i%CC%87%C5%9Flemleri-6bf6c526f1cb?source=rss-e9566c9f34a3------2)
 - [VERİ BİLİMİ NASIL ÖĞRENİLİR?](https://tirendazakademi.medium.com/veri%CC%87-bi%CC%87li%CC%87mi%CC%87-nasil-%C3%B6%C4%9Freni%CC%87li%CC%87r-f959ef0c323f?source=rss-e9566c9f34a3------2)
 - [VERİ BİLİMİ NEDİR? (DİLLER-KÜTÜPHANELER-ARAÇLAR)](https://tirendazakademi.medium.com/veri%CC%87-bi%CC%87li%CC%87mi%CC%87-nedi%CC%87r-di%CC%87ller-k%C3%BCt%C3%BCphaneler-ara%C3%A7lar-8e3f908e96c8?source=rss-e9566c9f34a3------2)
 - [KERAS İLE YAPAY SİNİR AĞLARI](https://tirendazakademi.medium.com/keras-i%CC%87le-yapay-si%CC%87ni%CC%87r-a%C4%9Flari-fb6b3e72070f?source=rss-e9566c9f34a3------2)
 - [PYTHON DJANGO NEDİR? & NASIL YÜKLENİR?](https://tirendazakademi.medium.com/python-django-nedi%CC%87r-nasil-y%C3%BCkleni%CC%87r-863ef7a492da?source=rss-e9566c9f34a3------2)
-- [GPT — 3 NEDİR?](https://tirendazakademi.medium.com/gpt-3-nedi%CC%87r-db5ed321edbb?source=rss-e9566c9f34a3------2)
 <!-- BLOG-POST-LIST-TR:END -->
 
 ## 💻 Latest YouTube Videos
