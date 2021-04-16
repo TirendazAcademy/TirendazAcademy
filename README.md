@@ -27,11 +27,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Image Classification with TensorFlow 2](https://tirendazacademy.medium.com/image-classification-with-tensorflow-2-54fc601dfb6a?source=rss-b5cbb779640e------2)
 - [Introduction to Deep Learning with TensorFlow 2](https://levelup.gitconnected.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=rss-b5cbb779640e------2)
 - [Data Visualization with Pandas in Action (Part 2)](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-part-2-2cc8674da1d0?source=rss-b5cbb779640e------2)
 - [Data Visualization with Pandas in Action](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-1-98582b69ee8b?source=rss-b5cbb779640e------2)
 - [Scatter Plot with Matplotlib in Python](https://levelup.gitconnected.com/scatter-plot-with-matplotlib-in-python-abb1a6ad042?source=rss-b5cbb779640e------2)
-- [Bar Plot with Matplotlib in Python](https://levelup.gitconnected.com/bar-plot-with-matplotlib-in-python-aa98f2493847?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
