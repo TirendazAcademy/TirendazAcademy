@@ -36,11 +36,11 @@
 
 ## 📕 Latest Blog Posts (Turkish)
 <!-- BLOG-POST-LIST-TR:START -->
+- [Doğal Dil İşlemeye (NLP) Giriş](https://tirendazakademi.medium.com/do%C4%9Fal-dil-i%CC%87%C5%9Flemeye-nlp-giri%C5%9F-214182725629?source=rss-e9566c9f34a3------2)
 - [TensorFlow 2 ile Resim Sınıflandırma](https://tirendazakademi.medium.com/tensorflow-2-ile-resim-s%C4%B1n%C4%B1fland%C4%B1rma-ae9670390254?source=rss-e9566c9f34a3------2)
 - [TensorFlow 2 ile Derin Öğrenmeye Giriş](https://tirendazakademi.medium.com/tensorflow-2-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-a1cb466a473c?source=rss-e9566c9f34a3------2)
 - [Markdown Kullanım Rehberi](https://tirendazakademi.medium.com/markdown-kullan%C4%B1m-rehberi-dcf79e150b5f?source=rss-e9566c9f34a3------2)
 - [TensorFlow ve Keras ile Regresyon Analizi | Model İşlemleri](https://tirendazakademi.medium.com/tensorflow-ve-keras-ile-regresyon-analizi-model-i%CC%87%C5%9Flemleri-6bf6c526f1cb?source=rss-e9566c9f34a3------2)
-- [VERİ BİLİMİ NASIL ÖĞRENİLİR?](https://tirendazakademi.medium.com/veri%CC%87-bi%CC%87li%CC%87mi%CC%87-nasil-%C3%B6%C4%9Freni%CC%87li%CC%87r-f959ef0c323f?source=rss-e9566c9f34a3------2)
 <!-- BLOG-POST-LIST-TR:END -->
 
 ## 💻 Latest YouTube Videos
