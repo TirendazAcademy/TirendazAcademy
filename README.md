@@ -46,6 +46,7 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tirendaz Academy Promotional Video](https://www.youtube.com/watch?v=ifRbYRYj9Kk)
 - [4 Feature Selection Algorithms | Machine Learning Tutorial with Python](https://www.youtube.com/watch?v=857SKdW-Pvg)
 - [ONE-HOT-ENCODING | DUMMY VARIABLES IN FEATURE ENGINEERING | PYTHON MACHINE LEARNING](https://www.youtube.com/watch?v=Gh4DijnuX0o)
 <!-- YOUTUBE:END -->
