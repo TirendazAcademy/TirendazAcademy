@@ -55,11 +55,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [TİRENDAZ AKADEMİ TANITIM](https://www.youtube.com/watch?v=hIVsWQFbIdw)
 - [1 VİDEODA R PROGRAMLAMA DİLİ | VERİ ANALİZİ ÖRNEKLERİ | KOMPLE EĞİTİM](https://www.youtube.com/watch?v=VUkHNM4hVvI)
 - [1 VİDEODA PANDAS KÜTÜPHANESİ | PYTHON PANDAS DERSLERİ](https://www.youtube.com/watch?v=Y4BolLLa-Hc)
 - [METİN MADENCİLİĞİ | SCIKIT LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=JnAOuZ94y68)
 - [PIPELINES | SCIKIT-LEARN | PYTHON MAKİNE ÖĞRENMESİ DERSLERİ](https://www.youtube.com/watch?v=8UMDSfoi2KA)
-- [R PROGRAMLAMA DİLİ ÖĞRENELİM | RStudio KULLANIMI | R DERSLERİ](https://www.youtube.com/watch?v=WkUCPMTINnA)
 <!-- YOUTUBETR:END -->
 
 ## ✨ **Work Areas**
