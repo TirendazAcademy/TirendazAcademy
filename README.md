@@ -36,11 +36,11 @@
 
 ## 📕 Latest Blog Posts (Turkish)
 <!-- BLOG-POST-LIST-TR:START -->
+- [C# Değişken & Metot Tanımlama | Unity ile C Sharp Dersleri](https://tirendazakademi.medium.com/c-de%C4%9Fi%C5%9Fken-metot-tan%C4%B1mlama-unity-ile-c-sharp-dersleri-89d7b4a4931a?source=rss-e9566c9f34a3------2)
 - [C# Değişken & Metot & Sınıf Nedir? | Unity ile C Sharp Dersleri](https://tirendazakademi.medium.com/de%C4%9Fi%C5%9Fken-metot-s%C4%B1n%C4%B1f-nedir-unity-ile-c-dersleri-28d85522d536?source=rss-e9566c9f34a3------2)
 - [Unity Nedir | İndirme & Kurulum | Unity Kullanımı](https://tirendazakademi.medium.com/unity-nedir-i%CC%87ndirme-kurulum-unity-kullan%C4%B1m%C4%B1-3ee35cca63b5?source=rss-e9566c9f34a3------2)
 - [R Programlama Nedir? | Nasıl Kurulur?](https://tirendazakademi.medium.com/r-programlama-nedir-nas%C4%B1l-kurulur-920dfc5fa97d?source=rss-e9566c9f34a3------2)
 - [Doğal Dil İşlemeye (NLP) Giriş](https://medium.com/devopsturkiye/do%C4%9Fal-dil-i%CC%87%C5%9Flemeye-nlp-giri%C5%9F-214182725629?source=rss-e9566c9f34a3------2)
-- [TensorFlow 2 ile Resim Sınıflandırma](https://tirendazakademi.medium.com/tensorflow-2-ile-resim-s%C4%B1n%C4%B1fland%C4%B1rma-ae9670390254?source=rss-e9566c9f34a3------2)
 <!-- BLOG-POST-LIST-TR:END -->
 
 ## 💻 Latest YouTube Videos
