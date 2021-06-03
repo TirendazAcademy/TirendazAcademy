@@ -55,11 +55,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [UNITY & C# İLE OYUN YAPMA DERSLERİ #1 | 2D 3D OYUN GELİŞTİRME | Kurulum - Giriş 2021](https://www.youtube.com/watch?v=n5ZflJVTXXw)
 - [TENSORFLOW & KERAS İLE BİLGİSAYAR GÖRÜŞÜNE GİRİŞ | Python Derin Öğrenme | Yapay Zeka Dersleri](https://www.youtube.com/watch?v=ySY4l37HUis)
 - [TENSORFLOW & KERAS ile DERİN ÖĞRENME'ye Giriş | Python Yapay Zeka Dersleri](https://www.youtube.com/watch?v=4riOrmGuq6w)
 - [TİRENDAZ AKADEMİ TANITIM](https://www.youtube.com/watch?v=hIVsWQFbIdw)
 - [1 VİDEODA R PROGRAMLAMA DİLİ DERSLERİ | VERİ ANALİZİ ÖRNEKLERİ | KOMPLE EĞİTİM](https://www.youtube.com/watch?v=VUkHNM4hVvI)
-- [1 VİDEODA PANDAS KÜTÜPHANESİ | PYTHON PANDAS DERSLERİ](https://www.youtube.com/watch?v=Y4BolLLa-Hc)
 <!-- YOUTUBETR:END -->
 
 ## ✨ **Work Areas**
