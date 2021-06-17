@@ -1,6 +1,5 @@
 # <p align="center"> Hi There 👋 Welcome to Tirendaz Academy GitHub Page 😄 </p>
 
-<br />
 
 <div align="center">
 
@@ -19,6 +18,8 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
+  
+<br />
   
 ![Tirendaz Academy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TirendazAcademy&count_private=true&show_icons=true&theme=radical)
 
