@@ -56,11 +56,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [C SHARP NESNE TABANLI (YÖNEMLİ) PROGRAMLAMA - 2 | Unity & C# Dersleri](https://www.youtube.com/watch?v=YtNKTF5HCRM)
 - [C SHARP NESNE TABANLI (Yönelimli) PROGRAMLAMA - 1 | Unity & C# Dersleri](https://www.youtube.com/watch?v=alBO2AQDGbo)
 - [KARAR & DÖNGÜ DEYİMLERİ | KOLLEKSİYONLAR (Dizi Liste Sözlük) | Unity & C# Dersleri](https://www.youtube.com/watch?v=S3b67mBTuqc)
 - [DEĞİŞKEN TANIMLAMA & METOT OLUŞTURMA | VERİ TİPLERİ | Unity & C# Dersleri](https://www.youtube.com/watch?v=FpY0XoKMqzM)
 - [DEĞİŞKEN OLUŞTURMA & METOT TANIMLAMA & SINIF ÖRNEKLERİ | Unity & C# Dersleri](https://www.youtube.com/watch?v=zPilnfEjWV8)
-- [UNITY & C# İLE OYUN YAPMA DERSLERİ | 2D 3D OYUN GELİŞTİRME | Kurulum - Giriş 2021](https://www.youtube.com/watch?v=n5ZflJVTXXw)
 <!-- YOUTUBETR:END -->
 
 ## ✨ **Work Areas**
