@@ -56,11 +56,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [KAMERA HAREKET TAKİP ÇARPIŞMA (Colliders Collisions) | Unity & C# ile Oyun Yapma Dersleri](https://www.youtube.com/watch?v=BmkhTYCgY_8)
 - [Kod Yazmadan Unity Editör | Unity & C# ile Oyun Yapma Dersleri](https://www.youtube.com/watch?v=TRUOKIDhGBI)
 - [C SHARP NESNE TABANLI (Yönemli) PROGRAMLAMA - 2 | Unity & C# Dersleri](https://www.youtube.com/watch?v=YtNKTF5HCRM)
 - [C SHARP NESNE TABANLI (Yönelimli) PROGRAMLAMA - 1 | Unity & C# Dersleri](https://www.youtube.com/watch?v=alBO2AQDGbo)
 - [KARAR & DÖNGÜ DEYİMLERİ | KOLLEKSİYONLAR (Dizi Liste Sözlük) | Unity & C# Dersleri](https://www.youtube.com/watch?v=S3b67mBTuqc)
-- [DEĞİŞKEN TANIMLAMA & METOT OLUŞTURMA | VERİ TİPLERİ | Unity & C# Dersleri](https://www.youtube.com/watch?v=FpY0XoKMqzM)
 <!-- YOUTUBETR:END -->
 
 ## ✨ **Work Areas**
