@@ -56,11 +56,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [10,000 Aboneye Ulaştık. Tüm Tirendaz Canlara Milyon Kez Teşekkürler...](https://www.youtube.com/watch?v=3h0766Q-fzc)
 - [KAMERA HAREKET TAKİP ÇARPIŞMA (Colliders Collisions) | Unity & C# ile Oyun Yapma Dersleri](https://www.youtube.com/watch?v=BmkhTYCgY_8)
 - [Kod Yazmadan Unity Editör | Unity & C# ile Oyun Yapma Dersleri](https://www.youtube.com/watch?v=TRUOKIDhGBI)
 - [C SHARP NESNE TABANLI (Yönemli) PROGRAMLAMA - 2 | Unity & C# Dersleri](https://www.youtube.com/watch?v=YtNKTF5HCRM)
 - [C SHARP NESNE TABANLI (Yönelimli) PROGRAMLAMA - 1 | Unity & C# Dersleri](https://www.youtube.com/watch?v=alBO2AQDGbo)
-- [KARAR & DÖNGÜ DEYİMLERİ | KOLLEKSİYONLAR (Dizi Liste Sözlük) | Unity & C# Dersleri](https://www.youtube.com/watch?v=S3b67mBTuqc)
 <!-- YOUTUBETR:END -->
 
 ## ✨ **Work Areas**
