@@ -83,19 +83,21 @@
 - App Development
 - Blogging
 
-## 🔭 **Trainings we are working on **
+## 🔭 Trainings we are working on
 
-- Bioinformatics
+- PyTorch
 - MLOps
 - Docker
+- Cloud Computing
+- Bioinformatics
 
-## 📫 ** Contact Us ** 
+## 📫 Contact Us
 
 tirendazcontact@gmail.com
 
 <br />
 
-## 🎯 ** Website **
+## 🎯 Website
 
 https://tirendazacademy.github.io
 
