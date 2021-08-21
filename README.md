@@ -83,7 +83,7 @@
 - App Development
 - Blogging
 
-## 🔭 I’m currently working on
+## 🔭 Trainings we are working on
 
 - Bioinformatics
 - MLOps
@@ -94,6 +94,13 @@
 tirendazcontact@gmail.com
 
 <br />
+
+## Website
+
+https://tirendazacademy.github.io
+
+<br />
+
 
 <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> 
 
