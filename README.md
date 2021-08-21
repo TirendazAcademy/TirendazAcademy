@@ -63,7 +63,7 @@
 - [C SHARP NESNE TABANLI (Yönelimli) PROGRAMLAMA - 1 | Unity & C# Dersleri](https://www.youtube.com/watch?v=alBO2AQDGbo)
 <!-- YOUTUBETR:END -->
 
-## ✨ **Work Areas**
+## ✏️ **Work Areas**
 
 - Data Science
 - AI
@@ -83,19 +83,19 @@
 - App Development
 - Blogging
 
-## 🔭 Trainings we are working on
+## 🔭 **Trainings we are working on **
 
 - Bioinformatics
 - MLOps
 - Docker
 
-## 📫 Contact Us 
+## 📫 ** Contact Us ** 
 
 tirendazcontact@gmail.com
 
 <br />
 
-## Website
+## 🎯 ** Website **
 
 https://tirendazacademy.github.io
 
