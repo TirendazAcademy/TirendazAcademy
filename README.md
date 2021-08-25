@@ -72,22 +72,26 @@
 - Programming
 - Web & App Development
 - Web Design 
+- MLOps
 - Bioinformatics
 
 ## 👍 **Services Offered**
 
 - Online Education
 - Consulting
+- Machine Learning 
 - Data Analysis
 - Web Design
 - App Development
 - Blogging
+- Deploying
 
 ## 🔭 Trainings we are working on
 
 - PyTorch
 - MLOps
 - Docker
+- Kubernetes
 - Cloud Computing
 - Bioinformatics
 
