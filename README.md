@@ -28,11 +28,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Data Pipelines with Python](https://medium.com/mlearning-ai/how-to-use-data-pipelines-with-python-a9b662fadec2?source=rss-b5cbb779640e------2)
 - [Sentiment Analysis with TensorFlow Hub](https://medium.com/codex/sentiment-analysis-with-tensorflow-hub-678c30ac79a2?source=rss-b5cbb779640e------2)
 - [Image Classification with TensorFlow 2](https://medium.com/mlearning-ai/image-classification-with-tensorflow-2-54fc601dfb6a?source=rss-b5cbb779640e------2)
 - [Introduction to Deep Learning with TensorFlow 2](https://levelup.gitconnected.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=rss-b5cbb779640e------2)
 - [Data Visualization with Pandas in Action (Part 2)](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-part-2-2cc8674da1d0?source=rss-b5cbb779640e------2)
-- [Data Visualization with Pandas in Action](https://levelup.gitconnected.com/data-visualization-with-pandas-in-action-1-98582b69ee8b?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
