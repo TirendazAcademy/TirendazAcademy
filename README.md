@@ -37,11 +37,11 @@
 
 ## 📕 Latest Blog Posts (Turkish)
 <!-- BLOG-POST-LIST-TR:START -->
+- [Python ile Data Pipeline (Veri Hattı)](https://medium.com/devopsturkiye/python-ile-data-pipeline-veri-hatt%C4%B1-d50b851b94a7?source=rss-e9566c9f34a3------2)
 - [TensorFlow Hub ile Duygu Analizi](https://tirendazakademi.medium.com/tensorflow-hub-ile-duygu-analizi-6dced48f48a6?source=rss-e9566c9f34a3------2)
 - [C# Nesne Tabanlı (Yönelimli) Programlama | Unity ile C Sharp Dersleri](https://tirendazakademi.medium.com/c-nesne-tabanl%C4%B1-y%C3%B6nelimli-programlama-unity-ile-c-sharp-dersleri-79fa52ac59c7?source=rss-e9566c9f34a3------2)
 - [C# Sınıf ve Struct | C Sharp Nesne Tabanlı (Yönelimli) Programlama](https://tirendazakademi.medium.com/c-s%C4%B1n%C4%B1f-ve-struct-c-sharp-nesne-tabanl%C4%B1-y%C3%B6nelimli-programlama-2135069faef?source=rss-e9566c9f34a3------2)
 - [C# Kontrol Deyimleri & Kolleksiyon Yapıları | Unity ile C Sharp Dersleri](https://tirendazakademi.medium.com/c-kontrol-deyimleri-kolleksiyon-yap%C4%B1lar%C4%B1-unity-ile-c-sharp-dersleri-facc626332e5?source=rss-e9566c9f34a3------2)
-- [C# Değişken & Metot Tanımlama | Unity ile C Sharp Dersleri](https://tirendazakademi.medium.com/c-de%C4%9Fi%C5%9Fken-metot-tan%C4%B1mlama-unity-ile-c-sharp-dersleri-89d7b4a4931a?source=rss-e9566c9f34a3------2)
 <!-- BLOG-POST-LIST-TR:END -->
 
 ## 💻 Latest YouTube Videos
