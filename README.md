@@ -56,11 +56,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [VERİ BİLİMİ için 10 PYTHON KÜTÜPHANESİ | Makine Öğrenmesi & Derin Öğrenme](https://www.youtube.com/watch?v=UMu_FPeVELk)
 - [MAKİNE ÖĞRENMESİ & DERİN ÖĞRENME ARASINDA 7 FARK | Yapay Zeka Dersleri](https://www.youtube.com/watch?v=ibeKsqpkP74)
 - [PYTHON PANDAS ile VERİ ANALİZİ | Pandas Dersleri](https://www.youtube.com/watch?v=zaxt3gUuGyc)
 - [TENSORFLOW İLE DUYGU ANALİZİ | Doğal Dil İşleme | Python Derin Öğrenme Dersleri](https://www.youtube.com/watch?v=XtHL13mBBIk)
 - [10,000 Aboneye Ulaştık. Tüm Tirendaz Canlara Milyon Kez Teşekkürler...](https://www.youtube.com/watch?v=3h0766Q-fzc)
-- [KAMERA HAREKET TAKİP ÇARPIŞMA (Colliders Collisions) | Unity & C# ile Oyun Yapma Dersleri](https://www.youtube.com/watch?v=BmkhTYCgY_8)
 <!-- YOUTUBETR:END -->
 
 ## ✏️ **Work Areas**
