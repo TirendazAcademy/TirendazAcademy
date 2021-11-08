@@ -38,10 +38,10 @@
 ## 📕 Latest Blog Posts (Turkish)
 <!-- BLOG-POST-LIST-TR:START -->
 - [Derin Öğrenme ve Makine Öğrenmesi Arasındaki 7 Fark](https://tirendazakademi.medium.com/derin-%C3%B6%C4%9Frenme-ve-makine-%C3%B6%C4%9Frenmesi-aras%C4%B1ndaki-7-fark-acb151d5975a?source=rss-e9566c9f34a3------2)
-- [Python ile Data Pipeline (Veri Hattı)](https://medium.com/devopsturkiye/python-ile-data-pipeline-veri-hatt%C4%B1-d50b851b94a7?source=rss-e9566c9f34a3------2)
+- [Python ile Data Pipeline &lpar;Veri Hattı&rpar;](https://medium.com/devopsturkiye/python-ile-data-pipeline-veri-hatt%C4%B1-d50b851b94a7?source=rss-e9566c9f34a3------2)
 - [TensorFlow Hub ile Duygu Analizi](https://tirendazakademi.medium.com/tensorflow-hub-ile-duygu-analizi-6dced48f48a6?source=rss-e9566c9f34a3------2)
-- [C# Nesne Tabanlı (Yönelimli) Programlama | Unity ile C Sharp Dersleri](https://tirendazakademi.medium.com/c-nesne-tabanl%C4%B1-y%C3%B6nelimli-programlama-unity-ile-c-sharp-dersleri-79fa52ac59c7?source=rss-e9566c9f34a3------2)
-- [C# Sınıf ve Struct | C Sharp Nesne Tabanlı (Yönelimli) Programlama](https://tirendazakademi.medium.com/c-s%C4%B1n%C4%B1f-ve-struct-c-sharp-nesne-tabanl%C4%B1-y%C3%B6nelimli-programlama-2135069faef?source=rss-e9566c9f34a3------2)
+- [C# Nesne Tabanlı &lpar;Yönelimli&rpar; Programlama | Unity ile C Sharp Dersleri](https://tirendazakademi.medium.com/c-nesne-tabanl%C4%B1-y%C3%B6nelimli-programlama-unity-ile-c-sharp-dersleri-79fa52ac59c7?source=rss-e9566c9f34a3------2)
+- [C# Sınıf ve Struct | C Sharp Nesne Tabanlı &lpar;Yönelimli&rpar; Programlama](https://tirendazakademi.medium.com/c-s%C4%B1n%C4%B1f-ve-struct-c-sharp-nesne-tabanl%C4%B1-y%C3%B6nelimli-programlama-2135069faef?source=rss-e9566c9f34a3------2)
 <!-- BLOG-POST-LIST-TR:END -->
 
 ## 💻 Latest YouTube Videos
