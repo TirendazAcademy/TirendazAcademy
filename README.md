@@ -56,11 +56,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [1 VİDEODA PYTHON PANDAS KÜTÜPHANESİ | Veri Bilimi Dersleri](https://www.youtube.com/watch?v=xv-1ax50BKM)
 - [VERİ BİLİMİ için 10 PYTHON KÜTÜPHANESİ | Makine Öğrenmesi &amp; Derin Öğrenme](https://www.youtube.com/watch?v=UMu_FPeVELk)
 - [MAKİNE ÖĞRENMESİ &amp; DERİN ÖĞRENME ARASINDA 7 FARK | Yapay Zeka Dersleri](https://www.youtube.com/watch?v=ibeKsqpkP74)
 - [PYTHON PANDAS ile VERİ ANALİZİ | Pandas Dersleri](https://www.youtube.com/watch?v=zaxt3gUuGyc)
 - [TENSORFLOW İLE DUYGU ANALİZİ | Doğal Dil İşleme | Python Derin Öğrenme Dersleri](https://www.youtube.com/watch?v=XtHL13mBBIk)
-- [10,000 Aboneye Ulaştık. Tüm Tirendaz Canlara Milyon Kez Teşekkürler...](https://www.youtube.com/watch?v=3h0766Q-fzc)
 <!-- YOUTUBETR:END -->
 
 ## ✏️ **Work Areas**
