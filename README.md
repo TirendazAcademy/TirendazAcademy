@@ -28,11 +28,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Pandas Tutorial](https://medium.com/codex/python-pandas-tutorial-42be3e827e2a?source=rss-b5cbb779640e------2)
 - [7 Differences Between Deep Learning and Machine Learning](https://levelup.gitconnected.com/7-differences-between-deep-learning-and-machine-learning-b5f2ff0ae00a?source=rss-b5cbb779640e------2)
 - [How to Use Data Pipelines with Python](https://medium.com/mlearning-ai/how-to-use-data-pipelines-with-python-a9b662fadec2?source=rss-b5cbb779640e------2)
 - [Sentiment Analysis with TensorFlow Hub](https://medium.com/codex/sentiment-analysis-with-tensorflow-hub-678c30ac79a2?source=rss-b5cbb779640e------2)
 - [Image Classification with TensorFlow 2](https://medium.com/mlearning-ai/image-classification-with-tensorflow-2-54fc601dfb6a?source=rss-b5cbb779640e------2)
-- [Introduction to Deep Learning with TensorFlow 2](https://levelup.gitconnected.com/introduction-to-deep-learning-with-tensorflow-2-f61decb13cdb?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
