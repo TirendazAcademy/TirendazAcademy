@@ -47,11 +47,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [DATA ANALYSIS with PYTHON PANDAS LIBRARY | Data Science Tutorial](https://www.youtube.com/watch?v=2qP_EpoZrPI)
+- [SERIES DATA STRUCTURE | Python Pandas Tutorial](https://www.youtube.com/watch?v=JHpjmvfMieU)
+- [INTRODUCTION TO PANDAS LIBRARY | Python Pandas Tutorial](https://www.youtube.com/watch?v=2qP_EpoZrPI)
 - [Introduction to Deep Learning with Tensorflow &amp; Keras | AI Tutorial in Python](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
 - [4 Feature Selection Algorithms | Machine Learning Tutorial with Python](https://www.youtube.com/watch?v=857SKdW-Pvg)
 - [Tirendaz Academy Promotional Video](https://www.youtube.com/watch?v=ifRbYRYj9Kk)
-- [ONE-HOT-ENCODING | DUMMY VARIABLES IN FEATURE ENGINEERING | PYTHON MACHINE LEARNING](https://www.youtube.com/watch?v=Gh4DijnuX0o)
 <!-- YOUTUBE:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
