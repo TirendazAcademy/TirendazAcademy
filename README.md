@@ -47,11 +47,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7 DIFFERENCES BETWEEN DEEP LEARNING AND MACHINE LEARNING | AI &amp; Data Science Tutorial](https://www.youtube.com/watch?v=XQv68nGYOaQ)
 - [MACHINE LEARNING ROADMAP | Artificial Intelligence &amp; Data Science &amp; Deep Learning](https://www.youtube.com/watch?v=Wl3XZ6645pM)
 - [TOP 8 MACHINE LEARNING ALGORITHMS | Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=Kttct5WU0fA)
 - [SERIES DATA STRUCTURE | Python Pandas Tutorial](https://www.youtube.com/watch?v=JHpjmvfMieU)
 - [INTRODUCTION TO PANDAS LIBRARY | Python Pandas Tutorial](https://www.youtube.com/watch?v=2qP_EpoZrPI)
-- [Introduction to Deep Learning with Tensorflow &amp; Keras | AI Tutorial in Python](https://www.youtube.com/watch?v=8Wnn4rRg7D8)
 <!-- YOUTUBE:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
