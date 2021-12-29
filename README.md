@@ -47,7 +47,7 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [7 DIFFERENCES BETWEEN DEEP LEARNING AND MACHINE LEARNING | AI &amp; Data Science Tutorial](https://www.youtube.com/watch?v=XQv68nGYOaQ)
+- [7 DIFFERENCES BETWEEN DEEP LEARNING AND MACHINE LEARNING | AI &amp; Data Science Tutorial](https://www.youtube.com/watch?v=AGveMH70Zng)
 - [MACHINE LEARNING ROADMAP | Artificial Intelligence &amp; Data Science &amp; Deep Learning](https://www.youtube.com/watch?v=Wl3XZ6645pM)
 - [TOP 8 MACHINE LEARNING ALGORITHMS | Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=Kttct5WU0fA)
 - [SERIES DATA STRUCTURE | Python Pandas Tutorial](https://www.youtube.com/watch?v=JHpjmvfMieU)
