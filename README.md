@@ -47,11 +47,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TOP 10 PYTHON LIBRARIES FOR DATA SCIENCE | Machine Learning &amp; Deep Learning 2022](https://www.youtube.com/watch?v=Yiok2hw_sAo)
 - [7 DIFFERENCES BETWEEN DEEP LEARNING AND MACHINE LEARNING | AI &amp; Data Science Tutorial](https://www.youtube.com/watch?v=AGveMH70Zng)
 - [MACHINE LEARNING ROADMAP | Artificial Intelligence &amp; Data Science &amp; Deep Learning](https://www.youtube.com/watch?v=Wl3XZ6645pM)
 - [TOP 8 MACHINE LEARNING ALGORITHMS | Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=Kttct5WU0fA)
 - [SERIES DATA STRUCTURE | Python Pandas Tutorial](https://www.youtube.com/watch?v=JHpjmvfMieU)
-- [INTRODUCTION TO PANDAS LIBRARY | Python Pandas Tutorial](https://www.youtube.com/watch?v=2qP_EpoZrPI)
 <!-- YOUTUBE:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
