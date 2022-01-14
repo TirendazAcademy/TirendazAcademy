@@ -57,11 +57,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [MAKİNE ÖĞRENMESİNE GİRİŞ | Yapay Zeka Nedir? | Veri Bilimi &amp; Derin Öğrenme Dersleri](https://www.youtube.com/watch?v=146vch4ZZ14)
 - [MAKİNE ÖĞRENMESİ için YOL HARİTASI | Yapay Zeka &amp; Veri Bilimi &amp; Derin Öğrenme Dersleri](https://www.youtube.com/watch?v=aY6QY7t2bDc)
 - [MAKİNE ÖĞRENMESİ ALGORİTMALARI | Yapay Zeka &amp; Derin Öğrenme Dersleri](https://www.youtube.com/watch?v=dn9JgYg-VqE)
 - [VERİ MÜHENDİSLİĞİ | R ile Veri Bilili Dersleri](https://www.youtube.com/watch?v=Aeykz8CkfGs)
 - [1 VİDEODA PYTHON PANDAS KÜTÜPHANESİ | Veri Bilimi Dersleri](https://www.youtube.com/watch?v=xv-1ax50BKM)
-- [VERİ BİLİMİ için 10 PYTHON KÜTÜPHANESİ | Makine Öğrenmesi &amp; Derin Öğrenme](https://www.youtube.com/watch?v=UMu_FPeVELk)
 <!-- YOUTUBETR:END -->
 
 ## ✏️ **Work Areas**
