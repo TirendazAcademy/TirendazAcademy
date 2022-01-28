@@ -47,7 +47,7 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [WHAT TO DO with PYTHON | #short](https://www.youtube.com/watch?v=SfT0PAQ2wMs)
+- [WHAT CAN YOU DO WITH PYTHON | #short](https://www.youtube.com/watch?v=SfT0PAQ2wMs)
 - [MACHINE LEARNING PROJECT with LINEAR REGRESSION ALGORITHM | AI &amp; Data Science Tutorial](https://www.youtube.com/watch?v=v-XZXPdXFn0)
 - [WHAT IS MACHINE LEARNING? | Artificial Intelligence &amp; Data Science &amp; Deep Learning](https://www.youtube.com/watch?v=JtzFEZYFUlY)
 - [TOP 10 PYTHON LIBRARIES FOR DATA SCIENCE | Machine Learning &amp; Deep Learning 2022](https://www.youtube.com/watch?v=Yiok2hw_sAo)
