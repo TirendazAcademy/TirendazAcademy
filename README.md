@@ -28,11 +28,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Project with Linear Regression Algorithm](https://medium.com/mlearning-ai/machine-learning-project-with-linear-regression-algorithm-b433d770fefd?source=rss-b5cbb779640e------2)
 - [6 Steps to Become a Machine Learning Expert](https://medium.com/geekculture/6-steps-to-become-a-machine-learning-expert-5a1f155f7207?source=rss-b5cbb779640e------2)
 - [Top 8 Machine Learning Algorithms](https://medium.com/geekculture/top-8-machine-learning-algorithms-df30277b2056?source=rss-b5cbb779640e------2)
 - [Top 10 Python Libraries and 5 Best Books for Data Science](https://levelup.gitconnected.com/top-10-python-libraries-and-5-best-books-for-data-science-fa0d0cf171a6?source=rss-b5cbb779640e------2)
 - [Python Pandas Tutorial](https://medium.com/codex/python-pandas-tutorial-42be3e827e2a?source=rss-b5cbb779640e------2)
-- [7 Differences Between Deep Learning and Machine Learning](https://levelup.gitconnected.com/7-differences-between-deep-learning-and-machine-learning-b5f2ff0ae00a?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
