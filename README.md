@@ -47,11 +47,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HOW TO USE _ &lpar;UNDERSCORE&rpar; OPERATOR | #Python Tutorial](https://www.youtube.com/watch?v=87NPzTMKGdw)
 - [HOW TO WRITE A FUNCTION with the *ARGS | #Python Tutorial | #shorts](https://www.youtube.com/watch?v=rO_PlH5OdGg)
 - [What Can You Do With Python? #short](https://www.youtube.com/watch?v=MjfI30DQv_c)
 - [MACHINE LEARNING PROJECT with LINEAR REGRESSION ALGORITHM | AI &amp; Data Science Tutorial](https://www.youtube.com/watch?v=v-XZXPdXFn0)
 - [WHAT IS MACHINE LEARNING? | Artificial Intelligence &amp; Data Science &amp; Deep Learning](https://www.youtube.com/watch?v=JtzFEZYFUlY)
-- [TOP 10 PYTHON LIBRARIES FOR DATA SCIENCE | Machine Learning &amp; Deep Learning 2022](https://www.youtube.com/watch?v=Yiok2hw_sAo)
 <!-- YOUTUBE:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
