@@ -57,11 +57,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [VERİ TABANLARI İLE ÇALIŞMAK | R İLE VERİ BİLİMİ DERSLERİ](https://www.youtube.com/watch?v=cMmdwMamhws)
 - [DEVOPS MÜHENDİSİ YOL HARİTASI | DevOps Dersleri](https://www.youtube.com/watch?v=yC4T2dJaZXM)
 - [7 POPÜLER PROGRAMLAMA DİLİ | EN İYİ YAZILIM DİLLERİ &amp; KULLANIM ALANLARI #shorts](https://www.youtube.com/watch?v=TKS29gjDemc)
 - [_ OPERATÖRÜ KULLANIMI | #Python Dersleri | #shorts](https://www.youtube.com/watch?v=cTVS5eJdnSE)
 - [Args ile Fonksiyon Yazma | #Python  Dersleri | #shorts](https://www.youtube.com/watch?v=2vS7oALeunk)
-- [PYTHON İLE NE YAPILIR? PYTHON DERSLERİ #shorts](https://www.youtube.com/watch?v=pjgKnWVB4ks)
 <!-- YOUTUBETR:END -->
 
 ## ✏️ **Work Areas**
