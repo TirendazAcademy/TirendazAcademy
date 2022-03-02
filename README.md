@@ -47,11 +47,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top 7 Data Science Libraries in Python](https://www.youtube.com/watch?v=jo3gcGO2kpk)
+- [Top 7 Data Science Skills](https://www.youtube.com/watch?v=mnf5x1EbtCg)
 - [FRONTEND WEB DEVELOPER ROADMAP | Front end Guide](https://www.youtube.com/watch?v=HC2x2WWXwn4)
 - [DEVOPS ROADMAP](https://www.youtube.com/watch?v=KE7yJBcrsWU)
 - [TOP 7 PROGRAMMING LANGUAGES &amp; THEIR USES in 2022 | #shorts](https://www.youtube.com/watch?v=xtz_mM-NBJw)
-- [HOW TO USE _ &lpar;UNDERSCORE&rpar; OPERATOR | #Python Tutorial](https://www.youtube.com/watch?v=87NPzTMKGdw)
-- [HOW TO WRITE A FUNCTION with the *ARGS | #Python Tutorial | #shorts](https://www.youtube.com/watch?v=rO_PlH5OdGg)
 <!-- YOUTUBE:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
