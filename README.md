@@ -57,11 +57,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [FRONTEND DEVELOPER YOL HARİTASI | Front end roadmap](https://www.youtube.com/watch?v=DKoJMoF616w)
 - [DERİN ÖĞRENME için PYTORCH&#39;A GİRİŞ | Python Yapay Zeka Dersleri](https://www.youtube.com/watch?v=z0qJRc_WgEw)
 - [VERİ TABANLARI İLE ÇALIŞMAK | R İLE VERİ BİLİMİ DERSLERİ](https://www.youtube.com/watch?v=cMmdwMamhws)
 - [DEVOPS MÜHENDİSİ YOL HARİTASI | DevOps Dersleri](https://www.youtube.com/watch?v=yC4T2dJaZXM)
 - [7 POPÜLER PROGRAMLAMA DİLİ | EN İYİ YAZILIM DİLLERİ &amp; KULLANIM ALANLARI #shorts](https://www.youtube.com/watch?v=TKS29gjDemc)
-- [_ OPERATÖRÜ KULLANIMI | #Python Dersleri | #shorts](https://www.youtube.com/watch?v=cTVS5eJdnSE)
 <!-- YOUTUBETR:END -->
 
 ## ✏️ **Work Areas**
