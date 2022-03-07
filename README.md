@@ -28,11 +28,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to PyTorch for Deep Learning](https://medium.com/geekculture/introduction-to-pytorch-for-deep-learning-483d4a65d594?source=rss-b5cbb779640e------2)
 - [Introduction to MLOps and 5 Tools for MLOps](https://faun.pub/introduction-to-mlops-and-5-tools-for-mlops-fbe181192481?source=rss-b5cbb779640e------2)
 - [Introduction to Machine Learning for Beginners](https://levelup.gitconnected.com/introduction-to-machine-learning-for-beginners-de3e6053760d?source=rss-b5cbb779640e------2)
 - [Machine Learning Project with Linear Regression Algorithm](https://medium.com/mlearning-ai/machine-learning-project-with-linear-regression-algorithm-b433d770fefd?source=rss-b5cbb779640e------2)
 - [6 Steps to Become a Machine Learning Expert](https://medium.com/geekculture/6-steps-to-become-a-machine-learning-expert-5a1f155f7207?source=rss-b5cbb779640e------2)
-- [Top 8 Machine Learning Algorithms](https://medium.com/geekculture/top-8-machine-learning-algorithms-df30277b2056?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
