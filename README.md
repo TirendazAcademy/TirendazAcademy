@@ -47,11 +47,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top 7 Machine Learning Applications in Healthcare](https://www.youtube.com/watch?v=NZV8f8r2sT4)
 - [Top 7 Deep Learning Frameworks &amp; Libraries](https://www.youtube.com/watch?v=BsUomDG7e18)
 - [7 Awesome Computer Vision Project Ideas](https://www.youtube.com/watch?v=iYSWwZeEC2c)
 - [PYTORCH with DEEP LEARNING | AI Tutorial with Python](https://www.youtube.com/watch?v=eB8ogfU1e_8)
 - [Top 7 Data Science Libraries in Python](https://www.youtube.com/watch?v=jo3gcGO2kpk)
-- [Top 7 Data Science Skills](https://www.youtube.com/watch?v=mnf5x1EbtCg)
 <!-- YOUTUBE:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
