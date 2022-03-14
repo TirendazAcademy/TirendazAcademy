@@ -47,11 +47,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top 7 Python Applications &amp; Libraries Used](https://www.youtube.com/watch?v=8pEJYRw7xaM)
 - [Top 10 Websites to Learn Data Science](https://www.youtube.com/watch?v=ETztsaLopdg)
 - [Top 10 Websites Built Using Python | Website Design](https://www.youtube.com/watch?v=v3a3LvG5YFM)
 - [Top 7 Machine Learning Applications in Healthcare](https://www.youtube.com/watch?v=NZV8f8r2sT4)
 - [Top 7 Deep Learning Frameworks &amp; Libraries](https://www.youtube.com/watch?v=BsUomDG7e18)
-- [7 Awesome Computer Vision Project Ideas](https://www.youtube.com/watch?v=iYSWwZeEC2c)
 <!-- YOUTUBE:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
