@@ -47,11 +47,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top 8 Books to Learn Deep Learning in 2022](https://www.youtube.com/watch?v=KLyvpyLAUWA)
 - [Top 7 Books to Learn Machine Learning in 2022](https://www.youtube.com/watch?v=kZf6NCwMC4k)
 - [Top 7 Real-World Examples of Data Science | Applications in Real Life](https://www.youtube.com/watch?v=0UygOQ8a_2w)
 - [Top 7 Python Applications &amp; Libraries Used](https://www.youtube.com/watch?v=8pEJYRw7xaM)
 - [Top 10 Websites to Learn Data Science](https://www.youtube.com/watch?v=ETztsaLopdg)
-- [Top 10 Websites Built Using Python | Website Design](https://www.youtube.com/watch?v=v3a3LvG5YFM)
 <!-- YOUTUBE:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
