@@ -57,11 +57,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [Veriye Dayalı 5 Meslek ve Yol Haritası](https://www.youtube.com/watch?v=eVL2tqmFvZ4)
 - [7 PYTHON UYGULAMASI &amp; KÜTÜPHANELER | Python ile Ne Yapılır?](https://www.youtube.com/watch?v=bnEiQTDsl3s)
 - [PYTHON ile YAPILMIŞ EN İYİ 10 WEBSİTESİ | Python ile Ne Yapılır?](https://www.youtube.com/watch?v=ntQT4OQTje8)
 - [FRONTEND DEVELOPER YOL HARİTASI | Front end roadmap](https://www.youtube.com/watch?v=DKoJMoF616w)
 - [DERİN ÖĞRENME için PYTORCH&#39;A GİRİŞ | Python Yapay Zeka Dersleri](https://www.youtube.com/watch?v=z0qJRc_WgEw)
-- [VERİ TABANLARI İLE ÇALIŞMAK | R İLE VERİ BİLİMİ DERSLERİ](https://www.youtube.com/watch?v=cMmdwMamhws)
 <!-- YOUTUBETR:END -->
 
 ## ✏️ **Work Areas**
