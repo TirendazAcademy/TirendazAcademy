@@ -57,7 +57,7 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
-- [Veri Odaklı 5 Meslek ve Yol Haritası](https://www.youtube.com/watch?v=eVL2tqmFvZ4)
+- [VERİ ODAKLI 5 MESLEK ve YOL HARİTALARI](https://www.youtube.com/watch?v=eVL2tqmFvZ4)
 - [7 PYTHON UYGULAMASI &amp; KÜTÜPHANELER | Python ile Ne Yapılır?](https://www.youtube.com/watch?v=bnEiQTDsl3s)
 - [PYTHON ile YAPILMIŞ EN İYİ 10 WEBSİTESİ | Python ile Ne Yapılır?](https://www.youtube.com/watch?v=ntQT4OQTje8)
 - [FRONTEND DEVELOPER YOL HARİTASI | Front end roadmap](https://www.youtube.com/watch?v=DKoJMoF616w)
