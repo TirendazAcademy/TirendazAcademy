@@ -47,11 +47,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SQL for DATA ANALYSIS 🔥 SQLite Database Tutorial](https://www.youtube.com/watch?v=udDZyuM6fLA)
 - [6 STEPS TO LEARN MACHINE LEARNING with PYTHON in 2022 🔥 Roadmap](https://www.youtube.com/watch?v=N_AHSEF4AV8)
 - [5 Data-Driven Careers &amp; Roadmaps](https://www.youtube.com/watch?v=pTLotOZaR48)
 - [10 Steps to Learn Data Engineering | Data Engineering Roadmap in 2022](https://www.youtube.com/watch?v=aiSR-PIlY7I)
 - [Top 8 Books to Learn Deep Learning in 2022](https://www.youtube.com/watch?v=KLyvpyLAUWA)
-- [Top 7 Books to Learn Machine Learning in 2022](https://www.youtube.com/watch?v=kZf6NCwMC4k)
 <!-- YOUTUBE:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
