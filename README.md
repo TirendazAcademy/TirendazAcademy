@@ -47,11 +47,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TOP 4 ADVANTAGES OF USING SPARK 🔥 Big Data Tutorial](https://www.youtube.com/watch?v=p2jrohCHKn8)
 - [10 ESSENTIAL DATA SCIENCE LIBRARIES 🔥 Python Libraries Tutorial](https://www.youtube.com/watch?v=Q5EniBcvy8g)
 - [6 STEPS TO LEARN MACHINE LEARNING with PYTHON in 2022 🔥 Roadmap](https://www.youtube.com/watch?v=MK_ZmLu1VkA)
 - [SQL for DATA ANALYSIS 🔥 SQLite Database Tutorial](https://www.youtube.com/watch?v=udDZyuM6fLA)
 - [5 Data-Driven Careers &amp; Roadmaps](https://www.youtube.com/watch?v=pTLotOZaR48)
-- [10 Steps to Learn Data Engineering | Data Engineering Roadmap in 2022](https://www.youtube.com/watch?v=aiSR-PIlY7I)
 <!-- YOUTUBE:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
