@@ -57,11 +57,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
-- [PYTHON ile MAKİNE ÖĞRENMESİ UZMANI OLMAK İÇİN 6 ADIM 🔥 Makine Öğrenimi Yol Haritası](https://www.youtube.com/watch?v=haVdJMGfEJ8)
 - [VERİ ODAKLI 5 MESLEK ve YOL HARİTALARI](https://www.youtube.com/watch?v=eVL2tqmFvZ4)
 - [VERİ ANALİZİ için SQL | SQLite3 ile Veri Tabanı Dersleri](https://www.youtube.com/watch?v=Y4zyJPno5B4)
 - [7 PYTHON UYGULAMASI &amp; KÜTÜPHANELER | Python ile Ne Yapılır?](https://www.youtube.com/watch?v=bnEiQTDsl3s)
 - [PYTHON ile YAPILMIŞ EN İYİ 10 WEBSİTESİ | Python ile Ne Yapılır?](https://www.youtube.com/watch?v=ntQT4OQTje8)
+- [FRONTEND DEVELOPER YOL HARİTASI | Front end roadmap](https://www.youtube.com/watch?v=DKoJMoF616w)
 <!-- YOUTUBETR:END -->
 
 ## ✏️ **Work Areas**
