@@ -48,7 +48,7 @@
 
 <!-- YOUTUBE:START -->
 - [WHAT is MERN STACK 🔥 Web Development Tutorial](https://www.youtube.com/watch?v=a-CSRu_ZynE)
-- [7 HABITS TO BE A SUCCESSFUL PROGRAMMER 🔥 Roadmap for Developers](https://www.youtube.com/watch?v=8s2lLsfqkLE)
+- [7 HABITS TO BE A SUCCESSFUL PROGRAMMER](https://www.youtube.com/watch?v=8s2lLsfqkLE)
 - [TOP 4 ADVANTAGES OF USING SPARK 🔥 Big Data Tutorial](https://www.youtube.com/watch?v=p2jrohCHKn8)
 - [10 ESSENTIAL DATA SCIENCE LIBRARIES 🔥 Python Libraries Tutorial](https://www.youtube.com/watch?v=Q5EniBcvy8g)
 - [6 STEPS TO LEARN MACHINE LEARNING with PYTHON in 2022 🔥 Roadmap](https://www.youtube.com/watch?v=MK_ZmLu1VkA)
