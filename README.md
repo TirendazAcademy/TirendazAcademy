@@ -28,11 +28,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TOP 8 DATA SCIENCE PROGRAMMING LANGUAGES](https://www.youtube.com/watch?v=eYh_PyS23jo)
+- [5 TIPS TO FIND A DATA SCIENCE JOB](https://www.youtube.com/watch?v=9yD_AZeAD6A)
 - [WHAT is MERN STACK 🔥 Web Development Tutorial](https://www.youtube.com/watch?v=a-CSRu_ZynE)
 - [7 HABITS TO BE A SUCCESSFUL PROGRAMMER](https://www.youtube.com/watch?v=8s2lLsfqkLE)
 - [TOP 4 ADVANTAGES OF USING SPARK 🔥 Big Data Tutorial](https://www.youtube.com/watch?v=p2jrohCHKn8)
-- [10 ESSENTIAL DATA SCIENCE LIBRARIES 🔥 Python Libraries Tutorial](https://www.youtube.com/watch?v=Q5EniBcvy8g)
-- [6 STEPS TO LEARN MACHINE LEARNING with PYTHON in 2022 🔥 Roadmap](https://www.youtube.com/watch?v=MK_ZmLu1VkA)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
