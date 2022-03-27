@@ -28,11 +28,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [7 DATA ANALYSIS TOOLS 🔥 Data Science Tutorial](https://www.youtube.com/watch?v=-Ll07tqHXfA)
+- [7 REAL-WORLD EXAMPLES OF DATA SCIENCE](https://www.youtube.com/watch?v=81r8_xrfWqc)
+- [7 DATA ANALYSIS TOOLS](https://www.youtube.com/watch?v=-Ll07tqHXfA)
 - [TOP 8 DATA SCIENCE PROGRAMMING LANGUAGES](https://www.youtube.com/watch?v=eYh_PyS23jo)
 - [5 TIPS TO FIND A DATA SCIENCE JOB](https://www.youtube.com/watch?v=9yD_AZeAD6A)
 - [WHAT is MERN STACK 🔥 Web Development Tutorial](https://www.youtube.com/watch?v=a-CSRu_ZynE)
-- [7 HABITS TO BE A SUCCESSFUL PROGRAMMER](https://www.youtube.com/watch?v=8s2lLsfqkLE)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
