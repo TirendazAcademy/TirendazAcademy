@@ -28,7 +28,7 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [6 TECHNICAL TIPS TO SOLVE DATA SCIENCE PROJECTS](https://www.youtube.com/watch?v=M6-ZiBDLxBA)
+- [6 TECHNICAL TIPS TO SOLVE DATA SCIENCE PROBLEMS](https://www.youtube.com/watch?v=yXHA6lJC3BY)
 - [7 REAL-WORLD EXAMPLES OF DATA SCIENCE](https://www.youtube.com/watch?v=81r8_xrfWqc)
 - [7 DATA ANALYSIS TOOLS](https://www.youtube.com/watch?v=-Ll07tqHXfA)
 - [TOP 8 DATA SCIENCE PROGRAMMING LANGUAGES](https://www.youtube.com/watch?v=eYh_PyS23jo)
