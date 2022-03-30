@@ -28,7 +28,7 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [DATA ENGINEERING TOOLS 🔥 Data Engineer 2022 #shorts](https://www.youtube.com/watch?v=9C-Q-jJxY0M)
+- [DATA ENGINEERING TOOLS 🔥 Data Engineer #shorts](https://www.youtube.com/watch?v=9C-Q-jJxY0M)
 - [10 STEPS TO LEARN DATA ENGINEERING 🔥 Data Engineer Roadmap 2022](https://www.youtube.com/watch?v=mp7dgyaG6JU)
 - [5 REASONS TO LEARN PYTHON](https://www.youtube.com/watch?v=adnZtoky0KU)
 - [6 TECHNICAL TIPS TO SOLVE DATA SCIENCE PROBLEMS](https://www.youtube.com/watch?v=yXHA6lJC3BY)
