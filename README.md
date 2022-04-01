@@ -28,11 +28,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7 STEPS TO BECOME A DATA SCIENTIST 🔥 #short](https://www.youtube.com/watch?v=rpv78URvbwk)
+- [7 FANTASTIC PYTHON PACKAGES 🔥 #shorts](https://www.youtube.com/watch?v=UMLuR1VDPE4)
 - [TOP 10 MACHINE LEARNING ALGORITHMS 🔥 #shorts](https://www.youtube.com/watch?v=ZtrXw_84tB0)
 - [7 TIPS FOR DEEP LEARNING PROJECTS  🔥 #shorts](https://www.youtube.com/watch?v=uEl70lA-n-E)
 - [DATA ENGINEERING TOOLS 🔥 Data Engineer #shorts](https://www.youtube.com/watch?v=9C-Q-jJxY0M)
-- [10 STEPS TO LEARN DATA ENGINEERING 🔥 Data Engineer Roadmap 2022](https://www.youtube.com/watch?v=mp7dgyaG6JU)
-- [5 REASONS TO LEARN PYTHON](https://www.youtube.com/watch?v=adnZtoky0KU)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
