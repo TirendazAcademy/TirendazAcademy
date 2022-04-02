@@ -28,8 +28,8 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7 FANTASTIC PYTHON PACKAGES 🔥 #shorts](https://www.youtube.com/watch?v=w82PtM44Gcw)
 - [7 STEPS TO BECOME A DATA SCIENTIST 🔥 #short](https://www.youtube.com/watch?v=rpv78URvbwk)
-- [7 FANTASTIC PYTHON PACKAGES 🔥 #shorts](https://www.youtube.com/watch?v=UMLuR1VDPE4)
 - [TOP 10 MACHINE LEARNING ALGORITHMS 🔥 #shorts](https://www.youtube.com/watch?v=ZtrXw_84tB0)
 - [7 TIPS FOR DEEP LEARNING PROJECTS  🔥 #shorts](https://www.youtube.com/watch?v=uEl70lA-n-E)
 - [DATA ENGINEERING TOOLS 🔥 Data Engineer #shorts](https://www.youtube.com/watch?v=9C-Q-jJxY0M)
