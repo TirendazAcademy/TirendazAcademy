@@ -28,11 +28,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7 WAYS TO MAKE MONEY USING YOUR COMPUTER IN 2022 🔥 #shorts](https://www.youtube.com/watch?v=p8T8MbiBzKs)
 - [5 APPLICATIONS OF COMPUTER VISION 🔥 #shorts](https://www.youtube.com/watch?v=GT2jAltyCfI)
 - [10 PYTHON PROJECT IDEAS FOR BEGINNERS 🔥 #shorts](https://www.youtube.com/watch?v=yEVzKbcwqvA)
 - [7 FANTASTIC PYTHON PACKAGES 🔥 #shorts](https://www.youtube.com/watch?v=w82PtM44Gcw)
 - [7 STEPS TO BECOME A DATA SCIENTIST 🔥 #short](https://www.youtube.com/watch?v=rpv78URvbwk)
-- [TOP 10 MACHINE LEARNING ALGORITHMS 🔥 #shorts](https://www.youtube.com/watch?v=ZtrXw_84tB0)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
