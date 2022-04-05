@@ -28,11 +28,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [MISSING DATA ANALYSIS using PYTHON 🔥 Data Science Tutorial](https://www.youtube.com/watch?v=BKDIsxUdzUw)
 - [PYTHON LIBRARIES AND FRAMEWORKS FOR DIFFERENT APPLICATIONS 🔥 #shorts](https://www.youtube.com/watch?v=IRnCLBVxrMw)
 - [7 WAYS TO MAKE MONEY USING YOUR COMPUTER IN 2022 🔥 #shorts](https://www.youtube.com/watch?v=p8T8MbiBzKs)
 - [5 APPLICATIONS OF COMPUTER VISION 🔥 #shorts](https://www.youtube.com/watch?v=GT2jAltyCfI)
 - [10 PYTHON PROJECT IDEAS FOR BEGINNERS 🔥 #shorts](https://www.youtube.com/watch?v=yEVzKbcwqvA)
-- [7 FANTASTIC PYTHON PACKAGES 🔥 #shorts](https://www.youtube.com/watch?v=w82PtM44Gcw)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
