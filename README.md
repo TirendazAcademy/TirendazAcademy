@@ -48,11 +48,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [NEDEN PYTHON POPÜLER OLDU? 🔥 Python Dersleri](https://www.youtube.com/watch?v=KSlvKnwmVnQ)
 - [BİLGİSAYAR İLE İNTERNETTEN PARA KAZANMANIN 7 YOLU 🔥 #shorts](https://www.youtube.com/watch?v=gHs4bmoTK7I)
 - [VERİ MÜHENDİSİ OLMAK için YOL HARİTASI 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=5pJ180jlK0Y)
 - [VERİ ANALİZİ için SQL | SQLite3 ile Veri Tabanı Dersleri](https://www.youtube.com/watch?v=Y4zyJPno5B4)
 - [PYTHON ile MAKİNE ÖĞRENMESİ UZMANI OLMAK için 6 ADIM 🔥 Makine Öğrenimi Yol Haritası](https://www.youtube.com/watch?v=haVdJMGfEJ8)
-- [VERİ ODAKLI 5 MESLEK ve YOL HARİTALARI](https://www.youtube.com/watch?v=eVL2tqmFvZ4)
 <!-- YOUTUBETR:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
