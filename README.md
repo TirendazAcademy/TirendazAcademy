@@ -28,11 +28,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7 WAYS TO MAKE MONEY WITH PYTHON 🔥 #shorts](https://www.youtube.com/watch?v=DdQoUmcQW2o)
 - [WHY IS PYTHON SO POPULAR? 🔥 Python Tutorial](https://www.youtube.com/watch?v=TNdZCht1aOE)
 - [HANDLING CATEGORICAL DATA with SCIKIT-LEARN &amp; PANDAS 🔥 Data Science Tutorial with Python](https://www.youtube.com/watch?v=JZnrlv8Oy5s)
 - [MISSING DATA ANALYSIS using PYTHON 🔥 Data Science Tutorial](https://www.youtube.com/watch?v=BKDIsxUdzUw)
 - [PYTHON LIBRARIES AND FRAMEWORKS FOR DIFFERENT APPLICATIONS 🔥 #shorts](https://www.youtube.com/watch?v=IRnCLBVxrMw)
-- [7 WAYS TO MAKE MONEY USING YOUR COMPUTER IN 2022 🔥 #shorts](https://www.youtube.com/watch?v=p8T8MbiBzKs)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
