@@ -48,7 +48,7 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
-- [YAPAY ZEKA için PROGRAMLAMA DİLLERİ 🔥 Yazılım Dersleri](https://www.youtube.com/watch?v=sxzOvey04qs)
+- [YAPAY ZEKA için PROGRAMLAMA DİLLERİ ve KÜTÜPHANELER 🔥 Yazılım Dersleri](https://www.youtube.com/watch?v=sxzOvey04qs)
 - [NEDEN PYTHON POPÜLER OLDU? 🔥 Python Dersleri](https://www.youtube.com/watch?v=KSlvKnwmVnQ)
 - [BİLGİSAYAR İLE İNTERNETTEN PARA KAZANMANIN 7 YOLU 🔥 #shorts](https://www.youtube.com/watch?v=gHs4bmoTK7I)
 - [VERİ MÜHENDİSİ OLMAK için YOL HARİTASI 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=5pJ180jlK0Y)
