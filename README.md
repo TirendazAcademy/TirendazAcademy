@@ -28,11 +28,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DATA SCALING - REGULARIZATION with PYTHON 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=zgWXgX8wP3M)
 - [TOP 6 PROGRAMMING LANGUAGES ​​for ARTIFICIAL INTELLIGENCE](https://www.youtube.com/watch?v=w2tx6oCFNQ8)
 - [DATA SCIENCE PROJECT IDEAS 🔥 #shorts](https://www.youtube.com/watch?v=KHi1VNE-Eco)
 - [7 WAYS TO MAKE MONEY WITH PYTHON 🔥 #shorts](https://www.youtube.com/watch?v=DdQoUmcQW2o)
 - [WHY IS PYTHON SO POPULAR? 🔥 Python Tutorial](https://www.youtube.com/watch?v=TNdZCht1aOE)
-- [HANDLING CATEGORICAL DATA with SCIKIT-LEARN &amp; PANDAS 🔥 Data Science Tutorial with Python](https://www.youtube.com/watch?v=JZnrlv8Oy5s)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
