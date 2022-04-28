@@ -28,11 +28,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CLASSIFICATION with PYCARET 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=rIf4TNtMTtk)
 - [MACHINE LEARNING with PYCARET 🔥 PyCaret Tutorial](https://www.youtube.com/watch?v=LEJlW6STeB0)
 - [FEATURE SELECTION with PYTHON 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=fwGjH-Vr3Bg)
 - [DATA SCALING - REGULARIZATION with PYTHON 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=zgWXgX8wP3M)
 - [TOP 6 PROGRAMMING LANGUAGES ​​for ARTIFICIAL INTELLIGENCE](https://www.youtube.com/watch?v=w2tx6oCFNQ8)
-- [DATA SCIENCE PROJECT IDEAS 🔥 #shorts](https://www.youtube.com/watch?v=KHi1VNE-Eco)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
