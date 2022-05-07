@@ -48,7 +48,7 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
-- [SEABORN ile VERİ GÖRSELLEŞTİRME | Python Grafik Dersleri](https://www.youtube.com/watch?v=UM2IuGsj9I4)
+- [SEABORN ile VERİ GÖRSELLEŞTİRME | Python Veri Analizi Dersleri](https://www.youtube.com/watch?v=UM2IuGsj9I4)
 - [PYCARET ile MAKINE ÖĞRENMESİ 🔥 Python Dersleri](https://www.youtube.com/watch?v=IiPqY7MGs6Q)
 - [MAKİNE ÖĞRENMESİ için SCIKIT LEARN 🔥 Python Dersleri](https://www.youtube.com/watch?v=WImdihp3dkU)
 - [YAPAY ZEKA için PROGRAMLAMA DİLLERİ ve KÜTÜPHANELER 🔥 Yazılım Dersleri](https://www.youtube.com/watch?v=sxzOvey04qs)
