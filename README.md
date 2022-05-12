@@ -28,7 +28,7 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CLUSTERING with PYCARET | Machine Learning Tutorial](https://www.youtube.com/watch?v=wOzeFurDfQ0)
+- [CLUSTERING with PYCARET 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=wOzeFurDfQ0)
 - [DATA VISUALIZATION with SEABORN 🔥 Python Tutorial](https://www.youtube.com/watch?v=JzcSe6JZF8A)
 - [REGRESSION with PYCARET 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=nvZ08g7tHhE)
 - [CLASSIFICATION with PYCARET 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=rIf4TNtMTtk)
