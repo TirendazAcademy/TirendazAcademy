@@ -28,11 +28,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CLUSTERING with PYCARET | Machine Learning Tutorial](https://www.youtube.com/watch?v=wOzeFurDfQ0)
 - [DATA VISUALIZATION with SEABORN 🔥 Python Tutorial](https://www.youtube.com/watch?v=JzcSe6JZF8A)
 - [REGRESSION with PYCARET 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=nvZ08g7tHhE)
 - [CLASSIFICATION with PYCARET 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=rIf4TNtMTtk)
 - [MACHINE LEARNING with PYCARET 🔥 PyCaret Tutorial](https://www.youtube.com/watch?v=LEJlW6STeB0)
-- [FEATURE SELECTION with PYTHON 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=fwGjH-Vr3Bg)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
