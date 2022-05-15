@@ -48,7 +48,7 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
-- [YAZILIM ÖĞRENMEK için WEBSİTELERİ 🔥 Kodlamaya İlk Adım](https://www.youtube.com/watch?v=iYWrRlBIUlA)
+- [YAZILIM ÖĞRENMEK için WEB SİTELERİ 🔥 Kodlamaya İlk Adım](https://www.youtube.com/watch?v=iYWrRlBIUlA)
 - [SEABORN ile VERİ GÖRSELLEŞTİRME | Python Veri Analizi Dersleri](https://www.youtube.com/watch?v=UM2IuGsj9I4)
 - [PYCARET ile MAKINE ÖĞRENMESİ 🔥 Python Dersleri](https://www.youtube.com/watch?v=IiPqY7MGs6Q)
 - [MAKİNE ÖĞRENMESİ için SCIKIT LEARN 🔥 Python Dersleri](https://www.youtube.com/watch?v=WImdihp3dkU)
