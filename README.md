@@ -29,11 +29,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PRINCIPAL COMPONENT ANALYSIS with PYTHON | Machine Learning Tutorial](https://www.youtube.com/watch?v=BE2uFaF8Gsc)
 - [TOP 10 WEBSITES TO LEARN CODING FOR FREE](https://www.youtube.com/watch?v=Rcvg3_Z2q5s)
 - [CLUSTERING with PYCARET 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=wOzeFurDfQ0)
 - [DATA VISUALIZATION with SEABORN 🔥 Python Tutorial](https://www.youtube.com/watch?v=JzcSe6JZF8A)
 - [REGRESSION with PYCARET 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=nvZ08g7tHhE)
-- [CLASSIFICATION with PYCARET 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=rIf4TNtMTtk)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
