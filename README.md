@@ -31,11 +31,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PIPELINE with SCIKIT LEARN | Python Machine Learning Tutorial](https://www.youtube.com/watch?v=WRef5Xfthdw)
 - [DATA VISUALIZATION with T-SNE using PYTHON 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=Oia1VuLeBug)
 - [PRINCIPAL COMPONENT ANALYSIS with PYTHON 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=BE2uFaF8Gsc)
 - [TOP 10 WEBSITES TO LEARN CODING FOR FREE](https://www.youtube.com/watch?v=Rcvg3_Z2q5s)
 - [CLUSTERING with PYCARET 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=wOzeFurDfQ0)
-- [DATA VISUALIZATION with SEABORN 🔥 Python Tutorial](https://www.youtube.com/watch?v=JzcSe6JZF8A)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
