@@ -51,8 +51,8 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
-- [PYTHON ile VERİ ANALİZİ | Veri Bilimi Dersleri](https://www.youtube.com/watch?v=cG2AoJ5TKLY)
-- [R ile VERİ ANALİZİ | GRAFİKLER | VERİ BİLİMİ DERSLERİ](https://www.youtube.com/watch?v=GmJ68NOpANY)
+- [PYTHON ile VERİ ANALİZİ 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=cG2AoJ5TKLY)
+- [R ile VERİ ANALİZİ 🔥 GRAFİKLER | VERİ BİLİMİ DERSLERİ](https://www.youtube.com/watch?v=GmJ68NOpANY)
 - [YAZILIM ÖĞRENMEK için WEB SİTELERİ 🔥 Kodlamaya İlk Adım](https://www.youtube.com/watch?v=iYWrRlBIUlA)
 - [SEABORN ile VERİ GÖRSELLEŞTİRME | Python Veri Analizi Dersleri](https://www.youtube.com/watch?v=UM2IuGsj9I4)
 - [PYCARET ile MAKINE ÖĞRENMESİ 🔥 Python Dersleri](https://www.youtube.com/watch?v=IiPqY7MGs6Q)
