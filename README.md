@@ -31,11 +31,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [One Hot Encoding with Python](https://www.youtube.com/watch?v=2rlCw4Q1-KY)
 - [ENSEMBLE LEARNING | VOTING CLASSIFIERS with SCIKIT LEARN 🔥 Python Machine Learning Tutorial](https://www.youtube.com/watch?v=COxa_Xo7wnA)
 - [EXPLORATORY DATA ANALYSIS &lpar;EDA&rpar; with PYTHON 🔥 Data Science Tutorial](https://www.youtube.com/watch?v=extpGaaEh4w)
 - [GRID &amp; RANDOMIZED SEARCH with SCIKIT-LEARN 🔥 Python Machine Learning Tutorial](https://www.youtube.com/watch?v=vz_6cHkK-Xc)
 - [CROSS-VALIDATION with SCIKIT-LEARN | Python Machine Learning Tutorial](https://www.youtube.com/watch?v=3QdyBNqCuvU)
-- [PIPELINE with SCIKIT LEARN | Python Machine Learning Tutorial](https://www.youtube.com/watch?v=WRef5Xfthdw)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
