@@ -42,7 +42,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [8 Best Seaborn Visualizations](https://medium.com/geekculture/8-best-seaborn-visualizations-20143a4b3b2f?source=rss-b5cbb779640e------2)
-- [How to Handle Missing Data with Scikit-Learn and Pandas?](https://python.plainenglish.io/how-to-handle-missing-data-with-scikit-learn-and-pandas-feaa436cda2b?source=rss-b5cbb779640e------2)
+- [3 Methods for Handling Missing Data with Python](https://python.plainenglish.io/how-to-handle-missing-data-with-scikit-learn-and-pandas-feaa436cda2b?source=rss-b5cbb779640e------2)
 - [SQL for Data Analysis](https://medium.com/mlearning-ai/sql-for-data-analysis-8228c923ce82?source=rss-b5cbb779640e------2)
 - [Introduction to PyTorch for Deep Learning](https://medium.com/geekculture/introduction-to-pytorch-for-deep-learning-483d4a65d594?source=rss-b5cbb779640e------2)
 - [Introduction to MLOps and 5 Tools for MLOps](https://faun.pub/introduction-to-mlops-and-5-tools-for-mlops-fbe181192481?source=rss-b5cbb779640e------2)
