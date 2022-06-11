@@ -31,11 +31,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ENSEMBLE LEARNING - ADABOOST with SCIKIT LEARN 🔥 Python Machine Learning Tutorial](https://www.youtube.com/watch?v=tHEP2t1onA0)
 - [ENSEMBLE LEARNING - BAGGING WITH PYTHON 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=W7jdZKepZ1M)
 - [One Hot Encoding with Python](https://www.youtube.com/watch?v=2rlCw4Q1-KY)
 - [ENSEMBLE LEARNING | VOTING CLASSIFIERS with SCIKIT LEARN 🔥 Python Machine Learning Tutorial](https://www.youtube.com/watch?v=COxa_Xo7wnA)
 - [EXPLORATORY DATA ANALYSIS &lpar;EDA&rpar; with PYTHON 🔥 Data Science Tutorial](https://www.youtube.com/watch?v=extpGaaEh4w)
-- [GRID &amp; RANDOMIZED SEARCH with SCIKIT-LEARN 🔥 Python Machine Learning Tutorial](https://www.youtube.com/watch?v=vz_6cHkK-Xc)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
