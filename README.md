@@ -41,11 +41,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Best Programming Languages ​​for AI](https://pub.towardsai.net/6-best-programming-languages-for-ai-8ef01eb70445?source=rss-b5cbb779640e------2)
 - [Ensemble Learning — AdaBoost with Python](https://medium.com/mlearning-ai/ensemble-learning-adaboost-with-python-8332778fbb61?source=rss-b5cbb779640e------2)
 - [Ensemble Learning — Bagging with Python](https://medium.com/mlearning-ai/ensemble-learning-bagging-with-python-59bd7732fd01?source=rss-b5cbb779640e------2)
 - [8 Best Seaborn Visualizations](https://medium.com/geekculture/8-best-seaborn-visualizations-20143a4b3b2f?source=rss-b5cbb779640e------2)
 - [3 Methods for Handling Missing Data with Python](https://python.plainenglish.io/how-to-handle-missing-data-with-scikit-learn-and-pandas-feaa436cda2b?source=rss-b5cbb779640e------2)
-- [SQL for Data Analysis](https://medium.com/mlearning-ai/sql-for-data-analysis-8228c923ce82?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
