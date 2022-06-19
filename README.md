@@ -31,11 +31,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DECISION TREE ANALYSIS with SCIKIT LEARN 🔥 Python Machine Learning Tutorial](https://www.youtube.com/watch?v=P_etvWMThPM)
 - [4 LANGUAGES EVERY DATA ENGINEER SHOULD KNOW](https://www.youtube.com/watch?v=JxWxWmn8G8o)
 - [7 TIPS FOR A SUCCESSFUL DEEP LEARNING PROJECT](https://www.youtube.com/watch?v=vqhaBRo0X04)
 - [ENSEMBLE LEARNING - ADABOOST with SCIKIT LEARN 🔥 Python Machine Learning Tutorial](https://www.youtube.com/watch?v=tHEP2t1onA0)
 - [ENSEMBLE LEARNING - BAGGING WITH PYTHON 🔥 Machine Learning Tutorial](https://www.youtube.com/watch?v=W7jdZKepZ1M)
-- [One Hot Encoding with Python](https://www.youtube.com/watch?v=2rlCw4Q1-KY)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
