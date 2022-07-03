@@ -1,9 +1,9 @@
-# <p align="center"> Hi There 👋 Welcome to Tirendaz Academy GitHub Page 😄 </p>
+# <p align="center"> Hi There 👋 Welcome to Tirendaz Academy GitHub 😄 </p>
 
 
 <div align="center">
 
-## 🏬 Online Education Pages
+## 🏬 Online Education Sites
 
 [![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi)
