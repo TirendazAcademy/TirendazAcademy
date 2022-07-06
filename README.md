@@ -41,11 +41,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hands-on Random Forest with Python](https://pub.towardsai.net/hands-on-random-forest-with-python-58a67cfb8448?source=rss-b5cbb779640e------2)
 - [Breast Cancer Detection with Decision Trees](https://medium.com/mlearning-ai/breast-cancer-detection-with-decision-trees-f66637ac482e?source=rss-b5cbb779640e------2)
 - [6 Best Programming Languages ​​for AI](https://pub.towardsai.net/6-best-programming-languages-for-ai-8ef01eb70445?source=rss-b5cbb779640e------2)
 - [Ensemble Learning — AdaBoost with Python](https://medium.com/mlearning-ai/ensemble-learning-adaboost-with-python-8332778fbb61?source=rss-b5cbb779640e------2)
 - [Ensemble Learning — Bagging with Python](https://medium.com/mlearning-ai/ensemble-learning-bagging-with-python-59bd7732fd01?source=rss-b5cbb779640e------2)
-- [8 Best Seaborn Visualizations](https://medium.com/geekculture/8-best-seaborn-visualizations-20143a4b3b2f?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
