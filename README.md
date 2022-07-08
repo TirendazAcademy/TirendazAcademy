@@ -31,11 +31,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CLASSIFICATION ANALYSIS with XGBOOST 🔥 Python Machine Learning Tutorial](https://www.youtube.com/watch?v=GlprmqOjyho)
 - [REGRESSION ANALYSIS WITH XGBOOST | Python Machine Learning Tutorial](https://www.youtube.com/watch?v=LitBAQAEG0k)
 - [RANDOM FOREST with SCIKIT LEARN | Python Machine Learning Tutorial](https://www.youtube.com/watch?v=iQiU0jM4IPs)
 - [DECISION TREES ANALYSIS with SCIKIT LEARN 🔥 Python Machine Learning Tutorial](https://www.youtube.com/watch?v=P_etvWMThPM)
 - [4 LANGUAGES EVERY DATA ENGINEER SHOULD KNOW](https://www.youtube.com/watch?v=JxWxWmn8G8o)
-- [7 TIPS FOR A SUCCESSFUL DEEP LEARNING PROJECT](https://www.youtube.com/watch?v=vqhaBRo0X04)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
