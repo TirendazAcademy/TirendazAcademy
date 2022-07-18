@@ -51,11 +51,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [PYTHON ile MAKİNE ÖĞRENMESİ | Veri Bilimi Dersleri](https://www.youtube.com/watch?v=u1xmMoH8hjY)
 - [PYTHON ile VERİ BİLİMİ PROJESİ 🔥 Veri Temizleme &amp; Veri Görselleştirme](https://www.youtube.com/watch?v=RlK0dCVCr_s)
 - [DERİN ÖĞRENME PROJELERİ için 7 TÜYO 🔥 Yapay Zeka Dersleri](https://www.youtube.com/watch?v=MyHTkt7piZk)
 - [PYTHON ile VERİ ANALİZİ 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=cG2AoJ5TKLY)
 - [R ile VERİ ANALİZİ 🔥 GRAFİKLER | VERİ BİLİMİ DERSLERİ](https://www.youtube.com/watch?v=GmJ68NOpANY)
-- [YAZILIM ÖĞRENMEK için WEB SİTELERİ 🔥 Kodlamaya İlk Adım](https://www.youtube.com/watch?v=iYWrRlBIUlA)
 <!-- YOUTUBETR:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
