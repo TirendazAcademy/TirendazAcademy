@@ -51,7 +51,7 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
-- [PYTHON ile MAKİNE ÖĞRENMESİ | Veri Bilimi Dersleri](https://www.youtube.com/watch?v=u1xmMoH8hjY)
+- [PYTHON ile MAKİNE ÖĞRENMESİ 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=u1xmMoH8hjY)
 - [PYTHON ile VERİ BİLİMİ PROJESİ 🔥 Veri Temizleme &amp; Veri Görselleştirme](https://www.youtube.com/watch?v=RlK0dCVCr_s)
 - [DERİN ÖĞRENME PROJELERİ için 7 TÜYO 🔥 Yapay Zeka Dersleri](https://www.youtube.com/watch?v=MyHTkt7piZk)
 - [PYTHON ile VERİ ANALİZİ 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=cG2AoJ5TKLY)
