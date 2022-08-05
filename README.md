@@ -51,11 +51,11 @@
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [VERİ MÜHENDİSLİĞİ NEDİR 🔥 Veri Bilimcisi vs Veri Mühendisi](https://www.youtube.com/watch?v=dIEteNC1YXU)
 - [PYTHON ile MAKİNE ÖĞRENMESİ 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=u1xmMoH8hjY)
 - [PYTHON ile VERİ BİLİMİ PROJESİ 🔥 Veri Temizleme &amp; Veri Görselleştirme](https://www.youtube.com/watch?v=RlK0dCVCr_s)
 - [DERİN ÖĞRENME PROJELERİ için 7 TÜYO 🔥 Yapay Zeka Dersleri](https://www.youtube.com/watch?v=MyHTkt7piZk)
 - [PYTHON ile VERİ ANALİZİ 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=cG2AoJ5TKLY)
-- [R ile VERİ ANALİZİ 🔥 GRAFİKLER | VERİ BİLİMİ DERSLERİ](https://www.youtube.com/watch?v=GmJ68NOpANY)
 <!-- YOUTUBETR:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
