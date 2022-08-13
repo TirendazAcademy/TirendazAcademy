@@ -41,7 +41,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Free Websites To Learn Programming in 2022](https://medium.com/geekculture/10-best-free-websites-to-learn-programming-in-2022-e636f4642a26?source=rss-b5cbb779640e------2)
+- [10 Best Free Websites to Learn Programming in 2022](https://medium.com/geekculture/10-best-free-websites-to-learn-programming-in-2022-e636f4642a26?source=rss-b5cbb779640e------2)
 - [7 Steps for A Successful Deep Learning Project](https://heartbeat.comet.ml/7-steps-for-a-successful-deep-learning-project-1d041b7e35d3?source=rss-b5cbb779640e------2)
 - [Hands-on Random Forest with Python](https://pub.towardsai.net/hands-on-random-forest-with-python-58a67cfb8448?source=rss-b5cbb779640e------2)
 - [Breast Cancer Detection with Decision Trees](https://medium.com/mlearning-ai/breast-cancer-detection-with-decision-trees-f66637ac482e?source=rss-b5cbb779640e------2)
