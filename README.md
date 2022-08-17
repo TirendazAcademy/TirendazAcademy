@@ -27,9 +27,9 @@
 ![TirendazAcademy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirendazacademy&count_private=true&show_icons=true&theme=radical)
  
 </div>
-
+<div align="center">
 ## 💻 Latest YouTube Videos
-
+</div>
 <!-- YOUTUBE:START -->
 - [10 Best Python Libraries for Data Science](https://www.youtube.com/watch?v=ZKqIkD_gktg)
 - [What is Data Engineering? 🔥 Data Scientist vs Data Engineer](https://www.youtube.com/watch?v=9WQowlu12FI)
