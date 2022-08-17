@@ -1,5 +1,7 @@
 # <p align="center"> Hi There 👋 Welcome to Tirendaz Academy GitHub 😄 </p>
 
+![TirendazAcademy's github stats](https://github-readme-stats.vercel.app/api?username=tirendazacademy&show_icons=true&theme=solarized-dark)
+
 
 <div align="center">
 
