@@ -2,6 +2,8 @@
 
 ![TirendazAcademy's github stats](https://github-readme-stats.vercel.app/api?username=tirendazacademy&show_icons=true&theme=solarized-dark)
 
+![TirendazAcademy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirendazacademy&count_private=true&show_icons=true&theme=radical)
+
 
 <div align="center">
 
