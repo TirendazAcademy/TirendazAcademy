@@ -31,11 +31,11 @@
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Machine Learning Ecosystem](https://www.youtube.com/watch?v=g_oTsw0g7Aw)
 - [10 Best Python Libraries for Data Science](https://www.youtube.com/watch?v=ZKqIkD_gktg)
 - [What is Data Engineering? 🔥 Data Scientist vs Data Engineer](https://www.youtube.com/watch?v=9WQowlu12FI)
 - [CLASSIFICATION ANALYSIS with XGBOOST 🔥 Python Machine Learning Tutorial](https://www.youtube.com/watch?v=GlprmqOjyho)
 - [REGRESSION ANALYSIS WITH XGBOOST | Python Machine Learning Tutorial](https://www.youtube.com/watch?v=LitBAQAEG0k)
-- [RANDOM FOREST with SCIKIT LEARN | Python Machine Learning Tutorial](https://www.youtube.com/watch?v=iQiU0jM4IPs)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
