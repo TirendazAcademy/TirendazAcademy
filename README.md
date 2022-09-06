@@ -16,13 +16,56 @@
 [![](https://img.shields.io/badge/Medium-English-purple.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 [![](https://img.shields.io/badge/Medium-Turkish-darkred.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
-## :smile: Social Media
+## 🎉 Social Media
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
-[![](https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=red)](https://www.kaggle.com/TirendazAcademy)
+[![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/TirendazAcademy)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/TirendazAcademy)
+[![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Tirendaz-Academy)
+[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/TirendazAcademy)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/TirendazAcademy)
  
+## 🤜🤛 Group
+ 
+[![](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/18967083/tirendaz-academy)
+[![](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/TirendazAcademy)
+ 
+## 🚀 Skills
 
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
+[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+[![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
+[![](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)]()
+[![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
+[![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)]()
+[![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+[![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]()
+ 
+##  ☁ Cloud 
+ 
+[![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+[![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
+
+## Most Used Languages 
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tirendazacademy&theme=blue-green)]()
+
+ 
 <!--
 <br />
 ![TirendazAcademy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirendazacademy&count_private=true&show_icons=true&theme=radical)
@@ -94,25 +137,23 @@
 
 ## 🔭 Trainings we are working on
 
-- PyTorch
 - MLOps
-- Docker
-- Kubernetes
+- Data Engineering
+- Docker & Kubernetes
 - Cloud Computing
 - Bioinformatics
 
 ## 📫 Contact Us
 
-tirendazcontact@gmail.com
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tirendazcontact@gmail.com)
 
 <br />
 
 ## 🎯 Website
 
-https://tirendazacademy.github.io
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tirendazacademy.github.io)
 
 <br />
-
 
 <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> 
 
