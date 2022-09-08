@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## 🏬 Online Education Sites
+## 🏬 Online Education Websites
 
 [![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi)
