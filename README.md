@@ -1,7 +1,10 @@
-# <p align="center"> Hi There 👋 Welcome to Tirendaz Academy GitHub 😄 </p>
-
+# <p align="center"> Hi There 👋 Welcome to Tirendaz Academy GitHub Page 😄 </p>
 
 <div align="center">
+ 
+## 😚 Who are we? 
+ 
+Tirendaz Academy is a Kaggle expert and top writer in AI. We provide trainings, presentations, and consultations on online platforms such as YouTube, Medium, and Kaggle in areas such as data science, AI, machine learning, and deep learning. 
 
 ## 🏬 Our Online Education Websites
 
