@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## 🏬 Online Education Websites
+## 🏬 Our Online Education Websites
 
 [![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi)
@@ -11,12 +11,12 @@
 [![](https://img.shields.io/badge/Udemy-Education-darkgreen?style=for-the-badge)](https://www.udemy.com/user/tirendaz-akademi-2)
 -->
 
-## 📕 Blog Pages
+## 📕 Our Blog Pages
 
 [![](https://img.shields.io/badge/Medium-English-purple.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 [![](https://img.shields.io/badge/Medium-Turkish-darkred.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
 
-## 🎉 Social Media
+## 🎉 Our Social Media
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
@@ -26,7 +26,7 @@
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/TirendazAcademy)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/TirendazAcademy)
  
-## 🤜🤛 Group
+## 🤜🤛 Groups
  
 [![](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/18967083/tirendaz-academy)
 [![](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/TirendazAcademy)
@@ -54,7 +54,7 @@
 [![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
  
-##  ☁ Cloud 
+##  ☁ Cloud Platforms
  
 [![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
