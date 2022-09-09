@@ -2,7 +2,7 @@
 
 ## <p align="center"> 😚 Who are we?  </p>
 
-Tirendaz Academy creates content on online platforms and provides consultancy in areas such as data science, artificial intelligence, machine learning, and deep learning. Tirendaz Academy also is a writer in AI and Kaggle expert.
+Tirendaz Academy creates content on online platforms and provides consultancy in areas such as data science, artificial intelligence, cloud computing, machine learning, and deep learning. Tirendaz Academy also is a writer in AI and Kaggle expert.
 
 <div align="center">
 
