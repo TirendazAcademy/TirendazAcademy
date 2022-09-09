@@ -1,6 +1,6 @@
 # <p align="center"> Hi There 👋 Welcome to Tirendaz Academy GitHub Page 😄 </p>
 
-## <p align="center"> 😚 Who are we?  </p>
+## <p align="center">  About Us </p>
 
 Tirendaz Academy creates content on online platforms such as Medium & Youtube and provides consultancy services in areas such as data science, artificial intelligence, cloud computing, machine learning, and deep learning. Tirendaz Academy also is a top writer in AI and Kaggle expert.
 
