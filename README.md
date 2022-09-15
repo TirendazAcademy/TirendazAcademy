@@ -36,33 +36,66 @@ Tirendaz Academy creates content on online platforms such as Medium, Youtube, an
  
 ## 🚀 Skills
 
+## Programming Languages
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/R-023047?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/Julia-219ebc?style=for-the-badge&logo=julia&logoColor=black)]()
 [![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-[![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
-[![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
-[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
-[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
-[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
+
+## Data Science Frameworks
+
+[![](https://img.shields.io/badge/TensorFlow-e76f51?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![](https://img.shields.io/badge/PyTorch-fb5607.svg?style=for-the-badge&logo=pytorch&logoColor=white)]()
+[![](https://img.shields.io/badge/Sklearn-31572c.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+[![](https://img.shields.io/badge/pyspark-d90429.svg?style=for-the-badge&logo=pyspark&logoColor=white)]()
+[![](https://img.shields.io/badge/pycaret-fb8b24.svg?style=for-the-badge&logo=pycaret&logoColor=white)]()
+[![](https://img.shields.io/badge/pandas-03045e?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![](https://img.shields.io/badge/Matplotlib-f72585?style=for-the-badge&logo=matplotlib&logoColor=white)]()
+[![](https://img.shields.io/badge/seaborn-3a0ca3?style=for-the-badge&logo=seaborn&logoColor=white)]()
+[![](https://img.shields.io/badge/ggplot-000814?style=for-the-badge&logo=ggplot&logoColor=white)]()
+[![](https://img.shields.io/badge/caret-8ac926?style=for-the-badge&logo=caret&logoColor=white)]()
+[![](https://img.shields.io/badge/SPSS-001d3d?style=for-the-badge&logo=spss&logoColor=white)]()
 [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
 [![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)]()
+
+## Machine Learning Engineering Frameworks
+
+[![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)]()
 [![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+[![](https://img.shields.io/badge/github-001219?style=for-the-badge&logo=github&logoColor=white)]()
+[![](https://img.shields.io/badge/Linux-ae2012?style=for-the-badge&logo=Linux&logoColor=white)]()
 [![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]()
+[![Framework](https://img.shields.io/badge/Streamlit-red.svg?style=for-the-badge&logo=streamlit&logoColor=white)]()
+[![](https://img.shields.io/badge/bigquery-f15bb5?style=for-the-badge&logo=bigquery&logoColor=white)]()
+
+## Web Frameworks
+
+[![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![](https://img.shields.io/badge/FastAPI-darkgreen.svg?style=for-the-badge&logo=fastapi&logoColor=white)]()
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
-[![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
-[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
- 
+[![](https://img.shields.io/badge/Markdown-3c096c?style=for-the-badge&logo=markdown&logoColor=white)]()
+[![](https://img.shields.io/badge/Bootstrap-7678ed?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+
 ##  ☁ Cloud Platforms
  
 [![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
 [![](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)]()
+
+## DataBases
+
+[![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![](https://img.shields.io/badge/MySQL-3c096c?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+
+## Game Framework
+
+[![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 
 ## Most Used Languages 
 
@@ -137,14 +170,6 @@ Tirendaz Academy creates content on online platforms such as Medium, Youtube, an
 - App Development
 - Blogging
 - Deploying
-
-## 🔭 Trainings we are working on
-
-- MLOps
-- Data Engineering
-- Docker & Kubernetes
-- Cloud Computing
-- Bioinformatics
 
 ## 📫 Contact Us
 
