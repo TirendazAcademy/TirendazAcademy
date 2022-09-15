@@ -6,7 +6,7 @@ Tirendaz Academy creates content on online platforms such as Medium, Youtube, an
 
 <div align="center">
 
-## 🏬 Our Online Education Websites
+## 🏬 Online Education Websites
 
 [![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi)
@@ -14,7 +14,7 @@ Tirendaz Academy creates content on online platforms such as Medium, Youtube, an
 [![](https://img.shields.io/badge/Udemy-Education-darkgreen?style=for-the-badge)](https://www.udemy.com/user/tirendaz-akademi-2)
 -->
 
-## 📕 Our Blog Pages
+## 📕 Blog Pages
 
 [![](https://img.shields.io/badge/Medium-English-purple.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 [![](https://img.shields.io/badge/Medium-Turkish-darkred.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
