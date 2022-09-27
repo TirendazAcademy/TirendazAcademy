@@ -112,11 +112,11 @@ Tirendaz Academy creates content on online platforms such as Medium, Youtube, an
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The 5 Biggest Data Science Trends In 2022](https://www.youtube.com/watch?v=IiifRffornM)
 - [Displaying an Image with Python Matplotlib 🔥 Data Visualization Tutorial](https://www.youtube.com/watch?v=0Xzy_8gAJ80)
 - [REGRESSION ANALYSIS with BIGQUERY 🔥 Google BigQuery Tutorial 🔥 No Talking](https://www.youtube.com/watch?v=o7_qjsPyiqM)
 - [CLASSIFICATION with BIGQUERY 🔥 Google BigQuery Tutorial 🔥 No Talking](https://www.youtube.com/watch?v=A53wKYGTz84)
 - [MACHINE LEARNING with BIGQUERY 🔥 Google BigQuery Tutorial 🔥 No Talking](https://www.youtube.com/watch?v=77RJwtjkIA0)
-- [The Machine Learning Ecosystem](https://www.youtube.com/watch?v=g_oTsw0g7Aw)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
