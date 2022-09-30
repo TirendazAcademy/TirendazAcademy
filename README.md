@@ -122,11 +122,11 @@ Tirendaz Academy creates content on online platforms such as Medium, Youtube, an
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Free Resources for Learning Natural Language Processing](https://levelup.gitconnected.com/5-free-resources-for-learning-natural-language-processing-857cabbc6aa?source=rss-b5cbb779640e------2)
 - [Hands-on Regression Analysis with BigQuery](https://medium.com/geekculture/hands-on-regression-analysis-with-bigquery-7925dca179ff?source=rss-b5cbb779640e------2)
 - [Data Manipulation with Pyspark in 10 Steps](https://levelup.gitconnected.com/data-manipulation-with-pyspark-in-10-steps-ac9d4a0f96f9?source=rss-b5cbb779640e------2)
 - [Three Tree-Based Machine Learning Models](https://heartbeat.comet.ml/three-tree-based-machine-learning-models-b69504af12d6?source=rss-b5cbb779640e------2)
 - [10 Best Free Websites to Learn Programming in 2022](https://medium.com/geekculture/10-best-free-websites-to-learn-programming-in-2022-e636f4642a26?source=rss-b5cbb779640e------2)
-- [7 Steps for A Successful Deep Learning Project](https://heartbeat.comet.ml/7-steps-for-a-successful-deep-learning-project-1d041b7e35d3?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Latest YouTube Videos (Turkish)
