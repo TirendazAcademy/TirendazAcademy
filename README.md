@@ -112,11 +112,11 @@ Tirendaz Academy creates content on online platforms such as Medium, Youtube, an
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [5 Tips to Improve Your Data Science Skills](https://www.youtube.com/watch?v=b78E7WrtUN0)
 - [DATA ENGINEER SKILLS 2022](https://www.youtube.com/watch?v=F-QUvUyPODM)
 - [10 Best Machine Learning Algorithms](https://www.youtube.com/watch?v=7J2u_chHmpM)
 - [5 Best Real-World Applications of Reinforcement Learning](https://www.youtube.com/watch?v=Sq4MI_fdzrI)
 - [The 5 Biggest Data Science Trends In 2022](https://www.youtube.com/watch?v=IiifRffornM)
+- [Displaying an Image with Python Matplotlib 🔥 Data Visualization Tutorial](https://www.youtube.com/watch?v=0Xzy_8gAJ80)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
