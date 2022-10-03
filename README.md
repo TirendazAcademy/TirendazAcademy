@@ -112,11 +112,11 @@ Tirendaz Academy creates content on online platforms such as Medium, Youtube, an
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Full Stack Developer Roadmap 2022](https://www.youtube.com/watch?v=M231o5dPfXM)
 - [Top 7 Data Scientist Skills](https://www.youtube.com/watch?v=fJSE8AB-AcM)
 - [5 Tips to Imrove Your Data Science Skills](https://www.youtube.com/watch?v=Ezdw8JIpxIs)
 - [DATA ENGINEER SKILLS 2022](https://www.youtube.com/watch?v=F-QUvUyPODM)
 - [10 Best Machine Learning Algorithms](https://www.youtube.com/watch?v=7J2u_chHmpM)
-- [5 Best Real-World Applications of Reinforcement Learning](https://www.youtube.com/watch?v=Sq4MI_fdzrI)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
