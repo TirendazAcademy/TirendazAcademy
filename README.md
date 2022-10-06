@@ -112,11 +112,11 @@ Tirendaz Academy creates content on online platforms such as Medium, Youtube, an
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7 Best Careers for Computer Science](https://www.youtube.com/watch?v=wCRR51Yy9qs)
 - [What Is Python Used For?](https://www.youtube.com/watch?v=EAcKKhKhtWs)
 - [Full Stack Developer Roadmap 2022](https://www.youtube.com/watch?v=M231o5dPfXM)
 - [Top 7 Data Scientist Skills](https://www.youtube.com/watch?v=fJSE8AB-AcM)
 - [5 Tips to Imrove Your Data Science Skills](https://www.youtube.com/watch?v=Ezdw8JIpxIs)
-- [DATA ENGINEER SKILLS 2022](https://www.youtube.com/watch?v=F-QUvUyPODM)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
