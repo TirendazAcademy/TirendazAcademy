@@ -173,7 +173,10 @@ Tirendaz Academy creates content on online platforms such as Medium, Youtube, an
 
 ## 📫 Contact Us
 
+tirendazcontact@gmail.com
+<!--
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tirendazcontact@gmail.com)
+-->
 
 ## 🎯 Website
 
