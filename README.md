@@ -97,12 +97,12 @@ Tirendaz Academy creates content on online platforms such as Medium, Youtube, an
 
 [![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 
+
+<!--
 ## Most Used Languages 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tirendazacademy&theme=blue-green)]()
 
- 
-<!--
 <br />
 ![TirendazAcademy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirendazacademy&count_private=true&show_icons=true&theme=radical)
 -->
