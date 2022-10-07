@@ -132,11 +132,11 @@ Tirendaz Academy creates content on online platforms such as Medium, Youtube, an
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [Geleceğin Bilişim Meslekleri](https://www.youtube.com/watch?v=GsvnbBA_NiI)
 - [Veri Bilimi için Bilmeniz Gereken 7 Alan](https://www.youtube.com/watch?v=qH5zs_M0rK8)
 - [VERİ TABANLARI İLE ÇALIŞMAK-2 🔥 R İLE VERİ BİLİMİ DERSLERİ](https://www.youtube.com/watch?v=7OS9kJ1AxGY)
 - [GOOGLE BIGQUERY ile MAKİNE ÖĞRENMESİ 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=M1zsyMqLba8)
 - [VERİLER İLE ÇALIŞMAK | VERİ TEMİZLEME | R İLE VERİ BİLİMİ DERSLERİ](https://www.youtube.com/watch?v=2pTGprlJLHY)
-- [MAKİNE ÖĞRENMESİ EKOSİSTEMİ | Python Yapay Zeka Dersleri](https://www.youtube.com/watch?v=lZPP579Vl0U)
 <!-- YOUTUBETR:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
