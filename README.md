@@ -2,7 +2,7 @@
 
 ## <p align="center"> 🚀 About Us </p>
 
-Tirendaz Academy creates content on online platforms such as Medium, Youtube, Tiktok, Instagram, and Kaggle and provides online education in areas such as data science, AI, cloud computing, machine learning, and deep learning. Tirendaz Academy also is a top writer in AI and Kaggle expert.
+We are a content creator on data science, AI, machine learning, deep learning, MLOps, data engineering, cloud computing, and web development. We are also a top writer in AI on Medium and a Kaggle expert. 
 
 <div align="center">
 
