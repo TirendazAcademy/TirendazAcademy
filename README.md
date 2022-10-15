@@ -130,11 +130,11 @@ We are a content creator on data science, AI, machine learning, deep learning, M
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [PYTHON ile SIFIRDAN MAKİNE ÖĞRENMESİ 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=Q7VEAt3FdAA)
 - [🔥 EN İYİ PYTHON YAPAY ZEKA FRAMEWORKLERİ](https://www.youtube.com/watch?v=IPvL_MTrhTk)
 - [Geleceğin Bilişim Meslekleri](https://www.youtube.com/watch?v=GsvnbBA_NiI)
 - [Veri Bilimi için Bilmeniz Gereken 7 Alan](https://www.youtube.com/watch?v=qH5zs_M0rK8)
 - [VERİ TABANLARI İLE ÇALIŞMAK-2 🔥 R İLE VERİ BİLİMİ DERSLERİ](https://www.youtube.com/watch?v=7OS9kJ1AxGY)
-- [GOOGLE BIGQUERY ile MAKİNE ÖĞRENMESİ 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=M1zsyMqLba8)
 <!-- YOUTUBETR:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
