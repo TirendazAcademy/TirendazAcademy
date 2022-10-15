@@ -57,9 +57,6 @@ We are a content creator on data science, AI, machine learning, deep learning, M
 [![](https://img.shields.io/badge/seaborn-3a0ca3?style=for-the-badge&logo=seaborn&logoColor=white)]()
 [![](https://img.shields.io/badge/ggplot-000814?style=for-the-badge&logo=ggplot&logoColor=white)]()
 [![](https://img.shields.io/badge/caret-8ac926?style=for-the-badge&logo=caret&logoColor=white)]()
-[![](https://img.shields.io/badge/SPSS-001d3d?style=for-the-badge&logo=spss&logoColor=white)]()
-[![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
-[![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)]()
 
 ## Machine Learning Engineering Frameworks
 
