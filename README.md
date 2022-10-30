@@ -139,11 +139,11 @@ We are a content creator on data science, AI, machine learning, deep learning, M
 
 ## 📕 Latest Blog Posts (Turkish)
 <!-- BLOG-POST-LIST-TR:START -->
+- [Makine Öğrenmesi Ekosistemi](https://tirendazakademi.medium.com/makine-%C3%B6%C4%9Frenmesi-ekosistemi-9acaad4eb92a?source=rss-e9566c9f34a3------2)
 - [Yazılım Öğrenmek için Ücretsiz 10 Web Sitesi](https://tirendazakademi.medium.com/yaz%C4%B1l%C4%B1m-%C3%B6%C4%9Frenmek-i%C3%A7in-%C3%BCcretsiz-10-web-sitesi-e077b940c6db?source=rss-e9566c9f34a3------2)
 - [Veri Bilimi için 10 Python Kütüphanesi](https://tirendazakademi.medium.com/veri-bilimi-i%C3%A7in-10-python-k%C3%BCt%C3%BCphanesi-bacf0600d298?source=rss-e9566c9f34a3------2)
 - [Derin Öğrenme ve Makine Öğrenmesi Arasındaki 7 Fark](https://tirendazakademi.medium.com/derin-%C3%B6%C4%9Frenme-ve-makine-%C3%B6%C4%9Frenmesi-aras%C4%B1ndaki-7-fark-acb151d5975a?source=rss-e9566c9f34a3------2)
 - [Python ile Data Pipeline &lpar;Veri Hattı&rpar;](https://medium.com/devopsturkiye/python-ile-data-pipeline-veri-hatt%C4%B1-d50b851b94a7?source=rss-e9566c9f34a3------2)
-- [TensorFlow Hub ile Duygu Analizi](https://tirendazakademi.medium.com/tensorflow-hub-ile-duygu-analizi-6dced48f48a6?source=rss-e9566c9f34a3------2)
 <!-- BLOG-POST-LIST-TR:END -->
 
 ## ✏️ **Work Areas**
