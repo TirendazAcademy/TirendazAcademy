@@ -111,11 +111,11 @@ We are a content creator on data science, AI, machine learning, deep learning, M
 ## 💻 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is Kaggle?](https://www.youtube.com/watch?v=dsLjJagUUJc)
 - [8 BEST LIBRARIES USED IN KAGGLE 2022](https://www.youtube.com/watch?v=YSPw9hnfquc)
 - [5 BEST AI PYTHON FRAMEWORKS 2022](https://www.youtube.com/watch?v=FsqNtUhWFlM)
 - [5 Best Skills to Learn for the Future](https://www.youtube.com/watch?v=A7Svrutq97k)
 - [7 Best Careers for Computer Science](https://www.youtube.com/watch?v=wCRR51Yy9qs)
-- [What Is Python Used For?](https://www.youtube.com/watch?v=EAcKKhKhtWs)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts
