@@ -1,4 +1,4 @@
-# <p align="center"> Hi There 👋 Welcome to Tirendaz Academy GitHub Page 😄 </p>
+# <p align="center"> Hi There 👋 Welcome to Tirendaz Academy 😄 </p>
 
 ## <p align="center"> 🚀 About Us </p>
 
@@ -158,7 +158,7 @@ We are a content creator on data science, AI, machine learning, deep learning, M
 - Web Design 
 - MLOps
 - Bioinformatics
-
+<!--
 ## 👍 **Services Offered**
 
 - Online Education
@@ -169,7 +169,7 @@ We are a content creator on data science, AI, machine learning, deep learning, M
 - App Development
 - Blogging
 - Deploying
-
+-->
 ## 📫 Contact Us
 
 tirendazcontact@gmail.com
