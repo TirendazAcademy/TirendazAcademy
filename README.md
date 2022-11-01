@@ -35,6 +35,7 @@ We are a content creator on data science, AI, machine learning, deep learning, M
 [![](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/18967083/tirendaz-academy)
 [![](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/TirendazAcademy)
  
+<!--
 ## 🚀 Skills
 
 ## Programming Languages
@@ -96,7 +97,7 @@ We are a content creator on data science, AI, machine learning, deep learning, M
 [![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 
 
-<!--
+
 ## Most Used Languages 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tirendazacademy&theme=blue-green)]()
