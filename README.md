@@ -2,7 +2,7 @@
 
 ## <p align="center"> 🚀 About Us </p>
 
-We are a content creator on data science, AI, machine learning, deep learning, MLOps, data engineering, cloud computing, and web development. We are also a top writer in AI on Medium and a Kaggle expert. Don't forget to follow us on our social media accounts below 👇
+Tirendaz Academy are a content creator on data science, AI, machine learning, deep learning, MLOps, data engineering, cloud computing, and web development. We are also a top writer in AI on Medium and a Kaggle expert. Don't forget to follow us on our social media accounts below 👇
 
 <div align="center">
 
