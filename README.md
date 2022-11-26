@@ -131,11 +131,11 @@ We are a content creator on data science, AI, machine learning, deep learning, M
 ## 💻 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [MAKİNE ÖĞRENMESİ YOL HARİTASI 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=s14_W_mpapw)
 - [PYTHON ile MAKİNE ÖĞRENMESİ-101 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=nyc3ZeFHAVA)
 - [Kaggle Nedir?](https://www.youtube.com/watch?v=dJAZQSM2vOY)
 - [VERİ BİLİMİ NEDİR?](https://www.youtube.com/watch?v=ELyINYzeLWY)
 - [Makine Öğrenmesi Cool🎉](https://www.youtube.com/watch?v=K3qCXlFA3xY)
-- [PYTHON ile SIFIRDAN MAKİNE ÖĞRENMESİ 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=Q7VEAt3FdAA)
 <!-- YOUTUBETR:END -->
 
 ## 📕 Latest Blog Posts (Turkish)
