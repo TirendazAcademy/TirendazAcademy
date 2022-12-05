@@ -79,8 +79,6 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 
 tirendazcontact@gmail.com
 
-<br />
-
 <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> 
 
 [![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)  
