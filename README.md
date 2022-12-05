@@ -28,11 +28,11 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 ### 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Steps to Become a Machine Learning Engineer](https://heartbeat.comet.ml/7-steps-to-become-a-machine-learning-engineer-698cba0bc43c?source=rss-b5cbb779640e------2)
 - [Classification in Machine Learning: A Guide for Beginners](https://medium.com/geekculture/classification-in-machine-learning-a-guide-for-beginners-fe586e299721?source=rss-b5cbb779640e------2)
 - [Hands-on Data Analysis With PySpark](https://heartbeat.comet.ml/hands-on-data-analysis-with-pyspark-cd565cc020d5?source=rss-b5cbb779640e------2)
 - [Logistic Regression with BigQuery ML in 6 Steps](https://pub.towardsai.net/logistic-regression-with-bigquery-ml-in-6-steps-7a8ce7700ee8?source=rss-b5cbb779640e------2)
 - [5 Free Resources for Learning Natural Language Processing](https://levelup.gitconnected.com/5-free-resources-for-learning-natural-language-processing-857cabbc6aa?source=rss-b5cbb779640e------2)
-- [Hands-on Regression Analysis with BigQuery](https://medium.com/geekculture/hands-on-regression-analysis-with-bigquery-7925dca179ff?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗 Let's Connect! (Turkish)
