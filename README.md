@@ -15,16 +15,6 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 [![](https://img.shields.io/badge/Stackoverflow-F58025?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18967083/tirendaz-academy)
 [![](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white)](https://www.reddit.com/user/TirendazAcademy)
 
-### 🔗 Let's Connect! (Turkish)
-
-[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi)
-[![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/AkademiTirendaz)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?&style=plastic&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAkademi)
-[![](https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white)](https://www.tiktok.com/TirendazAkademi)
-[![](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=udemy&logoColor=white)](https://www.udemy.com/user/tirendaz-akademi-2)
-
-
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -44,6 +34,15 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 - [5 Free Resources for Learning Natural Language Processing](https://levelup.gitconnected.com/5-free-resources-for-learning-natural-language-processing-857cabbc6aa?source=rss-b5cbb779640e------2)
 - [Hands-on Regression Analysis with BigQuery](https://medium.com/geekculture/hands-on-regression-analysis-with-bigquery-7925dca179ff?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
+
+### 🔗 Let's Connect! (Turkish)
+
+[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi)
+[![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/AkademiTirendaz)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?&style=plastic&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAkademi)
+[![](https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white)](https://www.tiktok.com/TirendazAkademi)
+[![](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=udemy&logoColor=white)](https://www.udemy.com/user/tirendaz-akademi-2)
 
 ### 📌 Latest YouTube Videos (Turkish)
 
