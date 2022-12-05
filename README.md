@@ -1,114 +1,31 @@
-# <p align="center"> Hi There 👋 Welcome to Tirendaz Academy 😄 </p>
-
-## <p align="center"> 🚀 About Us </p>
+### Hi There 👋 Welcome to Tirendaz Academy 😄 
 
 Tirendaz Academy is a content creator on data science, AI, machine learning, deep learning, data engineering, and cloud computing. We are also a top writer in AI on Medium and a Kaggle expert. Don't forget to follow us on our social media accounts below 👇
 
-<div align="center">
+### 🔗 Let's Connect!
 
-## 🏬 Online Education Websites
+[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
+[![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/TirendazAcademy)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?&style=plastic&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
+[![](https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white)](https://www.tiktok.com/TirendazAcademy)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
+[![](https://img.shields.io/badge/Quora-B92B27?&style=plastic&logo=Quora&logoColor=white)](https://www.quora.com/profile/Tirendaz-Academy)
+[![](https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/TirendazAcademy)
+[![](https://img.shields.io/badge/Stackoverflow-F58025?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18967083/tirendaz-academy)
+[![](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white)](https://www.reddit.com/user/TirendazAcademy)
 
-[![](https://img.shields.io/badge/YouTube-English-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/TirendazAcademy)
-[![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/TirendazAcademy)
-[![](https://img.shields.io/badge/YouTube-Turkish-deeppink?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi)
+### 🔗 Let's Connect! (Turkish)
 
-<!--
-[![](https://img.shields.io/badge/Udemy-Education-darkgreen?style=for-the-badge)](https://www.udemy.com/user/tirendaz-akademi-2)
--->
-
-## 📕 Blog Pages
-
-[![](https://img.shields.io/badge/Medium-English-purple.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
-[![](https://img.shields.io/badge/Medium-Turkish-darkred.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
-
-## 🎉 Social Media
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
-[![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Tirendaz-Academy)
-[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/TirendazAcademy)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/TirendazAcademy)
- 
-## 🤜🤛 Groups
- 
-[![](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/18967083/tirendaz-academy)
-[![](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/TirendazAcademy)
- 
-<!--
-## 🚀 Skills
-
-## Programming Languages
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/R-023047?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/Julia-219ebc?style=for-the-badge&logo=julia&logoColor=black)]()
-[![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-
-## Data Science Frameworks
-
-[![](https://img.shields.io/badge/TensorFlow-e76f51?style=for-the-badge&logo=tensorflow&logoColor=white)]()
-[![](https://img.shields.io/badge/PyTorch-fb5607.svg?style=for-the-badge&logo=pytorch&logoColor=white)]()
-[![](https://img.shields.io/badge/Sklearn-31572c.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
-[![](https://img.shields.io/badge/pyspark-d90429.svg?style=for-the-badge&logo=pyspark&logoColor=white)]()
-[![](https://img.shields.io/badge/pycaret-fb8b24.svg?style=for-the-badge&logo=pycaret&logoColor=white)]()
-[![](https://img.shields.io/badge/pandas-03045e?style=for-the-badge&logo=pandas&logoColor=white)]()
-[![](https://img.shields.io/badge/Matplotlib-f72585?style=for-the-badge&logo=matplotlib&logoColor=white)]()
-[![](https://img.shields.io/badge/seaborn-3a0ca3?style=for-the-badge&logo=seaborn&logoColor=white)]()
-[![](https://img.shields.io/badge/ggplot-000814?style=for-the-badge&logo=ggplot&logoColor=white)]()
-[![](https://img.shields.io/badge/caret-8ac926?style=for-the-badge&logo=caret&logoColor=white)]()
-
-## Machine Learning Engineering Tools
-
-[![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)]()
-[![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
-[![](https://img.shields.io/badge/github-001219?style=for-the-badge&logo=github&logoColor=white)]()
-[![](https://img.shields.io/badge/Linux-ae2012?style=for-the-badge&logo=Linux&logoColor=white)]()
-[![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]()
-[![Framework](https://img.shields.io/badge/Streamlit-red.svg?style=for-the-badge&logo=streamlit&logoColor=white)]()
-[![](https://img.shields.io/badge/bigquery-f15bb5?style=for-the-badge&logo=bigquery&logoColor=white)]()
-
-## Web Frameworks
-
-[![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
-[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
-[![](https://img.shields.io/badge/FastAPI-darkgreen.svg?style=for-the-badge&logo=fastapi&logoColor=white)]()
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
-[![](https://img.shields.io/badge/Markdown-3c096c?style=for-the-badge&logo=markdown&logoColor=white)]()
-[![](https://img.shields.io/badge/Bootstrap-7678ed?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-
-##  ☁ Cloud Platforms
- 
-[![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
-[![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
-[![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
-[![](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)]()
-
-## DataBases
-
-[![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
-[![](https://img.shields.io/badge/MySQL-3c096c?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-
-## Game Framework
-
-[![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
+[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi)
+[![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/AkademiTirendaz)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?&style=plastic&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAkademi)
+[![](https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white)](https://www.tiktok.com/TirendazAkademi)
+[![](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=udemy&logoColor=white)](https://www.udemy.com/user/tirendaz-akademi-2)
 
 
-
-## Most Used Languages 
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tirendazacademy&theme=blue-green)]()
-
-<br />
-![TirendazAcademy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirendazacademy&count_private=true&show_icons=true&theme=radical)
--->
-
-</div>
-
-## 💻 Latest YouTube Videos
+### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [MACHINE LEARNING ROADMAP with Python 2023 🔥 Data Science Tutorial](https://www.youtube.com/watch?v=d3RY66YKW54)
@@ -118,7 +35,7 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 - [5 Best Skills to Learn for the Future](https://www.youtube.com/watch?v=A7Svrutq97k)
 <!-- YOUTUBE:END -->
 
-## 📕 Latest Blog Posts
+### 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Classification in Machine Learning: A Guide for Beginners](https://medium.com/geekculture/classification-in-machine-learning-a-guide-for-beginners-fe586e299721?source=rss-b5cbb779640e------2)
@@ -128,7 +45,7 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 - [Hands-on Regression Analysis with BigQuery](https://medium.com/geekculture/hands-on-regression-analysis-with-bigquery-7925dca179ff?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 💻 Latest YouTube Videos (Turkish)
+### 📌 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
 - [MAKİNE ÖĞRENMESİ YOL HARİTASI 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=s14_W_mpapw)
@@ -138,7 +55,7 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 - [Makine Öğrenmesi Cool🎉](https://www.youtube.com/watch?v=K3qCXlFA3xY)
 <!-- YOUTUBETR:END -->
 
-## 📕 Latest Blog Posts (Turkish)
+### 🚀 Latest Blog Posts (Turkish)
 <!-- BLOG-POST-LIST-TR:START -->
 - [Makine Öğrenmesi Projelerini Hızlandırmak için Bilmen Gereken Kütüphaneler](https://tirendazakademi.medium.com/makine-%C3%B6%C4%9Frenmesi-ekosistemi-9acaad4eb92a?source=rss-e9566c9f34a3------2)
 - [Yazılım Öğrenmek için Ücretsiz 10 Web Sitesi](https://tirendazakademi.medium.com/yaz%C4%B1l%C4%B1m-%C3%B6%C4%9Frenmek-i%C3%A7in-%C3%BCcretsiz-10-web-sitesi-e077b940c6db?source=rss-e9566c9f34a3------2)
@@ -147,48 +64,27 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 - [Python ile Data Pipeline &lpar;Veri Hattı&rpar;](https://medium.com/devopsturkiye/python-ile-data-pipeline-veri-hatt%C4%B1-d50b851b94a7?source=rss-e9566c9f34a3------2)
 <!-- BLOG-POST-LIST-TR:END -->
 
-## ✏️ **Work Areas**
+### 🤖 **Work Areas**
 
-- Data Science
-- AI
-- Machine Learning
-- Deep Learning
-- Programming
-- Web & App Development
-- Web Design 
-- MLOps
-- Bioinformatics
-<!--
-## 👍 **Services Offered**
+[![](https://img.shields.io/badge/AI-31C6D4?style=plastic&logo=WhenIWork&logoColor=white)]()
+[![](https://img.shields.io/badge/DataScience-9A1663?style=plastic&logo=WhenIWork&logoColor=white)]()
+[![](https://img.shields.io/badge/MachineLearning-DC5F00?style=plastic&logo=WhenIWork&logoColor=white)]()
+[![](https://img.shields.io/badge/DeepLearning-000000?style=plastic&logo=WhenIWork&logoColor=white)]()
+[![](https://img.shields.io/badge/DataEngineering-367E18?style=plastic&logo=WhenIWork&logoColor=white)]()
+[![](https://img.shields.io/badge/MLOps-0F3460?style=plastic&logo=WhenIWork&logoColor=white)]()
+[![](https://img.shields.io/badge/CloudComputing-D61C4E?style=plastic&logo=WhenIWork&logoColor=white)]()
+[![](https://img.shields.io/badge/Bioinformatics-59CE8F?style=plastic&logo=WhenIWork&logoColor=white)]()
+[![](https://img.shields.io/badge/Programming-EB1D36?style=plastic&logo=WhenIWork&logoColor=white)]()
 
-- Online Education
-- Consulting
-- Machine Learning 
-- Data Analysis
-- Web Design
-- App Development
-- Blogging
-- Deploying
--->
-## 📫 Contact Us
+### 📫 Contact Us
 
 tirendazcontact@gmail.com
-<!--
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tirendazcontact@gmail.com)
--->
-
-## 🎯 Website
-
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tirendazacademy.github.io)
 
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> 
 
 [![](https://img.shields.io/github/followers/TirendazAcademy?style=social)](https://www.github.com/TirendazAcademy)  
-
-
-
 
 
 
