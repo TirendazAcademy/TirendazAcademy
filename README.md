@@ -18,7 +18,7 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How does ChatGPT act as a Python interpreter? 🔥 ChatGPT Programming](https://www.youtube.com/watch?v=Y_rIpeVwS5Y)
+- [How does ChatGPT act as a Python interpreter?](https://www.youtube.com/watch?v=Y_rIpeVwS5Y)
 - [MACHINE LEARNING ROADMAP with Python 2023 🔥 Data Science Tutorial](https://www.youtube.com/watch?v=d3RY66YKW54)
 - [What is Kaggle?](https://www.youtube.com/watch?v=dsLjJagUUJc)
 - [8 BEST LIBRARIES USED IN KAGGLE 2022](https://www.youtube.com/watch?v=YSPw9hnfquc)
