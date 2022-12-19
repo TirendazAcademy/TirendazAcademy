@@ -18,11 +18,11 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ChatGPT for Data Science 🔥 Chat GPT Tutorial](https://www.youtube.com/watch?v=s7h8ntRQUvI)
 - [ChatGPT with Examples 🔥 Chat GPT Tutorial](https://www.youtube.com/watch?v=KVFwByOIPY8)
 - [How does ChatGPT act as a Python interpreter?](https://www.youtube.com/watch?v=Y_rIpeVwS5Y)
 - [MACHINE LEARNING ROADMAP with Python 2023 🔥 Data Science Tutorial](https://www.youtube.com/watch?v=d3RY66YKW54)
 - [What is Kaggle?](https://www.youtube.com/watch?v=dsLjJagUUJc)
-- [8 BEST LIBRARIES USED IN KAGGLE 2022](https://www.youtube.com/watch?v=YSPw9hnfquc)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
