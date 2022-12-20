@@ -10,10 +10,13 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 [![](https://img.shields.io/badge/Twitter-1DA1F2?&style=plastic&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
 [![](https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white)](https://www.tiktok.com/TirendazAcademy)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
-[![](https://img.shields.io/badge/Quora-B92B27?&style=plastic&logo=Quora&logoColor=white)](https://www.quora.com/profile/Tirendaz-Academy)
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/TirendazAcademy)
-[![](https://img.shields.io/badge/Stackoverflow-F58025?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18967083/tirendaz-academy)
 [![](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white)](https://www.reddit.com/user/TirendazAcademy)
+
+<!-- 
+[![](https://img.shields.io/badge/Stackoverflow-F58025?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18967083/tirendaz-academy)
+[![](https://img.shields.io/badge/Quora-B92B27?&style=plastic&logo=Quora&logoColor=white)](https://www.quora.com/profile/Tirendaz-Academy)
+-->
 
 ### 📌 Latest YouTube Videos
 
@@ -72,8 +75,11 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 [![](https://img.shields.io/badge/DataEngineering-367E18?style=plastic&logo=WhenIWork&logoColor=white)]()
 [![](https://img.shields.io/badge/MLOps-0F3460?style=plastic&logo=WhenIWork&logoColor=white)]()
 [![](https://img.shields.io/badge/CloudComputing-D61C4E?style=plastic&logo=WhenIWork&logoColor=white)]()
+
+<!--
 [![](https://img.shields.io/badge/Bioinformatics-59CE8F?style=plastic&logo=WhenIWork&logoColor=white)]()
 [![](https://img.shields.io/badge/Programming-EB1D36?style=plastic&logo=WhenIWork&logoColor=white)]()
+-->
 
 ### 📫 Contact Us
 
