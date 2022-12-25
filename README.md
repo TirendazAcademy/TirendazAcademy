@@ -50,7 +50,7 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 ### 📌 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
-- [ChatGPT NEDİR &amp; NASIL KULLANILIR 🔥 Chat GPT Dersleri](https://www.youtube.com/watch?v=2uEpbliQDAE)
+- [ChatGPT NEDİR &amp; NASIL KULLANILIR 🔥 Chat GPT ile Kodlama](https://www.youtube.com/watch?v=2uEpbliQDAE)
 - [ChatGPT  &amp; Python 🔥 Yapay Zeka Dersleri](https://www.youtube.com/watch?v=TflbnlCAl50)
 - [Örnekler ile ChatGPT &#39;ye Giriş 🔥 Yapay Zeka Dersleri](https://www.youtube.com/watch?v=Z-Y9aBtI21k)
 - [MAKİNE ÖĞRENMESİ YOL HARİTASI 🔥 Veri Bilimi Dersleri](https://www.youtube.com/watch?v=s14_W_mpapw)
