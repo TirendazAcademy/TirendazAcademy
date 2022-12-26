@@ -21,11 +21,11 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Building a Chatbot with OpenAI &amp; Gradio in Python](https://www.youtube.com/watch?v=JXhzFlSBvg0)
 - [SQL with ChatGPT in Python 🔥 Chat GPT Tutorial](https://www.youtube.com/watch?v=QbPqz8-IqOs)
 - [Machine Learning Engineer Roadmap 2023](https://www.youtube.com/watch?v=JENpcXojWLA)
 - [ChatGPT for Data Science 🔥 Chat GPT Tutorial](https://www.youtube.com/watch?v=s7h8ntRQUvI)
 - [ChatGPT with Examples 🔥 Chat GPT Tutorial](https://www.youtube.com/watch?v=KVFwByOIPY8)
-- [How does ChatGPT act as a Python interpreter?](https://www.youtube.com/watch?v=Y_rIpeVwS5Y)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
