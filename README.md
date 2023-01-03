@@ -21,7 +21,7 @@ Tirendaz Academy is a content creator on data science, AI, machine learning, dee
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Text to Image with Stable Diffusion &amp; ChatGPT](https://www.youtube.com/watch?v=DrZfgP6y__g)
+- [TEXT to IMAGE with STABLE DIFFUSION &amp; CHATGPT 🔥 AI Tutorial](https://www.youtube.com/watch?v=DrZfgP6y__g)
 - [7 BEST COMPUTER VISION PROJECT IDEAS](https://www.youtube.com/watch?v=hppq8abaxzc)
 - [MACHINE LEARNING with CHATGPT 🔥 Data Science Tutorial](https://www.youtube.com/watch?v=g5utGLzc6g8)
 - [10 BEST MACHINE LEARNING PROJECTS WITH DATASETS](https://www.youtube.com/watch?v=HF6NJnBq2Ig)
