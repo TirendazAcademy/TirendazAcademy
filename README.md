@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-Tirendaz Academy is a content creator on data science, AI, machine learning, deep learning, data engineering, and cloud computing. We are also a top writer in AI on Medium and a Kaggle expert. Don't forget to follow us on our social media accounts below 👇
+Our goal is to create content on data science, AI, machine learning, deep learning, and cloud computing. We are also a top writer in AI on Medium and a Kaggle expert. Don't forget to follow us on our social media accounts below 👇
 
 ### 🔗 Let's Connect!
 
