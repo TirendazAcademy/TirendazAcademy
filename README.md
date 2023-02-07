@@ -21,11 +21,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Getting Started with HUGGING FACE 🔥 AI Tutorial](https://www.youtube.com/watch?v=ir-_Ds_d8k4)
 - [5 BEST AI TOOLS to Make Your Life Easier Like ChatGPT](https://www.youtube.com/watch?v=iawOF5ZmrVc)
 - [GPT 4: The AI Revolution](https://www.youtube.com/watch?v=DnKZHShdQr0)
 - [HOW to USE CHATGPT to MAKE VIRAL YOUTUBE VIDEOS?](https://www.youtube.com/watch?v=BdzRhpQQ6yc)
 - [How to Use STABLE DIFFUSION? 🔥 AI Tutorial](https://www.youtube.com/watch?v=Om9X8dzdlYw)
-- [TEXT to IMAGE with STABLE DIFFUSION &amp; CHATGPT 🔥 AI Tutorial](https://www.youtube.com/watch?v=DrZfgP6y__g)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
