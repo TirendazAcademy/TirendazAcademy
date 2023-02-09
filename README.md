@@ -31,11 +31,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hugging Face Ecosystem](https://medium.com/mlearning-ai/the-hugging-face-ecosystem-dab2adf49bea?source=rss-b5cbb779640e------2)
 - [GPT-4: The AI Revaluation](https://medium.com/geekculture/gpt-4-the-ai-revaluation-5b66538f494e?source=rss-b5cbb779640e------2)
 - [Twitter Sentiment Analysis: FIFA World Cup 2022](https://pub.towardsai.net/twitter-sentiment-analysis-fifa-world-cup-2022-bba7e4ffc597?source=rss-b5cbb779640e------2)
 - [7 Steps to Become a Machine Learning Engineer](https://heartbeat.comet.ml/7-steps-to-become-a-machine-learning-engineer-698cba0bc43c?source=rss-b5cbb779640e------2)
 - [Classification in Machine Learning: A Guide for Beginners](https://medium.com/geekculture/classification-in-machine-learning-a-guide-for-beginners-fe586e299721?source=rss-b5cbb779640e------2)
-- [Hands-on Data Analysis With PySpark](https://heartbeat.comet.ml/hands-on-data-analysis-with-pyspark-cd565cc020d5?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗 Let's Connect! (Turkish)
