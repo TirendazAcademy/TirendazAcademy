@@ -21,11 +21,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ARTIFICIAL NEURAL NETWORKS Explained 🔥 AI Tutorial](https://www.youtube.com/watch?v=eOeKEOGlOf0)
 - [PYTHON LIBRARIES for DATA VISUALIZATION](https://www.youtube.com/watch?v=pytUakoFUts)
 - [SENTIMENT ANALYSIS with HUGGING FACE TRANSFORMERS](https://www.youtube.com/watch?v=OFed5PdDAJI)
 - [HUGGING FACE PIPELINES 🔥 AI Tutorial](https://www.youtube.com/watch?v=z-w4d7K010g)
 - [Getting Started with HUGGING FACE 🔥 AI Tutorial](https://www.youtube.com/watch?v=ir-_Ds_d8k4)
-- [5 BEST AI TOOLS to Make Your Life Easier Like ChatGPT](https://www.youtube.com/watch?v=iawOF5ZmrVc)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
