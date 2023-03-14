@@ -60,7 +60,7 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 🚀 Latest Blog Posts (Turkish)
 <!-- BLOG-POST-LIST-TR:START -->
 - [Derin Öğrenme Yol Haritası](https://tirendazakademi.medium.com/derin-%C3%B6%C4%9Frenme-yol-haritas%C4%B1-9fb9f90f5f17?source=rss-e9566c9f34a3------2)
-- [Keras Subclassing API ile Derin Öğrenme Katmanları](https://tirendazakademi.medium.com/keras-subclassing-api-ile-derin-%C3%B6%C4%9Frenme-katmanlar%C4%B1-9aaedfff2a0c?source=rss-e9566c9f34a3------2)
+- [Keras Subclassing API ile Derin Öğrenme](https://tirendazakademi.medium.com/keras-subclassing-api-ile-derin-%C3%B6%C4%9Frenme-katmanlar%C4%B1-9aaedfff2a0c?source=rss-e9566c9f34a3------2)
 - [Keras ile Kompleks Derin Öğrenme Modelleri Nasıl Kurulur?](https://tirendazakademi.medium.com/keras-ile-kompleks-derin-%C3%B6%C4%9Frenme-modelleri-112d0da45af7?source=rss-e9566c9f34a3------2)
 - [Derin Öğrenme için Yapay Sinir Ağları](https://tirendazakademi.medium.com/derin-%C3%B6%C4%9Frenme-i%C3%A7in-yapay-sinir-a%C4%9Flar%C4%B1-24edd662dc73?source=rss-e9566c9f34a3------2)
 - [Makine Öğrenmesi Yol Haritası 2023](https://tirendazakademi.medium.com/makine-%C3%B6%C4%9Frenmesi-yol-haritas%C4%B1-2023-4418c290fc00?source=rss-e9566c9f34a3------2)
