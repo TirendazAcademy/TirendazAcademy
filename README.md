@@ -21,11 +21,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DEEP LEARNING ROADMAP 🔥 AI with Python](https://www.youtube.com/watch?v=b0Y-7dv3ZXo)
 - [How to Use the KERAS FUNCTIONAL API 🔥 AI Tutorial](https://www.youtube.com/watch?v=47Y6AQF-UZo)
 - [MACHINE LEARNING ROADMAP](https://www.youtube.com/watch?v=x4tQffwUzlU)
 - [IMAGE CLASSIFICATION with KERAS 🔥 TensorFlow AI Tutorial](https://www.youtube.com/watch?v=7JvriP1lWJA)
 - [REGRESSION &amp; CLASSIFICATION with ANNs 🔥 AI Tutorial](https://www.youtube.com/watch?v=2CmFgOPeFFM)
-- [ARTIFICIAL NEURAL NETWORKS Explained 🔥 AI Tutorial](https://www.youtube.com/watch?v=eOeKEOGlOf0)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
