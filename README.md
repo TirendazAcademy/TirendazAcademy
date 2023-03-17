@@ -31,11 +31,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Learning Roadmap with Python](https://medium.com/geekculture/deep-learning-roadmap-with-python-4086642e6016?source=rss-b5cbb779640e------2)
 - [How to Use the Keras Functional API?](https://levelup.gitconnected.com/how-to-use-the-keras-functional-api-4da8efec3392?source=rss-b5cbb779640e------2)
 - [Artificial Neural Networks in Machine Learning](https://medium.com/mlearning-ai/artificial-neural-networks-in-machine-learning-fa653d74b1a1?source=rss-b5cbb779640e------2)
 - [How to Use Hugging Face Pipelines?](https://pub.towardsai.net/hugging-face-pipelines-2cce20a8e5f0?source=rss-b5cbb779640e------2)
 - [The Hugging Face Ecosystem](https://medium.com/mlearning-ai/the-hugging-face-ecosystem-dab2adf49bea?source=rss-b5cbb779640e------2)
-- [GPT-4: The AI Revaluation](https://medium.com/geekculture/gpt-4-the-ai-revaluation-5b66538f494e?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗 Let's Connect! (Turkish)
