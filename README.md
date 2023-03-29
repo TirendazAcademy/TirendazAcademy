@@ -31,11 +31,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Model Subclassing with Keras](https://levelup.gitconnected.com/model-subclassing-with-keras-d2bc3bb38ff5?source=rss-b5cbb779640e------2)
 - [End-to-End Deep Learning Project with PyTorch &amp; Comet ML](https://heartbeat.comet.ml/end-to-end-deep-learning-project-with-pytorch-comet-ml-974d22c1cc65?source=rss-b5cbb779640e------2)
 - [Creating Custom Layers with the Keras Subclassing API](https://medium.com/mlearning-ai/creating-custom-layers-with-the-keras-subclassing-api-c84f6ee4bdaf?source=rss-b5cbb779640e------2)
 - [Deep Learning Roadmap with Python](https://medium.com/geekculture/deep-learning-roadmap-with-python-4086642e6016?source=rss-b5cbb779640e------2)
 - [How to Use the Keras Functional API?](https://levelup.gitconnected.com/how-to-use-the-keras-functional-api-4da8efec3392?source=rss-b5cbb779640e------2)
-- [Artificial Neural Networks in Machine Learning](https://medium.com/mlearning-ai/artificial-neural-networks-in-machine-learning-fa653d74b1a1?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗 Let's Connect! (Turkish)
