@@ -50,11 +50,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [7 Harika Yapay Zeka Sanat Oluşturma Aracı](https://www.youtube.com/watch?v=OrHjsNq5fjg)
 - [ChatGPT NASIL KULLANILIR? 🔥 Yapay Zeka ile Hayatını Kolaylaştır](https://www.youtube.com/watch?v=Qo2SnxkkaUo)
 - [GPT-4 NASIL KULLANILIR 🔥 Yapay Zekada Devrim](https://www.youtube.com/watch?v=ydY5LnlJCQ8)
 - [DERİN ÖĞRENMEYE GİRİŞ 🔥 Python Yapay Zeka Dersleri](https://www.youtube.com/watch?v=u-ZqOSrM3Ko)
 - [MAKİNE ÖĞRENMESİ YOL HARİTASI](https://www.youtube.com/watch?v=5ryqY50bnrI)
-- [Python Veri Görselleştirme Kütüphaneleri](https://www.youtube.com/watch?v=DOwfwWkf640)
 <!-- YOUTUBETR:END -->
 
 ### 🚀 Latest Blog Posts (Turkish)
