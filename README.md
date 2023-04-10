@@ -21,11 +21,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7 Best AI Art Generator Tools](https://www.youtube.com/watch?v=cM32xaET81k)
 - [How to Improve the Performance of DEEP LEARNING MODELS?](https://www.youtube.com/watch?v=PY6F37Q18iA)
 - [How to Use ChatGPT? 🔥 Chat GPT Examples](https://www.youtube.com/watch?v=XtPGKvTTlxU)
 - [MODEL SUBCLASSING API with KERAS 🔥 TensorFlow Deep Learning Tutorials](https://www.youtube.com/watch?v=8IMei5V-2ok)
 - [How to Create Custom Layers with the KERAS SUBCLASSING API?](https://www.youtube.com/watch?v=yJgSGE2-L_o)
-- [OpenAI GPT-4 🔥 GPT-4 vs GPT-3.5 🔥 API Pricing](https://www.youtube.com/watch?v=eoz3ZsEe-Vg)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
