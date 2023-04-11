@@ -59,7 +59,7 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 
 ### 🚀 Latest Blog Posts (Turkish)
 <!-- BLOG-POST-LIST-TR:START -->
-- [Yapay Zekanın Sınırlarını Keşfet: ChatGPT Nasıl Kullanılır?](https://tirendazakademi.medium.com/chatgpt-nas%C4%B1l-kullan%C4%B1l%C4%B1r-68ed2971ff?source=rss-e9566c9f34a3------2)
+- [ChatGPT Günlük Hayatta Nasıl Kullanılır?](https://tirendazakademi.medium.com/chatgpt-nas%C4%B1l-kullan%C4%B1l%C4%B1r-68ed2971ff?source=rss-e9566c9f34a3------2)
 - [Keras Subclassing API ile Derin Öğrenme Modelleri Kurma](https://tirendazakademi.medium.com/keras-subclassing-api-ile-derin-%C3%B6%C4%9Frenme-modelleri-kurma-358255e4c2e9?source=rss-e9566c9f34a3------2)
 - [Yapay Zekada Yeni Devrim: GPT-4](https://tirendazakademi.medium.com/yapay-zekada-yeni-devrim-gpt-4-1a9f86de15e9?source=rss-e9566c9f34a3------2)
 - [Derin Öğrenme Yol Haritası](https://tirendazakademi.medium.com/derin-%C3%B6%C4%9Frenme-yol-haritas%C4%B1-9fb9f90f5f17?source=rss-e9566c9f34a3------2)
