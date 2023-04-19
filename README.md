@@ -21,11 +21,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is Python used for?](https://www.youtube.com/watch?v=pPtlZPs6G3E)
 - [How to Save &amp; Load Deep Learning Models with Keras &amp; Tensorflow?](https://www.youtube.com/watch?v=jHiotWzvnNM)
 - [7 Best AI Art Generator Tools](https://www.youtube.com/watch?v=cM32xaET81k)
 - [How to Improve the Performance of DEEP LEARNING MODELS?](https://www.youtube.com/watch?v=PY6F37Q18iA)
 - [How to Use ChatGPT? 🔥 Chat GPT Examples](https://www.youtube.com/watch?v=XtPGKvTTlxU)
-- [MODEL SUBCLASSING API with KERAS 🔥 TensorFlow Deep Learning Tutorials](https://www.youtube.com/watch?v=8IMei5V-2ok)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
