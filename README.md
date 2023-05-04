@@ -50,7 +50,7 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
-- [2023 VERİ BİLİMİ MAAŞLARI | Python Veri Görselleştirme](https://www.youtube.com/watch?v=KW6wjn8dblc)
+- [2023 VERİ BİLİMİ TRENDLERİ &amp; MAAŞLARI | Python Veri Görselleştirme](https://www.youtube.com/watch?v=KW6wjn8dblc)
 - [PYTHON YOL HARİTASI](https://www.youtube.com/watch?v=7bvErURkgMA)
 - [7 Harika Yapay Zeka Sanat Oluşturma Aracı](https://www.youtube.com/watch?v=OrHjsNq5fjg)
 - [ChatGPT NASIL KULLANILIR? 🔥 Yapay Zeka ile Hayatını Kolaylaştır](https://www.youtube.com/watch?v=Qo2SnxkkaUo)
