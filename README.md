@@ -31,11 +31,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Science Trends &amp; Salaries in 2023](https://levelup.gitconnected.com/data-science-trends-salaries-in-2023-57b75df39d32?source=rss-b5cbb779640e------2)
 - [How to Save and Load Deep Learning Models with Keras?](https://pub.towardsai.net/how-to-save-and-load-deep-learning-models-with-keras-c439ab9b6f78?source=rss-b5cbb779640e------2)
 - [Improving Deep Learning Models Performance](https://ai.plainenglish.io/improving-deep-learning-models-performance-7a6d96ef4ea7?source=rss-b5cbb779640e------2)
 - [How to Use ChatGPT in Daily Life?](https://levelup.gitconnected.com/how-to-use-chatgpt-in-daily-life-4688f7afb930?source=rss-b5cbb779640e------2)
 - [4 Crucial Things to Know about GPT-4](https://medium.com/geekculture/an-overview-of-gpt-4-in-4-steps-867bb81b31e3?source=rss-b5cbb779640e------2)
-- [Model Subclassing with Keras](https://levelup.gitconnected.com/model-subclassing-with-keras-d2bc3bb38ff5?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗 Let's Connect! (Turkish)
