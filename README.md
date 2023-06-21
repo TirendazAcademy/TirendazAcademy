@@ -21,11 +21,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [BUILDING a SIMPLE APP with  LANGCHAIN &amp; CHAINLIT](https://www.youtube.com/watch?v=B8Y40O45Bnw)
 - [LANGCHAIN TUTORIAL for BEGINNER 🔥 Crash Course 101](https://www.youtube.com/watch?v=91W52Wl4wG8)
 - [TensorFlow Basics in 10 Minutes 🔥 Deep Learning Tutorial](https://www.youtube.com/watch?v=3rLs_BOuL80)
 - [HOW to FINE-TUNE with KERAS-TUNER? 🔥 TensorFlow Deep Learning Tutorial](https://www.youtube.com/watch?v=ICLLS2WtbX8)
 - [DATA SCIENCE TRENDS &amp; SALARIES 2023 with PYTHON](https://www.youtube.com/watch?v=mSUMUwhyMQs)
-- [What is Python used for?](https://www.youtube.com/watch?v=pPtlZPs6G3E)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
