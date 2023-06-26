@@ -31,11 +31,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying the Image Classification Workflow with Lightning &amp; Comet ML](https://heartbeat.comet.ml/simplifying-the-image-classification-workflow-with-lightning-comet-ml-43d5c8cda3a8?source=rss-b5cbb779640e------2)
 - [Getting Started with LangChain for Beginners](https://levelup.gitconnected.com/getting-started-with-langchain-for-beginners-f3841119e357?source=rss-b5cbb779640e------2)
 - [A Quick Overview of TensorFlow Basics in 10 Minutes](https://medium.com/geekculture/a-quick-overview-of-tensorflow-basics-in-10-minutes-69dfedb29eb5?source=rss-b5cbb779640e------2)
 - [Data Science Trends &amp; Salaries in 2023](https://levelup.gitconnected.com/data-science-trends-salaries-in-2023-57b75df39d32?source=rss-b5cbb779640e------2)
 - [How to Save and Load Deep Learning Models with Keras?](https://pub.towardsai.net/how-to-save-and-load-deep-learning-models-with-keras-c439ab9b6f78?source=rss-b5cbb779640e------2)
-- [Improving Deep Learning Models Performance](https://ai.plainenglish.io/improving-deep-learning-models-performance-7a6d96ef4ea7?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗 Let's Connect! (Turkish)
