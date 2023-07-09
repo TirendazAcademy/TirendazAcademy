@@ -50,11 +50,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [DOĞAL DİL İŞLEME &lpar;NLP&rpar; YOL HARİTASI](https://www.youtube.com/watch?v=e1IVmzc2Ons)
 - [1 VİDEODA TENSORFLOW ile BİLGİSAYAR GÖRÜŞÜ 🔥 Python Yapay Zeka Dersleri](https://www.youtube.com/watch?v=HhGswRU26fs)
 - [YAPAY ZEKA için TENSORFLOW 🔥 Python Derin Öğrenme Dersleri](https://www.youtube.com/watch?v=6g-L84G5PHU)
 - [2023 VERİ BİLİMİ TRENDLERİ &amp; MAAŞLARI | Python Veri Görselleştirme](https://www.youtube.com/watch?v=KW6wjn8dblc)
 - [PYTHON YOL HARİTASI](https://www.youtube.com/watch?v=7bvErURkgMA)
-- [7 Harika Yapay Zeka Sanat Oluşturma Aracı](https://www.youtube.com/watch?v=OrHjsNq5fjg)
 <!-- YOUTUBETR:END -->
 
 ### 🚀 Latest Blog Posts (Turkish)
