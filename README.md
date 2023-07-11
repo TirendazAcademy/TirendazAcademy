@@ -21,11 +21,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [NATURAL LANGUAGE PROCESSING &lpar;NLP&rpar; ROADMAP](https://www.youtube.com/watch?v=_G3CEzaK6zY)
 - [PandasAI - Perform Data Analysis with Generative AI](https://www.youtube.com/watch?v=aUds2W7A_FY)
 - [Build POWERFUL APPs with ONE PROMPT 🔥 GPT-ENGINEER Tutorial](https://www.youtube.com/watch?v=rpH4m20vtrg)
 - [BUILDING a SIMPLE APP with  LANGCHAIN &amp; CHAINLIT](https://www.youtube.com/watch?v=B8Y40O45Bnw)
 - [LANGCHAIN TUTORIAL for BEGINNER 🔥 Crash Course 101](https://www.youtube.com/watch?v=91W52Wl4wG8)
-- [TensorFlow Basics in 10 Minutes 🔥 Deep Learning Tutorial](https://www.youtube.com/watch?v=3rLs_BOuL80)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
