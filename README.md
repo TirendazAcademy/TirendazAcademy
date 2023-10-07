@@ -59,11 +59,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 
 ### 🚀 Latest Blog Posts (Turkish)
 <!-- BLOG-POST-LIST-TR:START -->
+- [HuggingFace  ile Doğal Dil İşlemeye Giriş](https://tirendazakademi.medium.com/huggingface-ile-do%C4%9Fal-dil-i%CC%87%C5%9Flemeye-giri%C5%9F-719717b4a25d?source=rss-e9566c9f34a3------2)
 - [2023 Veri Bilimi Trendleri ve Maaşları](https://tirendazakademi.medium.com/2023-veri-bilimi-maa%C5%9Flar%C4%B1-711fc01f0f09?source=rss-e9566c9f34a3------2)
 - [Keras ile Model Kaydetme &amp; Yükleme](https://tirendazakademi.medium.com/keras-ile-derin-%C3%B6%C4%9Frenme-modellerini-kaydetme-y%C3%BCkleme-2cdffded5bb3?source=rss-e9566c9f34a3------2)
 - [ChatGPT Günlük Hayatta Nasıl Kullanılır?](https://tirendazakademi.medium.com/chatgpt-nas%C4%B1l-kullan%C4%B1l%C4%B1r-68ed2971ff?source=rss-e9566c9f34a3------2)
 - [Keras Subclassing API ile Derin Öğrenme Modelleri Kurma](https://tirendazakademi.medium.com/keras-subclassing-api-ile-derin-%C3%B6%C4%9Frenme-modelleri-kurma-358255e4c2e9?source=rss-e9566c9f34a3------2)
-- [Yapay Zekada Yeni Devrim: GPT-4](https://tirendazakademi.medium.com/yapay-zekada-yeni-devrim-gpt-4-1a9f86de15e9?source=rss-e9566c9f34a3------2)
 <!-- BLOG-POST-LIST-TR:END -->
 
 ### 🤖 **Work Areas**
