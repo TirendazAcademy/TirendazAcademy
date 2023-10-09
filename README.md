@@ -21,11 +21,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Transformers for TensorFlow with Sentiment Analysis 🔥 Hugging Face Tutorial](https://www.youtube.com/watch?v=R0ithM6Vhzk)
 - [Transformers for PyTorch 🔥 Hugging Face Tutorial](https://www.youtube.com/watch?v=HIUFwXlpcxE)
 - [SENTIMENT ANALSIS with Transformers 🔥Hugging Face Tutorial](https://www.youtube.com/watch?v=gxekZhXatWI)
 - [8 Best PROGRAMMING LANGUAGES for Data Science](https://www.youtube.com/watch?v=unzl8e3lmOI)
 - [Building an AI-powered App using LangChain &amp; Streamlit &amp; OpenAI](https://www.youtube.com/watch?v=PL0N6MS-tCk)
-- [Top 5 Data Science Tools in 2023](https://www.youtube.com/watch?v=lmyNlITsZlA)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
