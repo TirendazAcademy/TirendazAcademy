@@ -50,11 +50,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [Hugging Face ile Metin Sınıflandırmaya Giriş 🔥 Yol haritası](https://www.youtube.com/watch?v=yMwq2gPc8C4)
 - [ChatGPT Güncellendi](https://www.youtube.com/watch?v=uALDxLLbQNg)
 - [ChatGPT Güncellendi 🔥 İşte Son Yenilikler](https://www.youtube.com/watch?v=ToG2_94DMRE)
 - [Veri Bilimi için 8 Harika PROGRAMLAMA DİLİ](https://www.youtube.com/watch?v=W74I9-uRjt8)
 - [2023 Veri Bilimi için Bilmeniz Gereken 5 Araç](https://www.youtube.com/watch?v=4EfvzTcm9fI)
-- [DOĞAL DİL İŞLEME &lpar;NLP&rpar; YOL HARİTASI](https://www.youtube.com/watch?v=e1IVmzc2Ons)
 <!-- YOUTUBETR:END -->
 
 ### 🚀 Latest Blog Posts (Turkish)
