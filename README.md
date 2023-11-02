@@ -21,11 +21,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Named Entity Recognition with Hugging Face 🤗 NLP Tutorial For Beginners](https://www.youtube.com/watch?v=r-yR8-7dlvQ)
 - [Transformers for TensorFlow with Sentiment Analysis 🔥 Hugging Face Tutorial](https://www.youtube.com/watch?v=R0ithM6Vhzk)
 - [Transformers for PyTorch 🔥 Hugging Face Tutorial](https://www.youtube.com/watch?v=HIUFwXlpcxE)
 - [SENTIMENT ANALSIS with Transformers 🔥Hugging Face Tutorial](https://www.youtube.com/watch?v=gxekZhXatWI)
 - [8 Best PROGRAMMING LANGUAGES for Data Science](https://www.youtube.com/watch?v=unzl8e3lmOI)
-- [Building an AI-powered App using LangChain &amp; Streamlit &amp; OpenAI](https://www.youtube.com/watch?v=PL0N6MS-tCk)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
