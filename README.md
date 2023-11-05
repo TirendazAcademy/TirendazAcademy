@@ -50,7 +50,7 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
-- [Generative AI Uygulaması 🤗 Hugging Face ile NLP Projesi](https://www.youtube.com/watch?v=gixq815mDYI)
+- [Hugging Face 🤗 ile Generative AI Uygulaması Yapalım  🔥 NLP Projesi](https://www.youtube.com/watch?v=gixq815mDYI)
 - [Hugging Face ile Metin Sınıflandırmaya Giriş 🔥 Yol haritası](https://www.youtube.com/watch?v=yMwq2gPc8C4)
 - [ChatGPT Güncellendi](https://www.youtube.com/watch?v=uALDxLLbQNg)
 - [ChatGPT Güncellendi 🔥 İşte Son Yenilikler](https://www.youtube.com/watch?v=ToG2_94DMRE)
