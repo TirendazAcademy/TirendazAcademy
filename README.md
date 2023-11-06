@@ -21,11 +21,11 @@ Our aim is to create content on data science, AI, machine learning, deep learnin
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Building an NER App with HuggingFace &amp; Gradio 🤗 in Python](https://www.youtube.com/watch?v=2iRsk7HM6kg)
 - [Named Entity Recognition with Hugging Face 🤗 NLP Tutorial For Beginners](https://www.youtube.com/watch?v=r-yR8-7dlvQ)
 - [Transformers for TensorFlow with Sentiment Analysis 🔥 Hugging Face Tutorial](https://www.youtube.com/watch?v=R0ithM6Vhzk)
 - [Transformers for PyTorch 🔥 Hugging Face Tutorial](https://www.youtube.com/watch?v=HIUFwXlpcxE)
 - [SENTIMENT ANALSIS with Transformers 🔥Hugging Face Tutorial](https://www.youtube.com/watch?v=gxekZhXatWI)
-- [8 Best PROGRAMMING LANGUAGES for Data Science](https://www.youtube.com/watch?v=unzl8e3lmOI)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
