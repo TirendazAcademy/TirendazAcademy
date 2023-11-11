@@ -50,11 +50,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [Büyük Dil Modelleri &lpar;LLMs&rpar;: Mistral 7B](https://www.youtube.com/watch?v=ZshG_ItCIH8)
 - [Hugging Face 🤗 ile Generative AI Uygulaması Yapalım  🔥 NLP Projesi](https://www.youtube.com/watch?v=gixq815mDYI)
 - [Hugging Face ile Metin Sınıflandırmaya Giriş 🔥 Yol haritası](https://www.youtube.com/watch?v=yMwq2gPc8C4)
 - [ChatGPT Güncellendi](https://www.youtube.com/watch?v=uALDxLLbQNg)
 - [ChatGPT Güncellendi 🔥 İşte Son Yenilikler](https://www.youtube.com/watch?v=ToG2_94DMRE)
-- [Veri Bilimi için 8 Harika PROGRAMLAMA DİLİ](https://www.youtube.com/watch?v=W74I9-uRjt8)
 <!-- YOUTUBETR:END -->
 
 ### 🚀 Latest Blog Posts (Turkish)
