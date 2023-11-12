@@ -21,11 +21,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Work with Mistral 7B Model on Kaggle | LLM Tutorial](https://www.youtube.com/watch?v=jsCUDeg_Op4)
 - [Building an NER App with HuggingFace &amp; Gradio 🤗 in Python](https://www.youtube.com/watch?v=2iRsk7HM6kg)
 - [Named Entity Recognition with Hugging Face 🤗 NLP Tutorial For Beginners](https://www.youtube.com/watch?v=r-yR8-7dlvQ)
 - [Transformers for TensorFlow with Sentiment Analysis 🔥 Hugging Face Tutorial](https://www.youtube.com/watch?v=R0ithM6Vhzk)
 - [Transformers for PyTorch 🔥 Hugging Face Tutorial](https://www.youtube.com/watch?v=HIUFwXlpcxE)
-- [SENTIMENT ANALSIS with Transformers 🔥Hugging Face Tutorial](https://www.youtube.com/watch?v=gxekZhXatWI)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
