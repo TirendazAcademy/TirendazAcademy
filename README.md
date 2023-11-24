@@ -21,11 +21,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Music Generator App with Hugging Face 🤗 Generative AI Project](https://www.youtube.com/watch?v=_5F-toek0G8)
 - [OpenAI Whisper Large V3 Model for Automatic Speech Recognition NLP Task](https://www.youtube.com/watch?v=NfxltlkNjVs)
 - [Getting Started With Mistral 7B Instruct Model](https://www.youtube.com/watch?v=HsTgffzRhD0)
 - [How to Work with Mistral 7B Model on Kaggle | LLM Tutorial](https://www.youtube.com/watch?v=jsCUDeg_Op4)
 - [Building an NER App with HuggingFace &amp; Gradio 🤗 in Python](https://www.youtube.com/watch?v=2iRsk7HM6kg)
-- [Named Entity Recognition with Hugging Face 🤗 NLP Tutorial For Beginners](https://www.youtube.com/watch?v=r-yR8-7dlvQ)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
