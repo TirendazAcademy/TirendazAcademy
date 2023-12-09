@@ -21,11 +21,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Build a ChatBot App with Zeyphyr-3b 🤗 LLMs with Huging Face](https://www.youtube.com/watch?v=VLyJ6pDxrB4)
 - [Text Generation with GPT 🤗 NLP Tutorial with Hugging Face](https://www.youtube.com/watch?v=ymJTiQpMZT8)
 - [Music Generator App with Hugging Face 🤗 Generative AI Project](https://www.youtube.com/watch?v=_5F-toek0G8)
 - [OpenAI Whisper Large V3 Model for Automatic Speech Recognition NLP Task](https://www.youtube.com/watch?v=NfxltlkNjVs)
 - [Getting Started With Mistral 7B Instruct Model](https://www.youtube.com/watch?v=HsTgffzRhD0)
-- [How to Work with Mistral 7B Model on Kaggle | LLM Tutorial](https://www.youtube.com/watch?v=jsCUDeg_Op4)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
