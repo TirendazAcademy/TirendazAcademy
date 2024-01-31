@@ -21,11 +21,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Text-Generation App with OpenAI Python API &amp; Streamlit](https://www.youtube.com/watch?v=WPlSpjiv4tk)
 - [What is Generative AI? 🤖 Generative AI with OpenAI API #1](https://www.youtube.com/watch?v=SVOOsaWmgKk)
 - [Getting Started with Gemini API in Python | Google Gemini Pro Tutorial](https://www.youtube.com/watch?v=acZhwREEoJw)
 - [How to Build a ChatBot App with Zeyphyr-3b 🤗 LLMs with Huging Face](https://www.youtube.com/watch?v=VLyJ6pDxrB4)
 - [Text Generation with GPT 🤗 NLP Tutorial with Hugging Face](https://www.youtube.com/watch?v=ymJTiQpMZT8)
-- [Music Generator App with Hugging Face 🤗 Generative AI Project](https://www.youtube.com/watch?v=_5F-toek0G8)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
