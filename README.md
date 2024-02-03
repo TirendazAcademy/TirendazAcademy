@@ -50,11 +50,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
+- [Yeni Rüzgar ÜRETKEN YAPAY ZEKA  🔥 Generative AI Nedir - 1](https://www.youtube.com/watch?v=l0OAbS6aSyw)
 - [DOĞAL DİL İŞLEME &lpar;NLP&rpar;&#39;ye GİRİŞ 🔥 TensoFlow ile Veri Ön İşleme](https://www.youtube.com/watch?v=QLfQlegH9JY)
 - [Büyük Dil Modellerini Fine-Tune Etmek 🤗 Hugging Face ile NLP](https://www.youtube.com/watch?v=F0Q5v8Dxsf8)
 - [Metin Üretmeye &lpar;Text Generation&rpar; Giriş 🤗 HuggingFace ile NLP](https://www.youtube.com/watch?v=absWlX984Gg)
 - [Token Sınıflandırmaya Giriş🔥 Hugging Face ile NLP Dersleri](https://www.youtube.com/watch?v=QSicGnHkXX4)
-- [Büyük Dil Modelleri &lpar;LLMs&rpar;: Mistral 7B](https://www.youtube.com/watch?v=ZshG_ItCIH8)
 <!-- YOUTUBETR:END -->
 
 ### 🚀 Latest Blog Posts (Turkish)
