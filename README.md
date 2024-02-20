@@ -21,11 +21,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LangChain Prompt Templates with Ollama 🔥 Generative AI Tutorial](https://www.youtube.com/watch?v=WW-qdahaLGk)
 - [LangChain Models using OpenAI API &amp; Ollama 🔥 Generative AI Tutorial](https://www.youtube.com/watch?v=3A9aj3WBxho)
 - [What is LangChain? 🦜 LangChain New Version Explained](https://www.youtube.com/watch?v=xLDadqb3BQQ)
 - [CHATBOT App with NEW VERSION LangChain &amp; OpenAI Python API &amp; Gradio](https://www.youtube.com/watch?v=9jgpPECLvs0)
 - [Text-Generation App with OpenAI Python API &amp; Streamlit](https://www.youtube.com/watch?v=WPlSpjiv4tk)
-- [What is Generative AI? 🤖 Generative AI with OpenAI API #1](https://www.youtube.com/watch?v=SVOOsaWmgKk)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
