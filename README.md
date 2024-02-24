@@ -50,7 +50,7 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos (Turkish)
 
 <!-- YOUTUBETR:START -->
-- [LangChain: Generative AI için LangChain | Python ile Üretken Yapay Zeka - 1](https://www.youtube.com/watch?v=xd8b8-nLIpg)
+- [Generative AI için LangChain | Python ile Üretken Yapay Zeka - 1](https://www.youtube.com/watch?v=xd8b8-nLIpg)
 - [ÜRETKEN YAPAY ZEKA&#39;nın &lpar;Generative AI&rpar; Gücünü Keşfet - 2](https://www.youtube.com/watch?v=Yw-UFYOBIZ0)
 - [Yeni Rüzgar ÜRETKEN YAPAY ZEKA  🔥 Generative AI Nedir Giriş](https://www.youtube.com/watch?v=l0OAbS6aSyw)
 - [DOĞAL DİL İŞLEME &lpar;NLP&rpar;&#39;ye GİRİŞ 🔥 TensoFlow ile Veri Ön İşleme](https://www.youtube.com/watch?v=QLfQlegH9JY)
