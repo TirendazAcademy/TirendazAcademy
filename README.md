@@ -21,7 +21,7 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to USE GEMMA with KerasNLP on Colab &lpar;Free GPU!&rpar;](https://www.youtube.com/watch?v=47m5MUMmwJE)
+- [First Step: How to USE GEMMA with KerasNLP on Colab &lpar;Free GPU!&rpar;](https://www.youtube.com/watch?v=47m5MUMmwJE)
 - [How to RUN GEMMA with HuggingFace Transformers &lpar;Free GPU!&rpar;](https://www.youtube.com/watch?v=60V70JqGkuU)
 - [LangChain Prompt Templates with Ollama 🔥 Generative AI Tutorial](https://www.youtube.com/watch?v=WW-qdahaLGk)
 - [LangChain Models using OpenAI API &amp; Ollama 🔥 Generative AI Tutorial](https://www.youtube.com/watch?v=3A9aj3WBxho)
