@@ -21,11 +21,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PandasAI with the Groq Free API in LangChain using Python](https://www.youtube.com/watch?v=C6R9JLHZDH0)
 - [Data Analysis with PandasAI and Ollama - Locally and Free](https://www.youtube.com/watch?v=bw_e6xgGSTY)
 - [Groq API: Build Chat UI with Groq &amp; LangChain &amp; Gradio using Python](https://www.youtube.com/watch?v=EPuHDu8oki0)
 - [How to use GEMMA in PyTorch &lpar;Free GPU&rpar;](https://www.youtube.com/watch?v=v3HEx-t_6wY)
 - [How to RUN GEMMA with LANGCHAIN and OLLAMA Locally](https://www.youtube.com/watch?v=6oGbsAg8x5E)
-- [First Step: How to USE GEMMA with KerasNLP on Colab &lpar;Free GPU!&rpar;](https://www.youtube.com/watch?v=47m5MUMmwJE)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
