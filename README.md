@@ -21,11 +21,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [RAG with Chat History using LangChain &amp; Ollama Locally and For Free](https://www.youtube.com/watch?v=fvq1LoMI0co)
 - [RAG with LangChain &amp; Ollama Locally and For Free](https://www.youtube.com/watch?v=BLR1FgFqbRo)
 - [How to Use LlamaParse? 🦙 LlamaIndex Tutorial](https://www.youtube.com/watch?v=1bH2Zzm37a0)
 - [How to Build Chat APP with Claude API and Streamlit?](https://www.youtube.com/watch?v=M9P7JxZyyd0)
 - [Gradio APP with the Claude API using Python](https://www.youtube.com/watch?v=S0Yn2b3SDJY)
-- [PandasAI with the Groq Free API in LangChain using Python](https://www.youtube.com/watch?v=C6R9JLHZDH0)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
