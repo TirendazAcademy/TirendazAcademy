@@ -21,11 +21,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LangChain Pandas DataFrame Agent for Data Analysis](https://www.youtube.com/watch?v=fh6C_4yz5-M)
 - [Build an App with LangChain AGENTs &amp; Streamlit for Data Analysis](https://www.youtube.com/watch?v=Nzh0XcO_XuM)
 - [Build a ChatGPT clone using LangChain, Ollama &amp; Streamlit](https://www.youtube.com/watch?v=npsQMJk7IH4)
 - [RAG with Chat History using LangChain &amp; Ollama Locally and For Free](https://www.youtube.com/watch?v=fvq1LoMI0co)
 - [RAG with LangChain &amp; Ollama Locally and For Free](https://www.youtube.com/watch?v=BLR1FgFqbRo)
-- [How to Use LlamaParse? 🦙 LlamaIndex Tutorial](https://www.youtube.com/watch?v=1bH2Zzm37a0)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
