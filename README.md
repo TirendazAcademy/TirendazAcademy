@@ -21,11 +21,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build an App with Streamlit Using PandasAI &amp; Ollama for Data Analysis](https://www.youtube.com/watch?v=-bt9grGmNvs)
 - [Build a QA Chatbot with Chainlit &amp; OpenAI using Python](https://www.youtube.com/watch?v=xx6XoVnbi88)
 - [Talk to Your Database with the Langchain SQL Agent](https://www.youtube.com/watch?v=JXiBzpw7dAE)
 - [LangChain Pandas DataFrame Agent for Data Analysis](https://www.youtube.com/watch?v=fh6C_4yz5-M)
 - [Build an App with LangChain AGENTs &amp; Streamlit for Data Analysis](https://www.youtube.com/watch?v=Nzh0XcO_XuM)
-- [Build a ChatGPT clone using LangChain, Ollama &amp; Streamlit](https://www.youtube.com/watch?v=npsQMJk7IH4)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
