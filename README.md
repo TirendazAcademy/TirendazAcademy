@@ -21,11 +21,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Llama-3 70B vs GPT-4 with OpenAI API &amp; Groq API](https://www.youtube.com/watch?v=9tveU5dxw2U)
 - [Build a Chatbot with Llama 3 8B &amp; 70B + Ollama + Streamlit Locally](https://www.youtube.com/watch?v=j6ghgVMS4Ng)
 - [Chat with Llama 3 with Hugging Face &amp; Build a local chatbot with Gradio](https://www.youtube.com/watch?v=VkHKWBh-Lbw)
 - [Build an App using Streamlit for data visualization with PandasAI](https://www.youtube.com/watch?v=j-FQnJvesH4)
 - [Build an App with Streamlit Using PandasAI &amp; Ollama for Data Analysis](https://www.youtube.com/watch?v=-bt9grGmNvs)
-- [Build a QA Chatbot with Chainlit &amp; OpenAI using Python](https://www.youtube.com/watch?v=xx6XoVnbi88)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
