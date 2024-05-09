@@ -6,14 +6,15 @@ Our aim is to create content on generative AI, data science, machine learning, a
 
 [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/TirendazAcademy)
 [![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/TirendazAcademy)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?&style=plastic&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
-[![](https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white)](https://www.tiktok.com/TirendazAcademy)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirendaz-academy/)
-[![](https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/TirendazAcademy)
-[![](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white)](https://www.reddit.com/user/TirendazAcademy)
+[![](https://img.shields.io/badge/Twitter-darkgreen?&style=plastic&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAcademy)
+[![](https://img.shields.io/badge/Instagram-32012F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/TirendazAcademy)
+[![](https://img.shields.io/badge/Kaggle-darkblue?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/TirendazAcademy)
+
 
 <!-- 
+[![](https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white)](https://www.tiktok.com/TirendazAcademy)
+[![](https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white)](https://www.reddit.com/user/TirendazAcademy)
 [![](https://img.shields.io/badge/Stackoverflow-F58025?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18967083/tirendaz-academy)
 [![](https://img.shields.io/badge/Quora-B92B27?&style=plastic&logo=Quora&logoColor=white)](https://www.quora.com/profile/Tirendaz-Academy)
 -->
