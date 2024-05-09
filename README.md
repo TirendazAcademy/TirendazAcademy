@@ -38,6 +38,8 @@ Our aim is to create content on generative AI, data science, machine learning, a
 - [PandasAI: Unlocking the Power of Data with Generative AI](https://levelup.gitconnected.com/pandasai-unlocking-the-power-of-data-with-generative-ai-3196cbccba34?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
+
 ### 🔗 Let's Connect! (Turkish)
 
 [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi)
@@ -47,28 +49,34 @@ Our aim is to create content on generative AI, data science, machine learning, a
 [![](https://img.shields.io/badge/TikTok-000000?style=plastic&logo=tiktok&logoColor=white)](https://www.tiktok.com/TirendazAkademi)
 [![](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=udemy&logoColor=white)](https://www.udemy.com/user/tirendaz-akademi-2)
 
+<!--
+
 ### 📌 Latest YouTube Videos (Turkish)
 
-<!-- YOUTUBETR:START -->
+<!-- YOUTUBETR:START 
 - [LangChain: Models | Python ile Üretken Yapay Zeka - 3](https://www.youtube.com/watch?v=1nplHeGQFBM)
 - [LangChain: Çalışma Ortamının Kurulumu | Python ile Üretken Yapay Zeka - 2](https://www.youtube.com/watch?v=T1ENn59Ow3I)
 - [Generative AI için LangChain | Python ile Üretken Yapay Zeka - 1](https://www.youtube.com/watch?v=xd8b8-nLIpg)
 - [ÜRETKEN YAPAY ZEKA&#39;nın &lpar;Generative AI&rpar; Gücünü Keşfet - 2](https://www.youtube.com/watch?v=Yw-UFYOBIZ0)
 - [Yeni Rüzgar ÜRETKEN YAPAY ZEKA  🔥 Generative AI Nedir Giriş](https://www.youtube.com/watch?v=l0OAbS6aSyw)
-<!-- YOUTUBETR:END -->
+<!-- YOUTUBETR:END 
+
+
 
 ### 🚀 Latest Blog Posts (Turkish)
-<!-- BLOG-POST-LIST-TR:START -->
+<!-- BLOG-POST-LIST-TR:START 
 - [HuggingFace  ile Doğal Dil İşlemeye Giriş](https://tirendazakademi.medium.com/huggingface-ile-do%C4%9Fal-dil-i%CC%87%C5%9Flemeye-giri%C5%9F-719717b4a25d?source=rss-e9566c9f34a3------2)
 - [2023 Veri Bilimi Trendleri ve Maaşları](https://tirendazakademi.medium.com/2023-veri-bilimi-maa%C5%9Flar%C4%B1-711fc01f0f09?source=rss-e9566c9f34a3------2)
 - [Keras ile Model Kaydetme &amp; Yükleme](https://tirendazakademi.medium.com/keras-ile-derin-%C3%B6%C4%9Frenme-modellerini-kaydetme-y%C3%BCkleme-2cdffded5bb3?source=rss-e9566c9f34a3------2)
 - [ChatGPT Günlük Hayatta Nasıl Kullanılır?](https://tirendazakademi.medium.com/chatgpt-nas%C4%B1l-kullan%C4%B1l%C4%B1r-68ed2971ff?source=rss-e9566c9f34a3------2)
 - [Keras Subclassing API ile Derin Öğrenme Modelleri Kurma](https://tirendazakademi.medium.com/keras-subclassing-api-ile-derin-%C3%B6%C4%9Frenme-modelleri-kurma-358255e4c2e9?source=rss-e9566c9f34a3------2)
-<!-- BLOG-POST-LIST-TR:END -->
+<!-- BLOG-POST-LIST-TR:END 
+
+-->
 
 ### 🤖 **Work Areas**
 
-[![](https://img.shields.io/badge/AI-31C6D4?style=plastic&logo=WhenIWork&logoColor=white)]()
+[![](https://img.shields.io/badge/GenAI-31C6D4?style=plastic&logo=WhenIWork&logoColor=white)]()
 [![](https://img.shields.io/badge/DataScience-9A1663?style=plastic&logo=WhenIWork&logoColor=white)]()
 [![](https://img.shields.io/badge/MachineLearning-DC5F00?style=plastic&logo=WhenIWork&logoColor=white)]()
 [![](https://img.shields.io/badge/DeepLearning-000000?style=plastic&logo=WhenIWork&logoColor=white)]()
