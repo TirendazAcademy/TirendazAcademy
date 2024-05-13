@@ -32,11 +32,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking LLMOps using LangChain](https://levelup.gitconnected.com/unlocking-llmops-using-langchain-9104853d993f?source=rss-b5cbb779640e------2)
 - [Building A Multilingual NER App with HuggingFace](https://pub.towardsai.net/building-a-multilingual-ner-app-with-huggingface-4fe0c6ad858f?source=rss-b5cbb779640e------2)
 - [Top 8 Programming Languages for Data Science](https://levelup.gitconnected.com/top-8-programming-languages-for-data-science-19bfad1d3eb8?source=rss-b5cbb779640e------2)
 - [Building a Text Classifier App with Hugging Face, BERT, and Comet](https://heartbeat.comet.ml/building-a-text-classifier-app-with-hugging-face-bert-and-comet-278e4cd0d0aa?source=rss-b5cbb779640e------2)
 - [Kickstart Your NLP Career with This Easy-to-Follow Roadmap](https://levelup.gitconnected.com/kickstart-your-nlp-career-with-this-easy-to-follow-roadmap-50f4b4372d27?source=rss-b5cbb779640e------2)
-- [PandasAI: Unlocking the Power of Data with Generative AI](https://levelup.gitconnected.com/pandasai-unlocking-the-power-of-data-with-generative-ai-3196cbccba34?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
