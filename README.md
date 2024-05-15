@@ -22,11 +22,11 @@ Our aim is to create content on generative AI, data science, machine learning, a
 ### 📌 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Getting Started with GPT-4o API for Beginners](https://www.youtube.com/watch?v=gpYCYGOQ3Co)
 - [MySQL database with PandasAI &amp; Ollama &amp; Streamlit](https://www.youtube.com/watch?v=o88et_D8qlg)
 - [How to Use PandasAI Agent with Llama 3 using Ollama?](https://www.youtube.com/watch?v=9nyiePIrtbE)
 - [How to Use Llama 3 with PandasAI and Ollama Locally](https://www.youtube.com/watch?v=_dDaNgBDoHY)
 - [AUTOMATE Your Blog Posts with CREWAI and OLLAMA](https://www.youtube.com/watch?v=KWrzVwrAlLc)
-- [Llama-3 70B vs GPT-4 with OpenAI API &amp; Groq API](https://www.youtube.com/watch?v=9tveU5dxw2U)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest Blog Posts
