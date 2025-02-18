@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-Founder of Tirendaz Academy. I love researching AI and developing AI apps. I aim to create content on generative AI, data science, machine learning, and deep learning, and make these areas understandable for everyone. I am a top writer in AI on Medium and a Kaggle expert. Don't forget to follow us on our social media accounts below 👇
+I love researching AI and developing AI apps. I aim to create content on generative AI, data science, machine learning, and deep learning, and make these areas understandable for everyone. I am a top writer in AI on Medium and a Kaggle expert. Don't forget to follow us on our social media accounts below 👇
 
 ### 🔗 Let's Connect!
 
