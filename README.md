@@ -19,7 +19,7 @@ My name is Evren. I'm an AI research engineer and founder of Tirendaz Academy. I
 [![](https://img.shields.io/badge/Quora-B92B27?&style=plastic&logo=Quora&logoColor=white)](https://www.quora.com/profile/Tirendaz-Academy)
 -->
 
-### 📌 Latest YouTube Videos
+### 📌 Latest My YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Getting Started with GPT-4o API for Beginners](https://www.youtube.com/watch?v=gpYCYGOQ3Co)
@@ -29,7 +29,7 @@ My name is Evren. I'm an AI research engineer and founder of Tirendaz Academy. I
 - [AUTOMATE Your Blog Posts with CREWAI and OLLAMA](https://www.youtube.com/watch?v=KWrzVwrAlLc)
 <!-- YOUTUBE:END -->
 
-### 🚀 Latest Blog Posts
+### 🚀 Latest My Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Unlocking LLMOps using LangChain](https://levelup.gitconnected.com/unlocking-llmops-using-langchain-9104853d993f?source=rss-b5cbb779640e------2)
