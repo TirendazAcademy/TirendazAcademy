@@ -92,7 +92,7 @@ I love researching AI and developing AI apps. I aim to create content on generat
 
 ### 📫 Contact Us
 
-tirendazcontact@gmail.com
+evrenosai@gmail.com
 
 <img src="https://komarev.com/ghpvc/?username=TirendazAcademy" alt="TirendazAcademy" /> 
 
