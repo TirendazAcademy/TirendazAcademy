@@ -22,11 +22,11 @@ I'm an AI research engineer, PhD, and founder of Tirendaz Academy. I love resear
 ### 📌 Latest My YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build LLM Apps with LangChain V0.3 using OpenAI | LangChain Tutorial](https://www.youtube.com/watch?v=GWVpA3PcpuU)
 - [Getting Started with GPT-4o API for Beginners](https://www.youtube.com/watch?v=gpYCYGOQ3Co)
 - [MySQL database with PandasAI &amp; Ollama &amp; Streamlit](https://www.youtube.com/watch?v=o88et_D8qlg)
 - [How to Use PandasAI Agent with Llama 3 using Ollama?](https://www.youtube.com/watch?v=9nyiePIrtbE)
 - [How to Use Llama 3 with PandasAI and Ollama Locally](https://www.youtube.com/watch?v=_dDaNgBDoHY)
-- [AUTOMATE Your Blog Posts with CREWAI and OLLAMA](https://www.youtube.com/watch?v=KWrzVwrAlLc)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest My Blog Posts
