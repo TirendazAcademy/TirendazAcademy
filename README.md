@@ -22,7 +22,7 @@ I'm an AI research engineer, PhD, and founder of Tirendaz Academy. I love resear
 ### 📌 Latest My YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Install and Run Google GEMMA-3: 100% FREE and Local!](https://www.youtube.com/watch?v=kQDwA1Z8f6k)
+- [Review GEMMA-3 - Install &amp; Run: 100% FREE and Local!](https://www.youtube.com/watch?v=kQDwA1Z8f6k)
 - [Build LLM Apps with LangChain V0.3 using OpenAI](https://www.youtube.com/watch?v=GWVpA3PcpuU)
 - [Getting Started with GPT-4o API for Beginners](https://www.youtube.com/watch?v=gpYCYGOQ3Co)
 - [MySQL database with PandasAI &amp; Ollama &amp; Streamlit](https://www.youtube.com/watch?v=o88et_D8qlg)
