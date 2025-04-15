@@ -23,7 +23,7 @@ I'm an AI research engineer, PhD, YouTuber, Blogger and founder. I love research
 
 <!-- YOUTUBE:START -->
 - [Train Your Computer Vision Models in Minutes with LightlyTrain](https://www.youtube.com/watch?v=CtvX6yjUA_k)
-- [Computer Vision Roadmap | How to be CV Engineer?](https://www.youtube.com/watch?v=ootGbyHohQs)
+- [Computer Vision Roadmap | How to be a CV Engineer?](https://www.youtube.com/watch?v=ootGbyHohQs)
 - [What is MCP? #ai #generativeai #llm](https://www.youtube.com/watch?v=XX4DcAcee9o)
 - [Build Your Own Server &amp; Client with LangChain MCP Adapters](https://www.youtube.com/watch?v=RjalY4oRPtc)
 - [Review GEMMA-3 - Install &amp; Run: 100% FREE and Local!](https://www.youtube.com/watch?v=kQDwA1Z8f6k)
