@@ -22,11 +22,11 @@ I'm an AI research engineer, PhD, YouTuber, Blogger and founder. I love research
 ### 📌 Latest My YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LightlyTrain: A New Framework for Computer Vision](https://www.youtube.com/watch?v=mRNe-thZrjo)
 - [Computer Vision Roadmap | How to be CV Engineer?](https://www.youtube.com/watch?v=ootGbyHohQs)
 - [What is MCP? #ai #generativeai #llm](https://www.youtube.com/watch?v=XX4DcAcee9o)
 - [Build Your Own Server &amp; Client with LangChain MCP Adapters](https://www.youtube.com/watch?v=RjalY4oRPtc)
 - [Review GEMMA-3 - Install &amp; Run: 100% FREE and Local!](https://www.youtube.com/watch?v=kQDwA1Z8f6k)
+- [Build LLM Apps with LangChain V0.3 using OpenAI](https://www.youtube.com/watch?v=GWVpA3PcpuU)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest My Blog Posts
