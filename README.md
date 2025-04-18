@@ -32,11 +32,11 @@ I'm an AI research engineer, PhD, YouTuber, Blogger and founder. I love research
 ### 🚀 Latest My Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LightlyTrain: A New Framework for Computer Vision](https://medium.com/data-science-collective/lightlytrain-a-new-framework-for-computer-vision-1b71d988789b?source=rss-b5cbb779640e------2)
 - [Building a Chat App with OpenAI, Comet ML, and Streamlit](https://pub.towardsai.net/building-a-chat-app-with-openai-comet-ml-and-streamlit-31672dcd9cc6?source=rss-b5cbb779640e------2)
 - [The Ultimate Computer Vision Roadmap for Beginners](https://levelup.gitconnected.com/the-ultimate-computer-vision-roadmap-for-beginners-c9e961038dee?source=rss-b5cbb779640e------2)
 - [MCP with LangChain](https://tirendazacademy.medium.com/mcp-with-langchain-cabd6199e0ac?source=rss-b5cbb779640e------2)
 - [Unlocking LLMOps using LangChain](https://levelup.gitconnected.com/unlocking-llmops-using-langchain-9104853d993f?source=rss-b5cbb779640e------2)
-- [Building A Multilingual NER App with HuggingFace](https://pub.towardsai.net/building-a-multilingual-ner-app-with-huggingface-4fe0c6ad858f?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
