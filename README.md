@@ -22,11 +22,11 @@ I'm an AI research engineer, PhD, YouTuber, Blogger and founder. I love research
 ### 📌 Latest My YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hugging Face Tutorial for Beginners | What is Hugging Face?](https://www.youtube.com/watch?v=r477gqo5Oy0)
 - [Build a Website Frontend &amp; a Game with GPT-5 using OpenAI API](https://www.youtube.com/watch?v=akXJHjBi56k)
 - [Chat with GPT-5 using OpenAI API](https://www.youtube.com/watch?v=Pf7uadx-tJQ)
 - [Train Your Computer Vision Models in Minutes with LightlyTrain](https://www.youtube.com/watch?v=CtvX6yjUA_k)
 - [Computer Vision Roadmap | How to be a CV Engineer?](https://www.youtube.com/watch?v=ootGbyHohQs)
-- [What is MCP? #ai #generativeai #llm](https://www.youtube.com/shorts/XX4DcAcee9o)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest My Blog Posts
