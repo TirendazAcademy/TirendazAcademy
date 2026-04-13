@@ -34,7 +34,7 @@ I'm an AI research engineer, founder and PhD. I love researching AI, developing 
 <!-- BLOG-POST-LIST:START -->
 - [Build an Agentic App with LangGraph, Ollama, and Streamlit](https://medium.com/data-science-collective/build-an-agentic-app-with-langgraph-ollama-and-streamlit-258f393bd572?source=rss-b5cbb779640e------2)
 - [Build Smarter AI Agents for Free Using LangGraph &amp; Ollama](https://medium.com/data-science-collective/build-smarter-ai-agents-for-free-using-langgraph-ollama-9096ad7952aa?source=rss-b5cbb779640e------2)
-- [Building SQL Agents with LangGraph &amp; Ollama: A Step-by-Step Guide](https://levelup.gitconnected.com/building-sql-agents-with-langgraph-ollama-a-step-by-step-guide-2948703eef63?source=rss-b5cbb779640e------2)
+- [Building SQL Agents with LangGraph &amp; Ollama: A Step-by-Step Guide](https://medium.com/gitconnected/building-sql-agents-with-langgraph-ollama-a-step-by-step-guide-2948703eef63?source=rss-b5cbb779640e------2)
 - [LightlyTrain: A New Framework for Computer Vision](https://medium.com/data-science-collective/lightlytrain-a-new-framework-for-computer-vision-1b71d988789b?source=rss-b5cbb779640e------2)
 - [Building a Chat App with OpenAI, Comet ML, and Streamlit](https://pub.towardsai.net/building-a-chat-app-with-openai-comet-ml-and-streamlit-31672dcd9cc6?source=rss-b5cbb779640e------2)
 <!-- BLOG-POST-LIST:END -->
