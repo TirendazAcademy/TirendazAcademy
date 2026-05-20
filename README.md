@@ -22,11 +22,11 @@ I'm an AI research engineer, founder and PhD. I love researching AI, developing 
 ### 📌 Latest My YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Excel Data Analysis with Claude AI | Full Tutorial](https://www.youtube.com/watch?v=EiFR6XuBMmk)
 - [The Hugging Face ecosystem  #ai #shorts](https://www.youtube.com/shorts/9VZEV9e_R1k)
 - [Hugging Face: The Swiss Army Knife for #ai  #shorts](https://www.youtube.com/shorts/3y92Fw60gNU)
 - [Hugging Face is the Github of AI #shorts #ai](https://www.youtube.com/shorts/o-VuKhx74rM)
 - [Hugging Face Tutorial for Beginners | What is Hugging Face?](https://www.youtube.com/watch?v=r477gqo5Oy0)
-- [Build a Website Frontend &amp; a Game with GPT-5 using OpenAI API](https://www.youtube.com/watch?v=akXJHjBi56k)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest My Blog Posts
