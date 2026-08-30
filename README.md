@@ -22,11 +22,11 @@ I'm an AI research engineer, founder and PhD. I love researching AI, developing 
 ### 📌 Latest My YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DeepSeek Harness Tutorial: Run Qwen 3.8, Tools, Plugins &amp; Ollama](https://www.youtube.com/watch?v=opOyUMrbI5Q)
 - [Meet Qwen 3.8 27B](https://www.youtube.com/shorts/HaU1EK0eMjs)
 - [Run Qwen 3.8 27B on Kaggle for FREE!](https://www.youtube.com/watch?v=pfEmElMGUWw)
 - [Excel Data Analysis with Claude AI &lpar;Step-by-Step Tutorial&rpar;](https://www.youtube.com/watch?v=EiFR6XuBMmk)
 - [The Hugging Face ecosystem  #ai #shorts](https://www.youtube.com/shorts/9VZEV9e_R1k)
-- [Hugging Face: The Swiss Army Knife for #ai  #shorts](https://www.youtube.com/shorts/3y92Fw60gNU)
 <!-- YOUTUBE:END -->
 
 ### 🚀 Latest My Blog Posts
