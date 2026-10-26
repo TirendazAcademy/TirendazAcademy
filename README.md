@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-I'm an AI research engineer, founder and PhD. I love researching AI, developing AI apps, and creating content on generative AI, computer vision, LLMs, agents, and tools making these areas understandable for everyone. I'm a top writer in AI on Medium and a Kaggle expert. Don't forget to follow us on our social media accounts below 👇
+I'm an AI research engineer, founder, databricks user group lead, and PhD. I love researching AI, developing AI apps, and creating content on generative AI, computer vision, LLMs, agents, and tools making these areas understandable for everyone. I'm a top writer in AI on Medium and a Kaggle expert. Don't forget to follow us on our social media accounts below 👇
 
 ### 🔗 Let's Connect!
 
